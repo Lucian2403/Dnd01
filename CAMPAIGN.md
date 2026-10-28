@@ -153,3 +153,11 @@ Because Hessa runs the bathhouse and knows its grooming materials, no Lucio roll
 New attributed observation from Hessa: Tarek's hair was light brown when she last saw him clearly. This does not prove he used the stain; another person may have spilled it. The stain's dampness suggests a recent spill, but exact age remains unresolved and no conclusion is given beyond physical evidence.
 Hessa now takes the clue seriously but remains watchful. She asks: "Was he meant to change his face?" This is a question, not knowledge that he did.
 Resume: Lucio and Hessa crouched near washstand. Chest closed, window signs found. Search permission unchanged. No player resources spent, gold26.
+
+## Tarek room investigation 4
+Lucio replies to Hessa: "I'll know when I'll see him." He stands, searches the room more broadly and asks: "Care to share some other stuff I need to know?"
+Intelligence (Investigation) check. DC14 set before roll for a small paper fragment wedged behind furniture. Actual d20=19; Investigation+2; total21, success. No Luck used.
+Lucio finds a torn strip of thick paper wedged between the back of the chest and the wall. Visible text, in ink: "...at the Salt Gate before sixth bell." A fragment of purple sealing wax remains attached, showing part of a bird's wing. It does not match the Third Court seal on Lucio's warrant, which uses dark red wax. Sender, date, full message, recipient and whether Tarek possessed it are unknown. Lucio has not taken the strip; it remains where found unless he acts.
+Hessa shares a concrete memory: the night before Tarek disappeared, a man in a white caravan coat asked for him. The man lacked two fingers on his left hand. He went upstairs, stayed about ten minutes, then left alone. Tarek remained in the room after the visitor left, according to Hessa. Hessa did not know the visitor's name.
+Hessa says: "The guards asked where Tarek went. I said I didn't know. They asked again, louder. It didn't improve my answer." Then: "If you want the chest opened, say so. I have no key."
+These are Hessa's statements and have not been independently verified. Salt Gate and sixth bell are clue text, not yet explained. Chest remains closed and its lock has not been tested. No items moved or taken. Resume with Lucio beside chest, paper strip visible behind it; Hessa near washstand. Resources unchanged.
