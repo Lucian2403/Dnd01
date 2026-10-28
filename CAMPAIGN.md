@@ -70,3 +70,8 @@ Lucio grew up alone in poverty among people the player describes as society's lo
 DM maps this background to the official 2024 Wayfarer mechanics: Insight and Stealth proficiency, Thieves' Tools proficiency, Lucky feat. Do not import the background's stock biography as personal canon.
 DM assigns rolled scores for the bow/shortsword build: STR12 DEX14 CON12 INT11 WIS13 CHA9, then Wayfarer +2 DEX and +1 WIS: STR12 DEX16 CON12 INT11 WIS14 CHA9. Player may change these creation choices before play.
 Remaining creation choices are still pending. Explain Ranger spellcasting before assuming the player wants personal magic. No spells have been cast, job accepted or advance collected.
+
+## Current resume point — opening scene
+Lucio confirmed he learned some magic in the past. No further details established. Starting sheet is now characters/player.md; it supersedes earlier pending-choice notes and carries clearly marked DM mechanical defaults editable before first relevant use.
+Scene: Veyr, afternoon, ground-floor public room of a caravan inn near the covered market. This location and time are new DM scene facts. Lucio meets the unnamed court clerk from the approved opening. The clerk places the warrant and five gold on the table; twenty gold total for bringing the missing court messenger back alive. No charge is listed. Clerk says: "The court wants him brought in." Then: "The rest when you return with him."
+Resume awaiting Lucio's response. No contract accepted, no coins taken, no check triggered. Clerk name, messenger identity and case details have not yet been revealed. No combat or time pressure established. Solo play starts without a compulsory companion. No dice rolled since ability generation.
