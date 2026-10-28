@@ -8,7 +8,10 @@ The player explicitly rejected The Pall and approved the earlier empire setting 
 Approved canon: Veyr stands beside six deep wells on a vast desert continent, with covered markets, bathhouses, temples and crowded districts. Burial grounds, abandoned forts and long caravan roads lie outside its walls. The emperor disappeared eleven years ago. Ministers govern in his name; provincial governors send less tax, army commanders demand overdue pay, and foreign merchants hire guards and buy influence. No Dune connection, moving city or orchard premise.
 Approved opening: a court clerk offers twenty gold to recover a missing messenger alive. No charge appears on the warrant. He places five gold on the table and says the rest is due on return with the messenger. This is the opening setup, not a job accepted or money received by the player. Character creation precedes mechanical play.
 Default previously proposed by DM: D&D 5e 2024. Player has not expressly selected an edition. Establish the rules and character before mechanical play.
-Pending: character name, class, species, ability scores, background, equipment, starting level and solo-party arrangement. Do not assign private memories or personal history without player approval.
+Player confirmed: Lucio, a slightly experienced Ranger. All ordinary people are human; no other playable peoples. Very rare strange entities may exist beyond the desert and beneath it. Lucio has never seen one. Do not confirm rumours as fact or assign him an encounter.
+DM sets starting level 2 to reflect modest experience, superseding the earlier level 1 default. Uses Human mechanics; no species-selection step.
+Ability scores genuinely rolled with Python secrets.randbelow(6)+1, four d6 dropping one lowest per group: [5,4,2,3]=12; [4,3,6,3]=13; [2,5,1,4]=11; [6,1,5,1]=12; [3,1,5,1]=9; [3,6,5,3]=14. Pool: 14,13,12,12,11,9. No rerolls; assignment and background increases pending.
+Pending: ability assignment, background, Human choices, skills, expertise, spells, fighting style, weapon mastery, equipment, HP and solo-party arrangement. Do not assign private memories or personal history without player approval.
 
 ## Running the game
 - Simple English throughout; the player is not a native English speaker.
