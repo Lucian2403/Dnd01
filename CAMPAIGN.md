@@ -145,3 +145,11 @@ Hessa responds: "Talk about the room. Not my body." She steps one pace into the 
 Intelligence (Investigation) check on wet mark, DC11 set before roll to identify liquid or source from remaining physical evidence. Actual d20=5; Investigation+2; total7, failure. No Luck used.
 Observable despite failure: mark is still damp, about the width of Lucio's hand, with a darker edge where liquid mixed with floor dust. No clear smell. Lucio cannot identify the liquid or its source from this examination. It could be water, diluted oil or another thin liquid; none is confirmed. No container or hidden item becomes visible. No property moved or damaged.
 Resume: Lucio crouched by washstand; Hessa one pace inside room, watching him. Chest closed; window signs already found. Resources unchanged.
+
+## Tarek room investigation 3
+Lucio gestures for Hessa to kneel beside him and says: "I think this is important, but don't quite understand what spot is this..."
+Hessa says "Move." She kneels without accepting physical guidance. She touches the edge of the mark with the cloth she carries, rubs it between two fingers and smells the cloth.
+Because Hessa runs the bathhouse and knows its grooming materials, no Lucio roll is required for her NPC knowledge. She identifies the substance as walnut stain mixed with oil, used to darken hair or beards. She says: "Walnut stain. Mixed with oil. Men use it to darken grey or fair hair." Then: "I don't give it to tenants. Someone brought this."
+New attributed observation from Hessa: Tarek's hair was light brown when she last saw him clearly. This does not prove he used the stain; another person may have spilled it. The stain's dampness suggests a recent spill, but exact age remains unresolved and no conclusion is given beyond physical evidence.
+Hessa now takes the clue seriously but remains watchful. She asks: "Was he meant to change his face?" This is a question, not knowledge that he did.
+Resume: Lucio and Hessa crouched near washstand. Chest closed, window signs found. Search permission unchanged. No player resources spent, gold26.
