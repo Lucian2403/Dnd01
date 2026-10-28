@@ -96,3 +96,9 @@ Oren says: "I'm not signing it." He stands and picks up his case. "South Well. T
 Lucio's casual look around reveals ordinary visible details, no check needed: two men eating by the doorway, a woman counting copper coins at the counter, an innkeeper behind it. Woman looks up when Lucio spits, then resumes counting. No stranger's motive, suspicion, allegiance or surveillance inferred. No hidden clue resolved.
 Oren says: "If you find him, send word to the Third Court. Don't bring him to my house." No home address provided.
 Resume at inn, Oren standing with case, Lucio holding documents and28GP. Bathhouse route supplied. Lucio has not left, no travel time elapsed, no order changed or forged, no dice or resources used. No forced intimidation/persuasion check for a withdrawn request.
+
+## Inn observation after Oren leaves
+Player remains at inn and looks around to see whether anyone overheard the conversation. Oren now leaves; Lucio is alone at his table, not alone in the public room.
+Check: Wisdom (Insight), to read interest in others' behaviour; DC13 for noticing the coin-counting woman's guarded interest, not detecting all listeners or reconstructing past speech. Actual Python secrets d20=11; Insight+4; total15, success. No resource spent. Hidden listening cannot be ruled out by this success.
+Observed: woman at counter has finished counting but keeps her hand on the coins. She watches the documents in Lucio's hands. When he looks directly at her she turns to innkeeper and asks for her change. Neither man by door shows a clear reaction; they remain with their meal.
+Player-facing conclusion: woman is paying attention to his business; whether she heard the whole conversation and why she is interested remain unknown. Do not identify her as a spy or confirm her intent. Resume: Lucio seated, woman at counter, Oren gone, warrant and description in Lucio's possession. Gold28, HP18, all spell slots unchanged.
