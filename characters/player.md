@@ -40,9 +40,9 @@ Use official Ranger equipment A and Wayfarer equipment A, without free substitut
 Studded leather; scimitar; shortsword; longbow;20 arrows;quiver;mistletoe focus.
 Explorer's Pack: backpack, bedroll,2 oil flasks,10 days rations,rope,tinderbox,10 torches,waterskin.
 Wayfarer:2 daggers,thieves' tools,dice set,bedroll,2 pouches,traveller's clothes.
-23 GP (Ranger7+Wayfarer16). Two bedrolls are intentional from packs; no free sale or removal. No horse, home, debts or restraints assigned.
+28 GP (starting23+5 GP advance for the messenger job). Two bedrolls are intentional from packs; no free sale or removal. No horse, home, debts or restraints assigned.
 Water fill and carried weight must be established before desert travel; a waterskin does not give unlimited water. Current pack weight comfortably below STR12 carrying limit180lb; verify exact load when it matters.
-No contract money collected.
+Collected5 GP advance. Remaining payment15 GP on returning messenger alive; not yet earned.
 
 ## Sources
 https://www.dndbeyond.com/sources/dnd/br-2024/character-classes
