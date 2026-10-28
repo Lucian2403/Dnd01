@@ -59,3 +59,7 @@ Separate established canon, NPC statements, player theories and unused proposals
 As records grow, create state/current.md, characters/player.md, characters/npcs.md, canon/world.md, sessions/ and rules/rulings.md. Read relevant records before resuming.
 Repository files can be read by their owner; placing DM secrets there does not make them private.
 Confirm saving only after successful writes. Do not claim background or automatic saves.
+
+## Character creation update
+Player chose a bow and a light, fast sword. Mechanical weapons: Longbow and Shortsword. No equipment pack or currency has yet been finalized.
+DM build plan: Archery fighting style (pending player changes). Proposed base score assignment, not yet finalized: STR 12, DEX 14, CON 12, INT 11, WIS 13, CHA 9. Background increases pending. Background and personal history must be chosen by player.
