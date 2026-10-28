@@ -49,3 +49,6 @@ https://www.dndbeyond.com/sources/dnd/br-2024/character-classes
 https://www.dndbeyond.com/sources/dnd/br-2024/character-origins
 https://www.dndbeyond.com/sources/dnd/br-2024/equipment
 https://www.dndbeyond.com/posts/1785-the-backgrounds-and-origin-feats-in-the-2024
+
+## Documents carried
+Tarek Venn apprehension warrant (Third Court seal; bring alive; no offence listed; no search authority) and description sheet, received from clerk Oren at opening meeting.
