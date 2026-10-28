@@ -115,3 +115,11 @@ Lucio slides two coins towards counter woman and says: "Miss Hessa? I'll need a 
 DM explicitly treats unspecified coins as2GP, the denomination in inventory; correct if player meant otherwise. Coins placed on counter, not yet accepted. Total owned28GP:26 carried,2 offered on counter; no expense finalized.
 Woman confirms identity as Hessa: "I'm Hessa." She looks at the two gold coins but does not touch them. Says: "You can use the baths. The rooms upstairs are private." She puts down the folded cloth. "Who are you looking for?"
 No Persuasion check yet: Hessa is willing to discuss the request and asks its target; no room-search permission sought by name or obtained. No bribery success assumed, target name not supplied, search not begun, bath fee not specified or deducted. Do not deduct the offered money a second time later. Resume Lucio before Hessa at counter, with offer pending. All other resources unchanged.
+
+## Bathhouse exchange 2
+Lucio points upstairs and says "...One room only." He deliberately does not name his target.
+Charisma (Persuasion) DC15 set before actual tool roll: d20=19, CHA-1, total18, success. Offered2GP and request for only one room considered in DC; no mechanical bonus invented. No Luck spent.
+Hessa infers he may be pursuing the same room as the guards, not his exact private intentions. Says: "The room the guards wanted, then." This is her inference, not Lucio's spoken confirmation.
+She takes2GP, puts them beneath counter, picks up a key and says: "One room. I stay with you. You leave his things where you find them." Opens stair door: "And keep your voice down. Two of the other rooms are occupied."
+Consent: supervised visual search of presumed messenger's room, no taking property; no general search power, no guaranteed cooperation beyond these terms. Hessa has not revealed why she accepts the money or lifted other restrictions. No target name spoken in this exchange. She has not identified Lucio or inspected his warrant.
+Resume at bottom of stairs; Hessa holds door, awaiting Lucio. Lucio has not moved upstairs yet. Gold26GP; accepted2GP is final expense, not pending. No bath taken. HP18/18; other resources unchanged.
