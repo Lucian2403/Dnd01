@@ -138,3 +138,10 @@ Intelligence (Investigation) check for the sand. DC12 set by DM for noticing its
 Findings: the sand is coarse and nearly white, unlike the fine brown street dust outside. More of it rests on the inner window sill. A narrow-soled partial heel print in the sand points into the room. Fresh scrape marks cross the wooden shutter latch. These signs support that someone came through the window recently, but do not establish identity, exact time or whether Tarek knew. From kneeling position Lucio can see the gap under the washstand; the dark wet mark remains unexamined.
 Hessa notices where Lucio is looking and says: "That window was shut when I came in yesterday morning." Her statement is not independently verified. She remains at doorway and has not stopped the inspection.
 Resume: Lucio kneeling near window-side sand, Hessa at doorway, chest closed, wet mark under washstand. Gold26, HP18, all limited resources unchanged.
+
+## Tarek room investigation 2
+Lucio says to Hessa: "Yeaah... shut... like your big cleavage... right..." and begins examining the wet mark beneath the washstand.
+Hessa responds: "Talk about the room. Not my body." She steps one pace into the room. "Say it again and you leave." She does not end the agreed search yet.
+Intelligence (Investigation) check on wet mark, DC11 set before roll to identify liquid or source from remaining physical evidence. Actual d20=5; Investigation+2; total7, failure. No Luck used.
+Observable despite failure: mark is still damp, about the width of Lucio's hand, with a darker edge where liquid mixed with floor dust. No clear smell. Lucio cannot identify the liquid or its source from this examination. It could be water, diluted oil or another thin liquid; none is confirmed. No container or hidden item becomes visible. No property moved or damaged.
+Resume: Lucio crouched by washstand; Hessa one pace inside room, watching him. Chest closed; window signs already found. Resources unchanged.
