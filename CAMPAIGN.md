@@ -4,8 +4,9 @@
 Restart requested on 2026-10-29. No gameplay has taken place. No character sheet, equipment, money, debts, rolls or consequences have been established.
 Player: a bounty hunter struggling to find work. No Chosen One, secret destiny, compulsory prophecy or assumed special ancestry.
 Desired campaign: espionage and power struggles in a fixed city, drawing on the political premise of The Pilgrimage of the Empty Throne. No moving city/castle and no orchard premise.
-The latest writing instructions specify The Pall, a gritty nineteenth-century-inspired industrial world. Use that period and tone rather than the earlier late-antique proposal.
-Veyr, the vanished emperor and the missing messenger were earlier DM proposals, not played events or confirmed canon. The player requested a fresh beginning.
+The player explicitly rejected The Pall and approved the earlier empire setting on a vast desert continent. The Pall-specific industrial period constraint below is preserved as originally supplied but superseded for this campaign; all general writing requirements still apply.
+Approved canon: Veyr stands beside six deep wells on a vast desert continent, with covered markets, bathhouses, temples and crowded districts. Burial grounds, abandoned forts and long caravan roads lie outside its walls. The emperor disappeared eleven years ago. Ministers govern in his name; provincial governors send less tax, army commanders demand overdue pay, and foreign merchants hire guards and buy influence. No Dune connection, moving city or orchard premise.
+Approved opening: a court clerk offers twenty gold to recover a missing messenger alive. No charge appears on the warrant. He places five gold on the table and says the rest is due on return with the messenger. This is the opening setup, not a job accepted or money received by the player. Character creation precedes mechanical play.
 Default previously proposed by DM: D&D 5e 2024. Player has not expressly selected an edition. Establish the rules and character before mechanical play.
 Pending: character name, class, species, ability scores, background, equipment, starting level and solo-party arrangement. Do not assign private memories or personal history without player approval.
 
