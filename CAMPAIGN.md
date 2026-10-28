@@ -89,3 +89,10 @@ Lucio takes warrant and description sheet. Player says: "I need to go into his r
 Oren replies: "I can ask for a search order. I can't sign one." He taps the place on the warrant where the judge signed. "Judge Saren is hearing petitions until sunset. Copper Street. I'll take you there and put the request before her." He places the leather case on his knees. "Or ask Hessa yourself. She might let one hired man upstairs. She wouldn't let six guards do it."
 New information is attributed to Oren: judge named Saren, petitions until sunset; six guards were refused entry. Hessa's consent is possible, not guaranteed. No order issued, roll made, travel begun or extra fee paid. Oren's offer to introduce search request is voluntary ordinary cooperation; Lucio's statement does not automatically trigger a Persuasion roll. Do not make his stated belief that room access is the only route objectively true.
 Resume awaiting Lucio's decision or further dialogue at the inn. Afternoon; no exact clock time established.
+
+## Opening scene, exchange 3
+Lucio asks Oren to sign the warrant for a search and offers to burn it afterwards, then withdraws the demand and says he will first ask Hessa nicely. He looks around and spits. No departure explicitly taken.
+Oren says: "I'm not signing it." He stands and picks up his case. "South Well. Through the covered market, then left at the well. The bathhouse has blue tiles around the entrance."
+Lucio's casual look around reveals ordinary visible details, no check needed: two men eating by the doorway, a woman counting copper coins at the counter, an innkeeper behind it. Woman looks up when Lucio spits, then resumes counting. No stranger's motive, suspicion, allegiance or surveillance inferred. No hidden clue resolved.
+Oren says: "If you find him, send word to the Third Court. Don't bring him to my house." No home address provided.
+Resume at inn, Oren standing with case, Lucio holding documents and28GP. Bathhouse route supplied. Lucio has not left, no travel time elapsed, no order changed or forged, no dice or resources used. No forced intimidation/persuasion check for a withdrawn request.
