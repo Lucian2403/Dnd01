@@ -63,3 +63,10 @@ Confirm saving only after successful writes. Do not claim background or automati
 ## Character creation update
 Player chose a bow and a light, fast sword. Mechanical weapons: Longbow and Shortsword. No equipment pack or currency has yet been finalized.
 DM build plan: Archery fighting style (pending player changes). Proposed base score assignment, not yet finalized: STR 12, DEX 14, CON 12, INT 11, WIS 13, CHA 9. Background increases pending. Background and personal history must be chosen by player.
+
+## Confirmed personal background
+Player: "I was raised alone in poverty along the scum of the earth. That's my survivng. I don't know the good life."
+Lucio grew up alone in poverty among people the player describes as society's lowest. Do not infer orphanhood, dead parents, criminal acts, abuse, particular friends or enemies. He does not know a comfortable life.
+DM maps this background to the official 2024 Wayfarer mechanics: Insight and Stealth proficiency, Thieves' Tools proficiency, Lucky feat. Do not import the background's stock biography as personal canon.
+DM assigns rolled scores for the bow/shortsword build: STR12 DEX14 CON12 INT11 WIS13 CHA9, then Wayfarer +2 DEX and +1 WIS: STR12 DEX16 CON12 INT11 WIS14 CHA9. Player may change these creation choices before play.
+Remaining creation choices are still pending. Explain Ranger spellcasting before assuming the player wants personal magic. No spells have been cast, job accepted or advance collected.
