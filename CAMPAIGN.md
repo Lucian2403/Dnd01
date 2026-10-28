@@ -169,3 +169,12 @@ Mechanical ruling set before roll: sword pommel used as improvised melee weapon 
 Hessa steps back into passage and says: "Put it away. You paid to look, not break his chest." She calls downstairs: "Nadim. Upstairs." A man's voice answers: "Coming." Hessa then says: "Put the paper back and leave."
 No initiative yet: nobody has attacked Lucio, and Lucio has a brief chance to comply, speak, continue striking or take another action. Continuing a violent action while Hessa or Nadim tries to stop him may trigger initiative. Hessa does not physically block him yet. Chest contents remain unknown.
 Resume: Lucio beside chest, shortsword drawn; damaged lock2HP; Hessa in passage; Nadim approaching from below. Paper in Lucio's possession. Gold26, HP18, all spells and limited resources unchanged.
+
+## Combat begins in upper bathhouse passage
+Lucio attempts to grab Hessa, move her out of the room, close the door and barricade it with a nearby chair. Because Hessa is unwilling, the grab is hostile and initiative begins before the sequence. The entire multi-step sequence cannot occur as one action.
+Initiative actual rolls: Hessa d20=18 +0=18; Lucio d20=6 +5 Alert=11; Nadim d20=8 +1=9. Order Hessa, Lucio, Nadim.
+Round1 Hessa: sees Lucio reach toward her while his shortsword is drawn. She backs toward the stair landing and takes Dodge, saying: "Don't touch me."
+Round1 Lucio: moves after her and makes an Unarmed Strike to Grapple. Escape DC is 8+PB2+STR1=11. Because of Dodge, Hessa has advantage on the Dexterity save. Actual d20s=13 and17, +0; result17, success. Lucio fails to grapple her. He cannot move her, close the room door or barricade it. His Action is spent.
+Round1 Nadim: reaches upper passage carrying a thick wooden staff. He moves between Lucio and Hessa and Readies a staff attack triggered if Lucio advances on or attacks Hessa before Nadim's next turn. He says: "Put the sword down."
+Round2 Hessa: retreats down the stairs behind Nadim without entering Lucio's reach and calls to the lower room: "Send for the watch." Her Dodge from round1 ends at start of this turn. She is no longer visible from Lucio's current position.
+Resume on Lucio's Round2 turn. Positions: Lucio in passage near Tarek's open room; Nadim about5ft ahead, blocking path to stairs, staff raised; Hessa downstairs. Tarek's room door remains open; chair remains inside; damaged chest lock2HP. Nadim's readied attack remains until his turn after Lucio. Lucio's shortsword is drawn. No damage or resources expended; HP18, gold26. Paper strip remains with Lucio.
