@@ -40,15 +40,14 @@ Use official Ranger equipment A and Wayfarer equipment A, without free substitut
 Studded leather; scimitar; shortsword; longbow;19 arrows;quiver;mistletoe focus.
 Explorer's Pack: backpack, bedroll,2 oil flasks,10 days rations,rope,tinderbox,10 torches,waterskin.
 Wayfarer:2 daggers,thieves' tools,dice set,bedroll,2 pouches,traveller's clothes.
-24 GP, 8 SP, 5 CP (starting23 GP+5 GP advance-2 GP Hessa-1 GP distraction-5 CP headcloth-1 SP gratitude to Mara; change received from 1 GP). Two bedrolls are intentional from packs; no free sale or removal. No horse, home, debts or restraints assigned.
+39 GP, 8 SP, 5 CP (starting23 GP+5 GP advance+15 GP balance-2 GP Hessa-1 GP distraction-5 CP headcloth-1 SP gratitude to Mara; change received from 1 GP). Two bedrolls are intentional from packs; no free sale or removal. No horse, home, debts or restraints assigned.
 Water fill and carried weight must be established before desert travel; a waterskin does not give unlimited water. Current pack weight comfortably below STR12 carrying limit180lb; verify exact load when it matters.
-Collected5 GP advance. Remaining payment15 GP on returning messenger alive; not yet earned.
+Collected5 GP advance and15 GP balance after delivery, total20 GP. Contract paid in full.
 
 ## Current scene
-Day1 after sunset, Third Court side entrance Copper Street. Lucio declined hearing Tarek's statement, requested written confirmation of delivery for his employer, and declined to provide name. Saren agreed to confirm delivery without name, but said 'I can confirm you brought him. Your fee is between you and whoever hired you.'
-Guard brought lamp and writing materials. Saren wrote a receipt naming Tarek Venn, identifying returned warrant, and confirming bearer brought him alive to Third Court and he appeared personally before her. Signed and applied court seal; no allegation of guilt and no payment amount. She handed receipt to Lucio. Original warrant retained by Saren; description sheet remains Lucio's.
-Tarek reminded Lucio 'You said you'd stay until I spoke to her.' Saren answered 'He has. I'm hearing you now.' Tarek looked from her to Lucio then stepped inside voluntarily. Saren told Lucio 'You can go.' Lucio has not yet departed. Tarek about to be heard in records room without Oren, as Saren agreed; testimony not heard by Lucio and must not be invented as player knowledge. Oren location unknown, remaining15GP unpaid. Nobody here has been told Lucio's name.
-Resources HP18/18, slots1/2,24GP8SP5CP,19 arrows,bow stowed,headcloth worn,Lucky2/2,free Hunter's Mark2/2,no concentration. One Short Rest completed; no Hit Dice spent. Bathhouse pursuit unresolved; torn clue returned behind damaged locked chest.
+Day1 after sunset, Third Court side entrance Copper Street. Lucio declined hearing and obtained Saren's signed/sealed delivery receipt, original warrant retained by Saren. He thanked judge, admonished Tarek to be humble; Tarek replied 'You don't know why I left' and 'You've got what you came for.' Saren led him to records room without Oren; no testimony heard by Lucio.
+Lucio asked guard for Oren. Guard called upstairs; Oren came down with leather case and asked 'Where's Venn?' Lucio silently handed him receipt. Oren read it twice, looked up passage, said 'With the judge, then.' Opened case, counted15 GP into Lucio's hand, said 'Five before. Fifteen now.' Kept receipt in case and shut it. Latest line 'Anything else?' No reply yet. Lucio outside with guard and Oren; no departure or new task. Reward paid in full, no additional money or item granted. Receipt now Oren's possession. Description sheet still Lucio's.
+Resources HP18/18, spell slots1/2,39GP8SP5CP,19 arrows,bow stowed,headcloth worn,Lucky2/2,free Hunter's Mark2/2,no concentration. One Short Rest completed,no Hit Dice spent. Nobody at court told Lucio's name. Bathhouse damage/assault/pursuit unresolved; clue returned behind damaged locked chest. Mara does not know Lucio's name; Samir/Bashir at salt yard.
 
 ## Sources
 https://www.dndbeyond.com/sources/dnd/br-2024/character-classes
@@ -57,5 +56,5 @@ https://www.dndbeyond.com/sources/dnd/br-2024/equipment
 https://www.dndbeyond.com/posts/1785-the-backgrounds-and-origin-feats-in-the-2024
 
 ## Documents carried
-Tarek Venn description sheet retained. Original apprehension warrant returned to Judge Saren at Third Court. Signed, court-sealed delivery receipt now carried: bearer brought Tarek Venn alive under the identified warrant and he appeared personally before Saren; no fee or guilt finding stated.
+Tarek Venn description sheet retained. Original apprehension warrant returned to Judge Saren at Third Court. Signed, court-sealed delivery receipt surrendered to Oren after payment: bearer brought Tarek Venn alive under the identified warrant and he appeared personally before Saren; no fee or guilt finding stated.
 Torn paper strip was returned behind Tarek's chest before Lucio escaped through the window. Lucio remembers the visible text “...at the Salt Gate before sixth bell” and the purple wax fragment showing part of a bird's wing.
