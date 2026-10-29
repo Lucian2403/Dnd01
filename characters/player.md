@@ -45,7 +45,8 @@ Water fill and carried weight must be established before desert travel; a waters
 Collected5 GP advance. Remaining payment15 GP on returning messenger alive; not yet earned.
 
 ## Current scene
-Lucio paid the basket stallholder 1 GP for a loud distraction. Stallholder struck a wooden measure against the counter and loudly advertised baskets. Lucio moved behind the adjoining stall and attempted Hide: d20 9 + Stealth5 =14, below DC15; not Hidden. His quiver caught the stall covering and arrows rattled. An unidentified approaching voice said 'Behind that stall.' Nobody has reached or seized him. Narrow passage continues ahead between stalls. HP12/18, GP25, arrows19, bow in hand; spells and Luck Points unspent. This turn's action used to Hide. Torn paper remains behind Tarek's damaged but closed chest.
+Correction to prior market narration: Lucio never crouched behind a stall, snagged his quiver, or heard 'Behind that stall.' He stowed his bow and kept walking among shoppers after paying the stallholder 1 GP for noise. Previous Stealth14 failed to lose the unidentified follower, who called 'He went that way.'
+Latest: Lucio rounded another market corner, breaking sight behind passing shoppers, then entered the first open doorway, a cloth repair shop. Stealth d20 14+5=19, DC15 success; Hidden from street pursuit, detection DC19. He stands inside beside hanging cloth, out of street view. A woman seated at a worktable has seen him; she asked 'Are you buying something?' Two sets of footsteps passed outside without stopping; pursuit not confirmed ended. Door remains open; no new action taken by Lucio. HP12/18, GP25, arrows19, bow stowed, all spells and Luck Points unspent. Paper returned to Tarek's room; chest still damaged and closed.
 
 ## Sources
 https://www.dndbeyond.com/sources/dnd/br-2024/character-classes
