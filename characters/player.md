@@ -24,11 +24,11 @@ Passive Perception14. Other untrained skills use their ability modifiers.
 Fighting Style: Archery.
 Human feat: Alert (initiative proficiency bonus; initiative swap only with willing ally under feat rules).
 Wayfarer feat: Lucky, 2/2 Luck Points; refresh Long Rest. Use current 2024 feat rules; ask before spending optional resources.
-Human Resourceful: Heroic Inspiration on completing Long Rest. Initial Inspiration not awarded; no rest yet played.
+Human Resourceful: Heroic Inspiration on completing Long Rest. Heroic Inspiration1, gained from completed Long Rest at Clay Cup. Player chooses when to spend it; reroll one die immediately after rolling and use new result.
 Setting language convention: all languages are human languages; names replace fantasy ancestry labels without extra mechanical benefits. Common plus Veyran court speech and Western Coast speech (origin); Southern caravan speech and Eastern basin speech (Deft Explorer). No history inferred from languages.
 
 ## Magic
-Spellcasting WIS; save DC12, spell attack+4. Level1 spell slots1/2.
+Spellcasting WIS; save DC12, spell attack+4. Level1 spell slots2/2.
 Prepared: Cure Wounds, Ensnaring Strike, Speak with Animals.
 Hunter's Mark always prepared separately; Favored Enemy gives2/2 slot-free casts per Long Rest.
 No cantrips. Ranger can replace one prepared spell after Long Rest. Ritual casting applies to prepared ritual spells under 2024 rules.
@@ -45,8 +45,8 @@ Water fill and carried weight must be established before desert travel; a waters
 Collected5 GP advance and15 GP balance after delivery, total20 GP. Contract paid in full.
 
 ## Current scene
-Day1 evening at The Clay Cup inn near Copper Street. Lucio ordered room and stew/bread brought upstairs, tossed6SP. Cost5SP room+3CP meal=53CP, change7CP returned. Current money39GP3SP2CP. Rented room3 for night, received wooden-tagged key. Innkeeper said 'Upstairs. Third door. I'll bring it.' Lucio went upstairs and entered room3 as ordinary completion of rental. Narrow bed with folded blanket, stool, basin, closed shutters; functional interior door bolt. Innkeeper brought stew and bread a few minutes later, set on stool, departed closing door. Lucio has not yet eaten, bolted door, removed equipment or begun rest. No new guest/NPC encounter. All possessions remain with Lucio; room key3 temporarily carried.
-HP18/18, spell slots1/2,19 arrows,bow stowed,headcloth worn,Lucky2/2,free Hunter's Mark2/2,no concentration. One Short Rest today,no Hit Dice spent; no Long Rest. Bounty fully paid. Oren invited return after second bell tomorrow; no work guaranteed. Tarek with Saren; testimony unknown. Bathhouse consequences unresolved.
+Day2 before dawn after eight-hour undisturbed Long Rest in Clay Cup room3. Lucio ate all purchased stew and bread, prepared for sleep; door bolted for night, armour removed for sleep, equipment placed within reach. No personal thoughts or private motives invented. Rest completed, no encounter. HP18/18, spell slots2/2, Lucky2/2, free Hunter's Mark2/2, Hit Dice2d10, Heroic Inspiration1 from Human Resourceful, no concentration. Money39GP3SP2CP, arrows19, room3 key, headcloth and all other equipment retained. Armour currently off (unarmoured AC13); studded leather available to don, ordinary AC15 when worn. No breakfast purchased, rations untouched.
+Known next-day options only: Oren invited return to Third Court Copper Street side entrance after second bell (~08:00) to ask about notices, no job guaranteed; seek other paid work/gear in market; unresolved Hessa/Nadim bathhouse damage/assault and possible watch report. Tarek delivered to Saren; hearing declined, testimony unknown. Samir helped contact him. Mara cloth shop known and name withheld. No new hook, reward, level advancement or legal absolution added. Current time before dawn, no automatic departure or route chosen.
 
 ## Sources
 https://www.dndbeyond.com/sources/dnd/br-2024/character-classes
