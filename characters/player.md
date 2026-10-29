@@ -40,13 +40,12 @@ Use official Ranger equipment A and Wayfarer equipment A, without free substitut
 Studded leather; scimitar; shortsword; longbow;19 arrows;quiver;mistletoe focus.
 Explorer's Pack: backpack, bedroll,2 oil flasks,10 days rations,rope,tinderbox,10 torches,waterskin.
 Wayfarer:2 daggers,thieves' tools,dice set,bedroll,2 pouches,traveller's clothes.
-25 GP (starting23+5 GP job advance-2 GP accepted by Hessa for supervised access to one room-1 GP paid to basket stallholder for a distraction). Two bedrolls are intentional from packs; no free sale or removal. No horse, home, debts or restraints assigned.
+24 GP, 9 SP, 5 CP (starting23 GP+5 GP advance-2 GP Hessa-1 GP distraction-5 CP headcloth; change received from 1 GP). Two bedrolls are intentional from packs; no free sale or removal. No horse, home, debts or restraints assigned.
 Water fill and carried weight must be established before desert travel; a waterskin does not give unlimited water. Current pack weight comfortably below STR12 carrying limit180lb; verify exact load when it matters.
 Collected5 GP advance. Remaining payment15 GP on returning messenger alive; not yet earned.
 
 ## Current scene
-Correction to prior market narration: Lucio never crouched behind a stall, snagged his quiver, or heard 'Behind that stall.' He stowed his bow and kept walking among shoppers after paying the stallholder 1 GP for noise. Previous Stealth14 failed to lose the unidentified follower, who called 'He went that way.'
-Latest: Lucio rounded another market corner, breaking sight behind passing shoppers, then entered the first open doorway, a cloth repair shop. Stealth d20 14+5=19, DC15 success; Hidden from street pursuit, detection DC19. He stands inside beside hanging cloth, out of street view. A woman seated at a worktable has seen him; she asked 'Are you buying something?' Two sets of footsteps passed outside without stopping; pursuit not confirmed ended. Door remains open; no new action taken by Lucio. HP12/18, GP25, arrows19, bow stowed, all spells and Luck Points unspent. Paper returned to Tarek's room; chest still damaged and closed.
+Lucio is inside a cloth repair shop off the covered market, out of street view behind hanging cloth. He evaded the unidentified follower with Stealth19. Two sets of footsteps passed the shop without stopping; pursuit status unknown. Shopkeeper has seen him and quoted headcloth5 CP, used shirt2 SP, brown used robe1 GP. Lucio bought a headcloth for5 CP and requested help wrapping it snugly. Shopkeeper fitted a plain light-brown headcloth covering his hair, tucked the end behind his ear, and left his face visible. The headcloth is equipment, grants no automatic disguise or Stealth bonus. Bow stowed; HP12/18; money24 GP9 SP5 CP; arrows19; spells and Luck Points unspent. Door remains open. Paper returned to Tarek's room, chest damaged and closed.
 
 ## Sources
 https://www.dndbeyond.com/sources/dnd/br-2024/character-classes
