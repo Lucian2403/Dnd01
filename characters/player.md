@@ -45,8 +45,10 @@ Water fill and carried weight must be established before desert travel; a waters
 Collected5 GP advance. Remaining payment15 GP on returning messenger alive; not yet earned.
 
 ## Current scene
-Day1 after sunset, outside Third Court side entrance Copper Street. Lucio confirmed he carries order and handed it to Judge Saren. She holds warrant, examined seal/signature using glasses, acknowledged 'Yes. That's mine.' Order thus acknowledged by signing judge, no finding of guilt or reason yet. She asked guard if records room empty; guard said yes. Tarek requested 'I want to speak without Oren here.' Saren replied 'You can.' She instructed guard 'Bring a lamp. Stay outside the room.' Guard went inside. Saren said to Lucio 'You brought him. You may hear what he has to say.' Asked 'Your name?' Lucio/Tarek remain at threshold, not entered automatically. Saren has not learned Lucio's name, bathhouse events, reward or prior lies. No money paid, custody alone not surrendered, no spells/checks.
-Current resources HP18/18, slots1/2,24GP8SP5CP,19 arrows,bow stowed,headcloth worn,Lucky2/2,free Hunter's Mark2/2,no concentration; one completed Short Rest, no Hit Dice spent. Warrant now Saren's hands, description sheet Lucio's. Tarek escorted voluntarily conditional speaking to judge, not left alone with Oren; Saren now agreed to Oren's absence. Torn Salt Gate clue remains behind Tarek's damaged locked chest. Oren location unknown. Bathhouse pursuit unresolved. Mara not told name. Samir and Bashir stayed at salt yard.
+Day1 after sunset, Third Court side entrance Copper Street. Lucio declined hearing Tarek's statement, requested written confirmation of delivery for his employer, and declined to provide name. Saren agreed to confirm delivery without name, but said 'I can confirm you brought him. Your fee is between you and whoever hired you.'
+Guard brought lamp and writing materials. Saren wrote a receipt naming Tarek Venn, identifying returned warrant, and confirming bearer brought him alive to Third Court and he appeared personally before her. Signed and applied court seal; no allegation of guilt and no payment amount. She handed receipt to Lucio. Original warrant retained by Saren; description sheet remains Lucio's.
+Tarek reminded Lucio 'You said you'd stay until I spoke to her.' Saren answered 'He has. I'm hearing you now.' Tarek looked from her to Lucio then stepped inside voluntarily. Saren told Lucio 'You can go.' Lucio has not yet departed. Tarek about to be heard in records room without Oren, as Saren agreed; testimony not heard by Lucio and must not be invented as player knowledge. Oren location unknown, remaining15GP unpaid. Nobody here has been told Lucio's name.
+Resources HP18/18, slots1/2,24GP8SP5CP,19 arrows,bow stowed,headcloth worn,Lucky2/2,free Hunter's Mark2/2,no concentration. One Short Rest completed; no Hit Dice spent. Bathhouse pursuit unresolved; torn clue returned behind damaged locked chest.
 
 ## Sources
 https://www.dndbeyond.com/sources/dnd/br-2024/character-classes
@@ -55,5 +57,5 @@ https://www.dndbeyond.com/sources/dnd/br-2024/equipment
 https://www.dndbeyond.com/posts/1785-the-backgrounds-and-origin-feats-in-the-2024
 
 ## Documents carried
-Tarek Venn apprehension warrant (Third Court seal; bring alive; no offence listed; no search authority) and description sheet, received from clerk Oren at opening meeting.
+Tarek Venn description sheet retained. Original apprehension warrant returned to Judge Saren at Third Court. Signed, court-sealed delivery receipt now carried: bearer brought Tarek Venn alive under the identified warrant and he appeared personally before Saren; no fee or guilt finding stated.
 Torn paper strip was returned behind Tarek's chest before Lucio escaped through the window. Lucio remembers the visible text “...at the Salt Gate before sixth bell” and the purple wax fragment showing part of a bird's wing.
