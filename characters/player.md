@@ -6,7 +6,7 @@ Remaining mechanical selections below are DM defaults to get play started, edita
 ## Scores and combat
 STR12 (+1), DEX16 (+3), CON12 (+1), INT11 (+0), WIS14 (+2), CHA9 (-1).
 Rolled base 12,14,12,11,13,9; Wayfarer +2 DEX +1 WIS.
-HP18/18: first level 10+1; second uses fixed 6+1. Hit Dice 2d10, unspent.
+HP12/18: first level 10+1; second uses fixed 6+1. Hit Dice 2d10, unspent.
 AC15 (studded leather 12+3). Speed30 ft. Medium. Proficiency+2.
 Initiative+5 (DEX+3, Alert+2). Saves STR+3 DEX+5 CON+1 INT+0 WIS+2 CHA-1.
 Longbow +7 attack (DEX3, proficiency2, Archery2), 1d8+3 piercing; range150/600ft; two hands, ammunition, Heavy; mastery Slow.
@@ -37,12 +37,15 @@ Druidic focus: starting sprig of mistletoe. Its ownership is equipment, not an i
 
 ## Starting equipment and money
 Use official Ranger equipment A and Wayfarer equipment A, without free substitutions.
-Studded leather; scimitar; shortsword; longbow;20 arrows;quiver;mistletoe focus.
+Studded leather; scimitar; shortsword; longbow;19 arrows;quiver;mistletoe focus.
 Explorer's Pack: backpack, bedroll,2 oil flasks,10 days rations,rope,tinderbox,10 torches,waterskin.
 Wayfarer:2 daggers,thieves' tools,dice set,bedroll,2 pouches,traveller's clothes.
 26 GP (starting23+5 GP job advance-2 GP accepted by Hessa for supervised access to one room). Two bedrolls are intentional from packs; no free sale or removal. No horse, home, debts or restraints assigned.
 Water fill and carried weight must be established before desert travel; a waterskin does not give unlimited water. Current pack weight comfortably below STR12 carrying limit180lb; verify exact load when it matters.
 Collected5 GP advance. Remaining payment15 GP on returning messenger alive; not yet earned.
+
+## Current scene
+Outside the South Well bathhouse after jumping from Tarek's second-floor window. Lucio is prone after the fall. Nadim struck Lucio during the escape. Hessa is downstairs seeking market guards. The chest remains upstairs with its lock damaged but closed.
 
 ## Sources
 https://www.dndbeyond.com/sources/dnd/br-2024/character-classes
@@ -52,4 +55,4 @@ https://www.dndbeyond.com/posts/1785-the-backgrounds-and-origin-feats-in-the-202
 
 ## Documents carried
 Tarek Venn apprehension warrant (Third Court seal; bring alive; no offence listed; no search authority) and description sheet, received from clerk Oren at opening meeting.
-Torn paper strip taken from Tarek's room: visible text “...at the Salt Gate before sixth bell”; fragment of purple wax seal showing part of a bird's wing.
+Torn paper strip was returned behind Tarek's chest before Lucio escaped through the window. Lucio remembers the visible text “...at the Salt Gate before sixth bell” and the purple wax fragment showing part of a bird's wing.
