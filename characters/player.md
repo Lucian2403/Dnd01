@@ -40,12 +40,12 @@ Use official Ranger equipment A and Wayfarer equipment A, without free substitut
 Studded leather; scimitar; shortsword; longbow;19 arrows;quiver;mistletoe focus.
 Explorer's Pack: backpack, bedroll,2 oil flasks,10 days rations,rope,tinderbox,10 torches,waterskin.
 Wayfarer:2 daggers,thieves' tools,dice set,bedroll,2 pouches,traveller's clothes.
-26 GP (starting23+5 GP job advance-2 GP accepted by Hessa for supervised access to one room). Two bedrolls are intentional from packs; no free sale or removal. No horse, home, debts or restraints assigned.
+25 GP (starting23+5 GP job advance-2 GP accepted by Hessa for supervised access to one room-1 GP paid to basket stallholder for a distraction). Two bedrolls are intentional from packs; no free sale or removal. No horse, home, debts or restraints assigned.
 Water fill and carried weight must be established before desert travel; a waterskin does not give unlimited water. Current pack weight comfortably below STR12 carrying limit180lb; verify exact load when it matters.
 Collected5 GP advance. Remaining payment15 GP on returning messenger alive; not yet earned.
 
 ## Current scene
-Lucio stood from prone (15 feet of movement) and Dashed 45 feet east from the bathhouse into the covered market. HP12/18, 19 arrows, bow in hand, all spell slots and Luck Points unspent. Not Hidden: Dash used his action. Hessa remains outside the bathhouse and called after him; Nadim remains upstairs at the window. Lucio has rounded a stall stacked with baskets and is temporarily out of their direct sight. No guard has yet reached him. He can attempt Hide next turn if he stays out of sight. The torn paper was returned behind Tarek's chest; chest remains damaged and closed.
+Lucio paid the basket stallholder 1 GP for a loud distraction. Stallholder struck a wooden measure against the counter and loudly advertised baskets. Lucio moved behind the adjoining stall and attempted Hide: d20 9 + Stealth5 =14, below DC15; not Hidden. His quiver caught the stall covering and arrows rattled. An unidentified approaching voice said 'Behind that stall.' Nobody has reached or seized him. Narrow passage continues ahead between stalls. HP12/18, GP25, arrows19, bow in hand; spells and Luck Points unspent. This turn's action used to Hide. Torn paper remains behind Tarek's damaged but closed chest.
 
 ## Sources
 https://www.dndbeyond.com/sources/dnd/br-2024/character-classes
