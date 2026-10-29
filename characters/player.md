@@ -40,15 +40,15 @@ Use official Ranger equipment A and Wayfarer equipment A, without free substitut
 Studded leather; scimitar; shortsword; longbow;19 arrows;quiver;mistletoe focus.
 Explorer's Pack: backpack, bedroll,2 oil flasks,10 days rations,rope,tinderbox,10 torches,waterskin.
 Wayfarer:2 daggers,thieves' tools,dice set,bedroll,2 pouches,traveller's clothes.
-39 GP, 3 SP, 0 CP (starting23 GP+5 GP advance+15 GP balance-2 GP Hessa-1 GP distraction-5 CP headcloth-1 SP gratitude to Mara; change received from 1 GP). Two bedrolls are intentional from packs; no free sale or removal. No horse, home, debts or restraints assigned.
+54 GP, 3 SP, 0 CP (starting23 GP+5 GP advance+15 GP balance-2 GP Hessa-1 GP distraction-5 CP headcloth-1 SP gratitude to Mara; change received from 1 GP). Two bedrolls are intentional from packs; no free sale or removal. No horse, home, debts or restraints assigned.
 Water fill and carried weight must be established before desert travel; a waterskin does not give unlimited water. Current pack weight comfortably below STR12 carrying limit180lb; verify exact load when it matters.
 Collected5 GP advance and15 GP balance after delivery, total20 GP. Contract paid in full.
 
 ## Current scene
-CANON RESET explicitly requested by player: resume at Dalia's negotiated offer, before acceptance. All subsequent personal propositions, acceptance/refusal responses, upstairs invitation and handoff prompt are noncanon and must not be remembered as events. No intimacy or personal proposition occurred between Lucio and Dalia. No advance collected. Reverted15GP increase; money39GP3SP.
-Day2 predawn Clay Cup breakfast table. Dalia sits opposite Lucio, hand beside15GP offered on table, asks 'Is that agreed?' Lucio has not answered or taken coins/sheet. Negotiation stands: original30GP raised to40GP total,15 now25 on recovery, following actual Persuasion14-1=13 success. Prior broken seal not grounds to deduct pay; Lucio must not open case. Missing/destroyed contents terms unresolved. Not hired to kill Nabil.
-Dalia's attributed information: Nabil Sar35,lean,missing front tooth,left knee stiff on long walks; occasional porter2years,knows market/cart yards,no fighting skills known. Yesterday morning given locked case for Tanner Street countinghouse; recipient says never arrived. Bread seller South Well saw him first bell yesterday. Lodges with cousin Yusef behind rope market; cousin not found by Dalia. Enemies unknown. Case dark leather over wood,brass corners,two catches,purple heron seal raised wing,contains signed accounts for debt according to Dalia. She wants speak to Nabil if alive,discovery location if dead. Unfolded description/address sheet on table,not yet taken. Purple wing similarity to prior clue unconfirmed. Dalia's private history/finances unknown; neither she nor innkeeper told Lucio's name.
-HP18/18,AC15,slots2/2,Lucky2/2,free Hunter's Mark2/2,HitDice2d10,Heroic Inspiration1,19 arrows,money39GP3SP,bow stowed,headcloth,room3 key,no concentration. Breakfast paid,Long Rest completed. Oren after-second-bell invitation remains; bathhouse consequences unresolved.
+Day2 predawn Clay Cup breakfast table. Canon reset still applies: no personal proposition or upstairs scene occurred.
+Lucio accepted Dalia's negotiated job, saying 'Agreed... When do you want it?' Dalia paid15GP advance, pushed unfolded description/address sheet to him; money54GP3SP. She answered 'Today, if you can. The accounts are due at that countinghouse tomorrow at noon.' Deadline is her statement, no independently verified external consequence. 'If you haven't found him by sunset, come back and tell me what you've learned. I'll be here.' She will wait at Clay Cup; report by Day2 sunset, accounts due Day3 noon. She added 'And if someone else has the case, find out who before you try taking it.' No new term changes, no route chosen, no departure yet.
+Nabil Sar35,lean,missing front tooth,left knee stiff on long walks; occasional porter2years,knows market/cart yards,no fighting skills known. Dalia says yesterday morning sent with locked case to Tanner Street countinghouse; recipient says never arrived; South Well bread seller saw him first bell; lodges cousin Yusef behind rope market. Case dark leather over wood,brass corners,two catches,purple heron seal raised wing; signed debt accounts per Dalia. Seek Nabil (speak if alive,location if dead),recover case+contents; no instruction to kill; do not open; prior broken seal no deduction. Missing/destroyed contents payment unresolved. Purple-wing clue similarity unconfirmed.
+HP18/18,AC15,slots2/2,Lucky2/2,free Hunter's Mark2/2,HitDice2d10,Heroic Inspiration1,19 arrows,money54GP3SP,bow stowed,headcloth,room3 key,no concentration. Breakfast paid,Long Rest complete. Oren after-second-bell invitation remains, bathhouse consequences unresolved.
 
 ## Sources
 https://www.dndbeyond.com/sources/dnd/br-2024/character-classes
@@ -59,8 +59,8 @@ https://www.dndbeyond.com/posts/1785-the-backgrounds-and-origin-feats-in-the-202
 ## Additional equipment
 Light-brown headcloth purchased for5CP; worn. Clay Cup room3 key held for current night stay, to be returned.
 
-## Pending contract
-Dalia's offer awaiting acceptance: find Nabil Sar and recover dispatch case and contents.40GP total;15GP offered but NOT collected,25GP conditional balance. No active contract yet. All later personal/upstairs interaction voided by explicit player instruction. See current scene.
+## Active contract
+Dalia job accepted: find Nabil Sar,recover dispatch case+contents.40GP total,15GP advance paid,25GP balance on recovery. Do not open case; preexisting broken seal doesn't reduce pay; not hired to kill. Dalia asks recovery today if possible, report at Clay Cup by sunset if unresolved; says accounts due tomorrow(Day3)noon. Earlier personal/upstairs exchanges explicitly noncanon.
 
 ## Documents carried
 Tarek Venn description sheet retained. Original apprehension warrant returned to Judge Saren at Third Court. Signed, court-sealed delivery receipt surrendered to Oren after payment: bearer brought Tarek Venn alive under the identified warrant and he appeared personally before Saren; no fee or guilt finding stated.
