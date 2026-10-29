@@ -6,7 +6,7 @@ Remaining mechanical selections below are DM defaults to get play started, edita
 ## Scores and combat
 STR12 (+1), DEX16 (+3), CON12 (+1), INT11 (+0), WIS14 (+2), CHA9 (-1).
 Rolled base 12,14,12,11,13,9; Wayfarer +2 DEX +1 WIS.
-HP12/18: first level 10+1; second uses fixed 6+1. Hit Dice 2d10, unspent.
+HP18/18: first level 10+1; second uses fixed 6+1. Hit Dice 2d10, unspent.
 AC15 (studded leather 12+3). Speed30 ft. Medium. Proficiency+2.
 Initiative+5 (DEX+3, Alert+2). Saves STR+3 DEX+5 CON+1 INT+0 WIS+2 CHA-1.
 Longbow +7 attack (DEX3, proficiency2, Archery2), 1d8+3 piercing; range150/600ft; two hands, ammunition, Heavy; mastery Slow.
@@ -28,7 +28,7 @@ Human Resourceful: Heroic Inspiration on completing Long Rest. Initial Inspirati
 Setting language convention: all languages are human languages; names replace fantasy ancestry labels without extra mechanical benefits. Common plus Veyran court speech and Western Coast speech (origin); Southern caravan speech and Eastern basin speech (Deft Explorer). No history inferred from languages.
 
 ## Magic
-Spellcasting WIS; save DC12, spell attack+4. Level1 spell slots2/2.
+Spellcasting WIS; save DC12, spell attack+4. Level1 spell slots1/2.
 Prepared: Cure Wounds, Ensnaring Strike, Speak with Animals.
 Hunter's Mark always prepared separately; Favored Enemy gives2/2 slot-free casts per Long Rest.
 No cantrips. Ranger can replace one prepared spell after Long Rest. Ritual casting applies to prepared ritual spells under 2024 rules.
@@ -45,7 +45,7 @@ Water fill and carried weight must be established before desert travel; a waters
 Collected5 GP advance. Remaining payment15 GP on returning messenger alive; not yet earned.
 
 ## Current scene
-Lucio is inside a cloth repair shop off the covered market, out of street view behind hanging cloth. He evaded the unidentified follower with Stealth19. Two sets of footsteps passed the shop without stopping; pursuit status unknown. Shopkeeper has seen him and quoted headcloth5 CP, used shirt2 SP, brown used robe1 GP. Lucio bought a headcloth for5 CP and requested help wrapping it snugly. Shopkeeper fitted a plain light-brown headcloth covering his hair, tucked the end behind his ear, and left his face visible. The headcloth is equipment, grants no automatic disguise or Stealth bonus. Bow stowed; HP12/18; money24 GP9 SP5 CP; arrows19; spells and Luck Points unspent. Door remains open. Paper returned to Tarek's room, chest damaged and closed.
+Lucio remains in Mara's cloth repair shop off the covered market, after evading pursuit. Mara named herself, allowed him to sit on a stool clear of the doorway and supplied cloth and water. About two minutes passed; no Short Rest. Lucio declined to give his name: 'It's for your best to not know my name.' He intended tending his side as magical healing: cast Cure Wounds on self, dice3+2+WIS2=7, effective6; HP18/18, spell slots1/2. Mara noticed his magic, said 'Keep it, then,' about his withheld name, then 'I lent you a stool. Is someone likely to come asking about you?' No reply yet. Money24 GP9 SP5 CP, arrows19, bow stowed, light-brown headcloth worn; Lucky2/2 and free Hunter's Mark2/2 unspent. Pursuit status unknown; nobody entered after him. Paper remains in Tarek's room; chest damaged and closed.
 
 ## Sources
 https://www.dndbeyond.com/sources/dnd/br-2024/character-classes
