@@ -45,7 +45,7 @@ Water fill and carried weight must be established before desert travel; a waters
 Collected5 GP advance. Remaining payment15 GP on returning messenger alive; not yet earned.
 
 ## Current scene
-Outside the South Well bathhouse after jumping from Tarek's second-floor window. Lucio is prone after the fall. Nadim struck Lucio during the escape. Hessa is downstairs seeking market guards. The chest remains upstairs with its lock damaged but closed.
+Lucio stood from prone (15 feet of movement) and Dashed 45 feet east from the bathhouse into the covered market. HP12/18, 19 arrows, bow in hand, all spell slots and Luck Points unspent. Not Hidden: Dash used his action. Hessa remains outside the bathhouse and called after him; Nadim remains upstairs at the window. Lucio has rounded a stall stacked with baskets and is temporarily out of their direct sight. No guard has yet reached him. He can attempt Hide next turn if he stays out of sight. The torn paper was returned behind Tarek's chest; chest remains damaged and closed.
 
 ## Sources
 https://www.dndbeyond.com/sources/dnd/br-2024/character-classes
