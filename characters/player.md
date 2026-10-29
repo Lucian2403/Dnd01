@@ -40,12 +40,12 @@ Use official Ranger equipment A and Wayfarer equipment A, without free substitut
 Studded leather; scimitar; shortsword; longbow;19 arrows;quiver;mistletoe focus.
 Explorer's Pack: backpack, bedroll,2 oil flasks,10 days rations,rope,tinderbox,10 torches,waterskin.
 Wayfarer:2 daggers,thieves' tools,dice set,bedroll,2 pouches,traveller's clothes.
-24 GP, 9 SP, 5 CP (starting23 GP+5 GP advance-2 GP Hessa-1 GP distraction-5 CP headcloth; change received from 1 GP). Two bedrolls are intentional from packs; no free sale or removal. No horse, home, debts or restraints assigned.
+24 GP, 8 SP, 5 CP (starting23 GP+5 GP advance-2 GP Hessa-1 GP distraction-5 CP headcloth; change received from 1 GP). Two bedrolls are intentional from packs; no free sale or removal. No horse, home, debts or restraints assigned.
 Water fill and carried weight must be established before desert travel; a waterskin does not give unlimited water. Current pack weight comfortably below STR12 carrying limit180lb; verify exact load when it matters.
 Collected5 GP advance. Remaining payment15 GP on returning messenger alive; not yet earned.
 
 ## Current scene
-Lucio remains in Mara's cloth repair shop off the covered market, after evading pursuit. Mara named herself, allowed him to sit on a stool clear of the doorway and supplied cloth and water. About two minutes passed; no Short Rest. Lucio declined to give his name: 'It's for your best to not know my name.' He intended tending his side as magical healing: cast Cure Wounds on self, dice3+2+WIS2=7, effective6; HP18/18, spell slots1/2. Mara noticed his magic, said 'Keep it, then,' about his withheld name, then 'I lent you a stool. Is someone likely to come asking about you?' No reply yet. Money24 GP9 SP5 CP, arrows19, bow stowed, light-brown headcloth worn; Lucky2/2 and free Hunter's Mark2/2 unspent. Pursuit status unknown; nobody entered after him. Paper remains in Tarek's room; chest damaged and closed.
+Lucio remains seated inside Mara's cloth repair shop. He said he does not know whether anyone will ask about him, would leave soon, gave Mara1 SP, and said 'Hope to see you again...more and closer ..' Mara accepted the silver for his stay and said 'You can come back. Ask before you come closer.' She resumed sewing. Door remains open; nobody has entered after Lucio. He has not yet left. HP18/18, spell slots1/2, money24 GP8 SP5 CP, arrows19, bow stowed, light-brown headcloth worn. Lucky2/2, free Hunter's Mark2/2. No Short Rest. Mara does not know his name. Pursuit status unknown. Torn paper returned to Tarek's room; chest damaged and closed.
 
 ## Sources
 https://www.dndbeyond.com/sources/dnd/br-2024/character-classes
