@@ -40,20 +40,22 @@ Use official Ranger equipment A and Wayfarer equipment A, without free substitut
 Studded leather; scimitar; shortsword; longbow;19 arrows;quiver;mistletoe focus.
 Explorer's Pack: backpack, bedroll,2 oil flasks,10 days rations,rope,tinderbox,10 torches,waterskin.
 Wayfarer:2 daggers,thieves' tools,dice set,bedroll,2 pouches,traveller's clothes.
-39 GP, 8 SP, 5 CP (starting23 GP+5 GP advance+15 GP balance-2 GP Hessa-1 GP distraction-5 CP headcloth-1 SP gratitude to Mara; change received from 1 GP). Two bedrolls are intentional from packs; no free sale or removal. No horse, home, debts or restraints assigned.
+39 GP, 3 SP, 2 CP (starting23 GP+5 GP advance+15 GP balance-2 GP Hessa-1 GP distraction-5 CP headcloth-1 SP gratitude to Mara; change received from 1 GP). Two bedrolls are intentional from packs; no free sale or removal. No horse, home, debts or restraints assigned.
 Water fill and carried weight must be established before desert travel; a waterskin does not give unlimited water. Current pack weight comfortably below STR12 carrying limit180lb; verify exact load when it matters.
 Collected5 GP advance and15 GP balance after delivery, total20 GP. Contract paid in full.
 
 ## Current scene
-Day1 evening, just after sunset. After reward paid, Lucio echoed Oren's 'Anything else?' Oren interpreted as more work, said none tonight; invited return after second bell tomorrow at Copper Street side entrance for any worthwhile notice, no job promised. Lucio said 'It's been a pleasure' mockingly and left.
-Walked about5 minutes from court to nearest visible inn, The Clay Cup, identified by painted sign of earthenware cup. Ordinary two-storey inn on adjoining street, lit common room, smell of lentils/onions; three customers eating, innkeeper adult man behind counter. Keeper offered small private upstairs room5SP per night; lentil stew and bread3CP extra; room door has inside bolt. Said 'Room first, or food?' Lucio at counter, no purchase, meal, drink, room entry or rest begun. No pursuit seen, unresolved bathhouse consequences remain.
-HP18/18, spell slots1/2,39GP8SP5CP,19 arrows,bow stowed,headcloth worn,Lucky2/2,free Hunter's Mark2/2,no concentration. One Short Rest completed in salt yard,no Hit Dice spent. Paid bounty20GP total. Warrant Saren's, receipt Oren's, description sheet Lucio's. Tarek with Saren; testimony unknown. Nobody at court given Lucio's name.
+Day1 evening at The Clay Cup inn near Copper Street. Lucio ordered room and stew/bread brought upstairs, tossed6SP. Cost5SP room+3CP meal=53CP, change7CP returned. Current money39GP3SP2CP. Rented room3 for night, received wooden-tagged key. Innkeeper said 'Upstairs. Third door. I'll bring it.' Lucio went upstairs and entered room3 as ordinary completion of rental. Narrow bed with folded blanket, stool, basin, closed shutters; functional interior door bolt. Innkeeper brought stew and bread a few minutes later, set on stool, departed closing door. Lucio has not yet eaten, bolted door, removed equipment or begun rest. No new guest/NPC encounter. All possessions remain with Lucio; room key3 temporarily carried.
+HP18/18, spell slots1/2,19 arrows,bow stowed,headcloth worn,Lucky2/2,free Hunter's Mark2/2,no concentration. One Short Rest today,no Hit Dice spent; no Long Rest. Bounty fully paid. Oren invited return after second bell tomorrow; no work guaranteed. Tarek with Saren; testimony unknown. Bathhouse consequences unresolved.
 
 ## Sources
 https://www.dndbeyond.com/sources/dnd/br-2024/character-classes
 https://www.dndbeyond.com/sources/dnd/br-2024/character-origins
 https://www.dndbeyond.com/sources/dnd/br-2024/equipment
 https://www.dndbeyond.com/posts/1785-the-backgrounds-and-origin-feats-in-the-2024
+
+## Additional equipment
+Light-brown headcloth purchased for5CP; worn. Clay Cup room3 key held for current night stay, to be returned.
 
 ## Documents carried
 Tarek Venn description sheet retained. Original apprehension warrant returned to Judge Saren at Third Court. Signed, court-sealed delivery receipt surrendered to Oren after payment: bearer brought Tarek Venn alive under the identified warrant and he appeared personally before Saren; no fee or guilt finding stated.
