@@ -1,8 +1,11 @@
 # Campaign record
 
 ## Latest resume point — authoritative
-This section supersedes historical pending creation and opening-scene states below. See characters/player.md for the full current sheet.
-Lucio, Human Ranger2 (2024), is waiting at Samir's salt yard beside Salt Gate after helping load three sacks. Bashir is away carrying Samir's message to Tarek; no answer yet. Guard at gate has just stopped the loaded handcart and called clerk to count sacks. HP18/18;24GP8SP5CP;19 arrows;1/2 spell slots;2/2 Lucky;2/2 free Hunter's Mark. No rest completed. Day1, after eleventh bell, roughly17:00-17:30. Sixth bell means noon. Exact date/calendar not established. Do not advance the pending reply without play.
+Read state/current.md first, then characters/player.md, characters/npcs.md, and rules/rulings.md.
+Day2 first bell(~07:00). Lucio unnoticed beneath awning across Tanner Street countinghouse25ft from blue door. Dalia just entered carrying recovered case;door shut. Two paper-carrying men outside,barred service window. Lucio sees entrance but cannot hear interior. No next action selected.
+HP18/18,AC15,slots1/2,Lucky2/2,freeHunter'sMark2/2,HitDice2d10,HeroicInspiration1,79GP3SP,18arrows,no concentration. Tarek20GP and Dalia40GP fully paid. Nabil still missing. Hamid intends report;filing not established. No personal/upstairs Dalia scene before job acceptance canon;later post-delivery refusal is canon.
+Chronological continuation: sessions/002-salt-gate-to-countinghouse.md. Full ledger: state/ledger.md. World/evidence: canon/world.md.
+All pending creation,older resume and exact-resume statements below are historical snapshots superseded by this pointer. Preserve locked writing requirements.
 
 ## Historical setup state
 Restart requested on 2026-10-29. No gameplay has taken place. No character sheet, equipment, money, debts, rolls or consequences have been established.
@@ -200,3 +203,6 @@ This retrospective record summarizes actual played events; no new rolls or encou
 - Man agreed to relay only that Oren sent Lucio and wants Tarek to appear, and Lucio waits here. Called helper Bashir, spoke quietly beyond hearing; Bashir left through narrow passage beside salt store. No return, destination or reply known.
 - Man named himself Samir, allowed waiting by scales clear of carts. Lucio thanked him and offered hauling. Helped driver load three sacks onto handcart; ordinary cooperative lifting, no roll. Samir provided small water jug; drinking not yet stated. Said 'And thank me when he answers.' Driver pushed cart to gate, guard called clerk to count sacks.
 Exact resume: Lucio waiting at salt yard after loading; Samir present, Bashir absent. No combat, fee, new reward, rest or meeting outcome added.
+
+## Full synchronization, 2026-10-30
+Continuation through countinghouse surveillance documented in sessions/002-salt-gate-to-countinghouse.md; current state, NPC knowledge, rulings, world and ledger split into linked files indexed by README.md. Earlier historical text retained. No new gameplay was advanced during documentation.
