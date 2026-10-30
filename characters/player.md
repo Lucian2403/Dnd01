@@ -28,7 +28,7 @@ Human Resourceful: Heroic Inspiration on completing Long Rest. Heroic Inspiratio
 Setting language convention: all languages are human languages; names replace fantasy ancestry labels without extra mechanical benefits. Common plus Veyran court speech and Western Coast speech (origin); Southern caravan speech and Eastern basin speech (Deft Explorer). No history inferred from languages.
 
 ## Magic
-Spellcasting WIS; save DC12, spell attack+4. Level1 spell slots2/2.
+Spellcasting WIS; save DC12, spell attack+4. Level1 spell slots1/2.
 Prepared: Cure Wounds, Ensnaring Strike, Speak with Animals.
 Hunter's Mark always prepared separately; Favored Enemy gives2/2 slot-free casts per Long Rest.
 No cantrips. Ranger can replace one prepared spell after Long Rest. Ritual casting applies to prepared ritual spells under 2024 rules.
@@ -45,9 +45,9 @@ Water fill and carried weight must be established before desert travel; a waters
 Collected5 GP advance and15 GP balance after delivery, total20 GP. Contract paid in full.
 
 ## Current scene
-Day2 first light,old Tanner Street weighhouse. Combat after scripted arrow shot. Lucio moved10ft to prone Hamid (no Dash needed),let longbow down on floor near entrance,draw shortsword as attack equip,nonlethal melee strike with flat. Advantage vsProne dice20,2;natural20 critical,+5=25. Damage critical2d6 rolls3,3+DEX3=9. Hamid incapacitated via2024 nonlethal knockout: reduced to1HP and Unconscious,stable,no death saves;leg arrow injury remains,no magical healing. For combat bookkeeping Hamid had11HP max (8 arrow then nonlethal hit),AC10,no armour,DEX0;not disclosed to player before roll. No extra reward or XP assigned.
-Lucio took cupboard key from Hamid's pocket using object interaction. Combat ended:no active hostile other than unconscious Hamid. Key held by Lucio;case still locked cupboard not yet opened,taken or examined further. Sword drawn,bow on floor near entrance10ft behind,not lost. Door still open,Hamid's prior cry audible outside;no arriving responder yet established. Cupboard directly beside Lucio. No automatic looting other property.
-HP18/18,AC15,slots2/2,Lucky2/2,free Hunter's Mark2/2,HeroicInspiration1,HitDice2d10,54GP3SP,18arrows,no concentration,headcloth,room3 key. Dalia job40GP15paid25due,not hired to kill,do not open dispatch case;storage cupboard may be unlocked independently. Dalia last court;prior bathhouse and current assault consequences unresolved.
+Day2 first light,Tanner Street weighhouse. Lucio unlocked storage cupboard using taken key,removed matching dispatch case,placed closed case beside himself on floor near Hamid. Purple wax/cord/catches remain untouched;contents unverified. Cupboard open,key retained. Lucio sheathed sword and treated injured Hamid with Cure Wounds (following previously clarified healing intent),slot2->1. Actual2d8 dice4,2 +WIS2=8HP;Hamid1->9/11HP. Healing wakes him from nonlethal Unconscious per2024;stable/conscious,still Prone. Magic injury improvement,no residual leg speed penalty invented. No Medicine roll or additional slot. Arrow remains expended/not recovered.
+Hamid awoke,drew injured leg toward himself,looked at Lucio then case,said 'Get away from me.' He has not attacked,drawn knife,rung bell or stood yet. No initiative currently resumed without further hostile action. No forced gratitude/cooperation or erased assault memory. No responder arrival established. Case on floor beside Lucio,not yet carried out;bow still near open entrance10ft behind;sword sheathed;cupboard open;Hamid nearby on floor. Lucio has not left or taken other property.
+Player resources HP18/18,AC15,slots1/2,Lucky2/2,free Hunter's Mark2/2,HeroicInspiration1,HitDice2d10,54GP3SP,18arrows,headcloth,room3 key,taken cupboard key,no concentration. Dispatch case now taken from storage but not delivered to Dalia;40GP job15paid25pending,contents unknown. Bathhouse and weighhouse assault consequences unresolved. No personal/upstairs Dalia scene canon.
 
 ## Sources
 https://www.dndbeyond.com/sources/dnd/br-2024/character-classes
