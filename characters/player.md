@@ -40,14 +40,12 @@ Use official Ranger equipment A and Wayfarer equipment A, without free substitut
 Studded leather; scimitar; shortsword; longbow;18 arrows;quiver;mistletoe focus.
 Explorer's Pack: backpack, bedroll,2 oil flasks,10 days rations,rope,tinderbox,10 torches,waterskin.
 Wayfarer:2 daggers,thieves' tools,dice set,bedroll,2 pouches,traveller's clothes.
-79 GP, 3 SP, 0 CP (starting23 GP+5 GP advance+15 GP balance-2 GP Hessa-1 GP distraction-5 CP headcloth-1 SP gratitude to Mara; change received from 1 GP). Two bedrolls are intentional from packs; no free sale or removal. No horse, home, debts or restraints assigned.
+79 GP, 3 SP, 0 CP. Full transaction history is in ../state/ledger.md. Two bedrolls are intentional from packs; no free sale or removal. No horse, home, debts or restraints assigned.
 Water fill and carried weight must be established before desert travel; a waterskin does not give unlimited water. Current pack weight comfortably below STR12 carrying limit180lb; verify exact load when it matters.
 Collected5 GP advance and15 GP balance after delivery, total20 GP. Contract paid in full.
 
 ## Current scene
-Day2 morning around first bell(~07:00),Tanner Street countinghouse exterior. Lucio chose to ignore Hamid and continue tailing Dalia unnoticed. No new roll because maintained established distance/cover without new exposure;not universal future auto success. Dalia ended weighhouse conversation,saying 'If the watch asks,I'll tell them what I know.' Hamid report still intended,not observed filed. Lucio moved back before she emerged;followed via foot traffic. Dalia returned Clay Cup,collected case from innkeeper,then walked to countinghouse on Tanner Street near dye vats. Lucio saw exchange from outside inn,not entered/introduced. Trip chain ~30minutes. First bell rings as reaches countinghouse.
-Countinghouse matches delivery address on Lucio's sheet. Whitewashed facade,blue-painted door,small barred service window;two men waiting with rolled papers. Dalia knocks,door opened by adult clerk with ink-stained cuffs. Says 'I need to speak to whoever was expecting Nabil Sar yesterday.' Clerk sees case,opens door wider;she enters carrying it,door shut behind her. Lucio ~25ft away at edge of cloth awning across street,undetected,can see entrance/window but cannot hear interior. No NPC aware tail,case no longer at inn. No intervention/purchase/rest/combat. Player hasn't selected next action.
-HP18/18,AC15,slots1/2,Lucky2/2,free Hunter's Mark2/2,HeroicInspiration1,HitDice2d10,79GP3SP,18arrows,headcloth,bow stowed,sword sheathed,room3key,no concentration. Case recovery40GP paid,Nabil missing. Oren invitation second bell remains. Hamid assault/bathhouse consequences unresolved;no Dalia personal/upstairs scene canon.
+Authoritative resume: ../state/current.md. Day 2, first bell (~07:00), unnoticed across Tanner Street countinghouse under awning,25ft from blue door. Dalia inside with recovered case;door closed. Lucio can see door/service window but cannot hear interior. No combat,no new action selected. Resources above unchanged;no hidden discovery or report filing added.
 
 ## Sources
 https://www.dndbeyond.com/sources/dnd/br-2024/character-classes
@@ -56,11 +54,12 @@ https://www.dndbeyond.com/sources/dnd/br-2024/equipment
 https://www.dndbeyond.com/posts/1785-the-backgrounds-and-origin-feats-in-the-2024
 
 ## Additional equipment
-Light-brown headcloth purchased for5CP; worn. Clay Cup room3 key held for current night stay, to be returned.
+Light-brown headcloth purchased for5CP; worn. Clay Cup room 3 key retained into Day 2 morning, to be returned; no second night bought.
 
 ## Case recovery payment
-Dalia's40GP paid in full (15advance+25balance) after she verified returned dispatch case and accounts. Dalia opened it herself. Nabil still missing;Lucio has not agreed further fee or declared search abandoned. She requests his last sighting and case recovery source. See current scene.
+Dalia's40GP paid in full (15advance+25balance) after she verified returned dispatch case and accounts. Dalia opened it herself. Nabil still missing;Lucio has not agreed further fee or declared search abandoned. Lucio supplied last sighting and source,withheld assault. Dalia later learned violence from Hamid and is now inside countinghouse. See ../state/current.md.
 
 ## Documents carried
+Nabil Sar description and Tanner Street delivery address sheet supplied by Dalia; retained.
 Tarek Venn description sheet retained. Original apprehension warrant returned to Judge Saren at Third Court. Signed, court-sealed delivery receipt surrendered to Oren after payment: bearer brought Tarek Venn alive under the identified warrant and he appeared personally before Saren; no fee or guilt finding stated.
 Torn paper strip was returned behind Tarek's chest before Lucio escaped through the window. Lucio remembers the visible text “...at the Salt Gate before sixth bell” and the purple wax fragment showing part of a bird's wing.
