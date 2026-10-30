@@ -23,7 +23,7 @@ Human skill: Investigation+2.
 Passive Perception14. Other untrained skills use their ability modifiers.
 Fighting Style: Archery.
 Human feat: Alert (initiative proficiency bonus; initiative swap only with willing ally under feat rules).
-Wayfarer feat: Lucky, 2/2 Luck Points; refresh Long Rest. Use current 2024 feat rules; ask before spending optional resources.
+Wayfarer feat: Lucky, 1/2 Luck Points; refresh Long Rest. Use current 2024 feat rules; ask before spending optional resources.
 Human Resourceful: Heroic Inspiration on completing Long Rest. Heroic Inspiration1, gained from completed Long Rest at Clay Cup. Player chooses when to spend it; reroll one die immediately after rolling and use new result.
 Setting language convention: all languages are human languages; names replace fantasy ancestry labels without extra mechanical benefits. Common plus Veyran court speech and Western Coast speech (origin); Southern caravan speech and Eastern basin speech (Deft Explorer). No history inferred from languages.
 
@@ -45,7 +45,7 @@ Water fill and carried weight must be established before desert travel; a waters
 Collected5 GP advance and15 GP balance after delivery, total20 GP. Contract paid in full.
 
 ## Current scene
-Authoritative resume: ../state/current.md. Day 2, first bell (~07:00), unnoticed across Tanner Street countinghouse under awning,25ft from blue door. Dalia inside with recovered case;door closed. Lucio can see door/service window but cannot hear interior. No combat,no new action selected. Resources above unchanged;no hidden discovery or report filing added.
+See ../state/current.md. Day2 morning,Lucio at countinghouse open upper windowsill15ft above rear yard,not entered or reached roof. Luck1 spent:Athletics advantage2,12+3=15 success;Stealth13+5=18 success. Occupant in yard hasn't seen him. Room visible empty with paper shelves/desk/closed internal door. Heroic Inspiration1 retained. Money79GP3SP,HP18/18,AC15,slots1/2,18arrows,no concentration. Next action pending.
 
 ## Sources
 https://www.dndbeyond.com/sources/dnd/br-2024/character-classes
