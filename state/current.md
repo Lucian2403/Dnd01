@@ -2,9 +2,9 @@
 Last synchronized: 2026-10-30. Real date is not an in-world date.
 
 ## Resume exactly here
-Day2 morning just after first bell(~07:00). Lucio quietly crossed rear yard and entered adjoining workshop through its open doorway,looking for clothes/cloth for quick appearance change. Stealth actual8+5=13 vsDC12 success. No alarm or visible observer. Workshop interior now visible: workbench with awl,thick needles,partly repaired sacks,coils of cord;coarse cloth roll on shelf;faded brown work apron and plain cloth cap on peg. Nobody visible inside;closed internal door at back,occupants beyond unknown. No automatic search of drawers/inner room.
-Lucio has NOT taken/worn apron/cap,cut cloth,hidden weapons or attempted countinghouse ground-floor door yet. No disguise bonus/permission/lock bypass granted. Existing headcloth/studded armour/gear unchanged. Countinghouse door remains closed across12ft yard;lock state untested. Low indistinct voices through barred window. Dalia last inside countinghouse with case;not aware tail.
-Prior exterior reconnaissance Perception4+4=8 failed to find subtle access/security. Side approach Stealth7+5=12 succeeded. Yard has rear door,barred window above head height,upper shutters~15ft,empty handcart bed~3ft,flat roof~20ft. Workshop opposite;passage is only visible yard exit. No climbing attempted,no timing advance beyond a brief approach.
+Day2 morning just after first bell,rear countinghouse yard. Lucio took small earthenware pot(vase) from workshop shelf,exited and threw it down side passage toward street/front direction. Main front door not directly visible round bend;pot broke near street end,not established hit people/front door. Noise diverted audible attention briefly,not guaranteed blindness. Workshop apron/cap/cloth not taken/worn;original appearance/equipment unchanged.
+Lucio climbed onto empty handcart beneath upper shutters,attempted wall climb toward window/roof. Athletics actual6+3=9 vsDC15 failure. Could not find secure hold past first shallow masonry joint;boot scraped plaster,returned weight to cart. Stands on cart bed~3ft above ground,uninjured,not reached window/roof,shutters still closed. Upper sill~15ft above ground,~12ft above cart bed. No ladder/rope deployed.
+After crash indistinct conversation through barred window stopped;man inside said 'What was that?' Then footsteps approached rear ground-floor door,now latch audibly lifting. Door not yet open,no one has seen him in this updated scene. Lucio still outside on cart,can see closed rear door and open workshop opposite,passage escape. No initiative automatically active;no magic/resource use,Heroic Inspiration1/Lucky2 remain unspent. Distraction has drawn someone toward rear,not necessarily know intruder. Pot destroyed,not currency owned;no owner encountered.
 
 ## Player
 Human Ranger 2, 2024 mechanics, Wayfarer. Full sheet: ../characters/player.md.
@@ -40,3 +40,6 @@ After reconnaissance8,player entered side passage silently to inspect layout. St
 
 ## Latest roll
 Workshop entry Stealth8+5=13,DC12 success. No resource spent,no property taken yet. Clothing could change outward appearance but cannot automatically conceal noise,unlock door or grant entry.
+
+## Latest attempt
+Broken workshop pot distraction,then Athletics6+3=9 failed ascent(DC15). On cart,no fall damage. Door latch lifting;next action pending. No default success declared,no optional resource spent.
