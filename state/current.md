@@ -4,7 +4,7 @@ Last synchronized: 2026-10-30. Real date is not an in-world date.
 ## Resume exactly here
 Day 2, around first bell (approximately 07:00). Lucio stands beneath the edge of a cloth awning across Tanner Street, about 25 feet from the countinghouse near the dye vats. He is unnoticed.
 Dalia has just entered through the blue-painted door carrying her recovered case. The clerk who admitted her has ink-stained cuffs. Door closed behind her. Two men with rolled papers wait outside the building, which has a small barred service window.
-Lucio sees the entrance and window but cannot hear inside. He has not selected another action. Image generation did not advance time or play.
+Lucio sees the entrance and window but cannot hear inside. Latest action: Lucio scanned exterior for infiltration/climbing routes/suspicious activity while staying under awning. Perception actual4+4=8,DC13 for less obvious access/security observations,failure. No movement/attempted entry/resource use. Obvious architecture established: blue main door shut,barred service window near it,closed upper shutters about15ft above street,flat roof edge about20ft high;narrow passage along building right side visible only first few yards,rest out of view. No obvious ladder or climbable stack from current viewpoint. Upper shutter locks/interior occupancy,roof access,rear entry and side passage destination unknown. Front busy/two waiting customers potential observers,not confirmed hostile. No unusual activity noticed;failure does not prove none. Dalia remains inside with case,no new exit/private conversation. Image generation did not advance time or play.
 
 ## Player
 Human Ranger 2, 2024 mechanics, Wayfarer. Full sheet: ../characters/player.md.
