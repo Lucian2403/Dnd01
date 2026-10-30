@@ -40,13 +40,14 @@ Use official Ranger equipment A and Wayfarer equipment A, without free substitut
 Studded leather; scimitar; shortsword; longbow;18 arrows;quiver;mistletoe focus.
 Explorer's Pack: backpack, bedroll,2 oil flasks,10 days rations,rope,tinderbox,10 torches,waterskin.
 Wayfarer:2 daggers,thieves' tools,dice set,bedroll,2 pouches,traveller's clothes.
-54 GP, 3 SP, 0 CP (starting23 GP+5 GP advance+15 GP balance-2 GP Hessa-1 GP distraction-5 CP headcloth-1 SP gratitude to Mara; change received from 1 GP). Two bedrolls are intentional from packs; no free sale or removal. No horse, home, debts or restraints assigned.
+79 GP, 3 SP, 0 CP (starting23 GP+5 GP advance+15 GP balance-2 GP Hessa-1 GP distraction-5 CP headcloth-1 SP gratitude to Mara; change received from 1 GP). Two bedrolls are intentional from packs; no free sale or removal. No horse, home, debts or restraints assigned.
 Water fill and carried weight must be established before desert travel; a waterskin does not give unlimited water. Current pack weight comfortably below STR12 carrying limit180lb; verify exact load when it matters.
 Collected5 GP advance and15 GP balance after delivery, total20 GP. Contract paid in full.
 
 ## Current scene
-Day2 shortly after sunrise,Clay Cup common room. Lucio walked back from Tanner Street weighhouse with closed case,~20minutes,no one confronted/followed him visibly en route. No universal claim pursuit absent. Dalia back at inn seated breakfast table,her return offscreen after court while Lucio at muleyard/weighhouse. On seeing Lucio/case she stood,said 'You left without telling me.' Looked at case:'You found it. Where's Nabil?' Held out hand:'May I check the seal?' Lucio has not handed case over,answered,opened or received balance. She doesn't know weighhouse violence,theft allegation or Hamid encounter. No automatic identification of contents or successful contract completion. Innkeeper behind counter,no crowd response. Case held by Lucio.
-HP18/18,AC15,slots1/2,Lucky2/2,free Hunter's Mark2/2,HitDice2d10,HeroicInspiration1,54GP3SP,18arrows,bow stowed,sword sheathed,headcloth,room3 key,no concentration. Dalia40GP job15paid25pending,report sunset,accounts dueDay3noon according to her. Nabil still missing,last Hamid sighting departure towards Tanner countinghouses/dye vats. Hamid alive8/11HP,storage key returned by thrown attack;may report Lucio/Dalia/Venn association,no action/report yet established. Prior bathhouse consequences unresolved. No personal/upstairs Dalia scene canon.
+Day2 shortly after sunrise,Clay Cup breakfast table. Lucio put closed dispatch case on table before Dalia,said likely what she really sought,not Nabil,doesn't know Nabil whereabouts but can give last known location. Dalia inspected wax/cord,then herself broke seal,opened catches and examined tied packets of papers. She said 'These are the accounts. They're all here.' This is her verification/statement,not proof debt narrative or lawfulness. Player did not open case,so contract restriction honored. Dalia closed case,now in her possession on table. Paid25GP balance,Lucio money79GP3SP,total40GP paid for agreed recovery. Nabil remains missing,no finding of death,no automatic guilt or case closure.
+Dalia replied 'I asked for both. You found one.' After payment: 'Tell me where Nabil was last seen. And who had this case when you found it.' Lucio hasn't answered. She knows no Hamid injury/theft allegation,unless disclosed later. No new promise/fee/job imposed.
+Resources HP18/18,AC15,slots1/2,Lucky2/2,free Hunter's Mark2/2,HitDice2d10,HeroicInspiration1,79GP3SP,18arrows,bow stowed,sword sheathed,headcloth,room3 key,no concentration. Hamid8/11 conscious when Lucio left,may report,no report established. Last Nabil evidence Hamid says left weighhouse towards countinghouses near dye vats. Prior bathhouse consequences unresolved. No Dalia personal/upstairs scene canon.
 
 ## Sources
 https://www.dndbeyond.com/sources/dnd/br-2024/character-classes
@@ -57,8 +58,8 @@ https://www.dndbeyond.com/posts/1785-the-backgrounds-and-origin-feats-in-the-202
 ## Additional equipment
 Light-brown headcloth purchased for5CP; worn. Clay Cup room3 key held for current night stay, to be returned.
 
-## Active contract
-Dalia job accepted: find Nabil Sar,recover dispatch case+contents.40GP total,15GP advance paid,25GP balance on recovery. Do not open case; preexisting broken seal doesn't reduce pay; not hired to kill. Dalia asks recovery today if possible, report at Clay Cup by sunset if unresolved; says accounts due tomorrow(Day3)noon. Earlier personal/upstairs exchanges explicitly noncanon.
+## Case recovery payment
+Dalia's40GP paid in full (15advance+25balance) after she verified returned dispatch case and accounts. Dalia opened it herself. Nabil still missing;Lucio has not agreed further fee or declared search abandoned. She requests his last sighting and case recovery source. See current scene.
 
 ## Documents carried
 Tarek Venn description sheet retained. Original apprehension warrant returned to Judge Saren at Third Court. Signed, court-sealed delivery receipt surrendered to Oren after payment: bearer brought Tarek Venn alive under the identified warrant and he appeared personally before Saren; no fee or guilt finding stated.
