@@ -1,7 +1,12 @@
 # Current campaign state
-Last synchronized: 2026-10-31. Real date is not an in-world date.
+Last synchronized: 2026-11-01. Real date is not an in-world date.
 
 ## Resume exactly here
+Day 2 morning, still inside Reed Street upstairs bedroom, after about two minutes searching. Investigation actual7+2=9 vsDC12 failed to uncover concealed clues. Ordinary visible/accessibly stored contents found without requiring that roll: chest unlocked, opened to folded linen,spare sandals,small bundle household receipts; several receipts addressed to Hadrin, for lamp oil,grain,laundry. No letter about Nabil or debt accounts found. Bedding checked, ordinary; beneath bed dust and worn slipper; jug water,basin damp,no visible blood. Receipts support Hadrin connection to house,not proof room ownership or Nabil visit. No hidden compartment/absence of hidden evidence established. No property taken. Chest now open; interior door still closed; window open.
+Woman who saw climb has now audibly knocked at front door and shouted "There's someone climbing through your upstairs window!" No answer,guard report,entry or approaching occupant established yet. Lucio remains in bedroom; no forced movement.
+Resources unchanged HP12/18,AC15,slots1/2,Lucky1/2,free Hunter'sMark2/2,HeroicInspiration1,HitDice2d10,79GP3SP,18arrows,no concentration/conditions. Dalia last countinghouse,subsequent route unknown.
+
+## Previous window entry checkpoint
 Day 2 morning, inside upstairs room of presumed Hadrin house on Reed Street opposite old cistern. Lucio climbed rough masonry/exposed mortar joints to partly open green-shuttered window about15ft high, widened unfastened shutter and entered. Athletics actual19+3=22 vsDC15 success. Stealth actual1+5=6 vsDC10 failed; adult woman passing below saw him climbing and called "You! What are you doing up there?" No NPC name or relationship established; no alarm response/guard dispatch established. Failure is observed climb, not failure to enter or automatic arrest.
 Room currently unoccupied: narrow bed,closed wooden chest,small table with jug and washbasin,closed interior door. No search/loot/lock test made; no inhabitant or Nabil presence established. Window remains open behind Lucio; woman outside has seen his appearance from below,not learned name. Dalia whereabouts remain unknown,last at countinghouse.
 No damage/resources spent on climb;HP12/18,AC15,slots1/2,Lucky1/2,free Hunter'sMark2/2,HeroicInspiration1,HitDice2d10,79GP3SP,18arrows,no concentration or conditions. No ledgers or case carried.
