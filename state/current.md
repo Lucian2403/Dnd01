@@ -2,9 +2,16 @@
 Last synchronized: 2026-10-31. Real date is not an in-world date.
 
 ## Resume exactly here
+Day 2 morning. Lucio left the countinghouse and reached Reed Street, outside house with green shutters opposite old cistern, matching clerk's directions to Hadrin's home. House two storeys, plain wooden front door closed, upstairs green shutters partly open. No knock/entry/search or inhabitant identity resolved. No pursuit seen en route; Dalia's subsequent movements unknown, last in countinghouse waiting room.
+Departure: set both ledgers down on storage floor rather than carrying them away, crossed to open exterior window and jumped into yard15ft below. Stealth actual11+5=16 vsDC13 success to leave without being challenged/identified. Fall1d6 actual6 bludgeoning,HP18->12;landed prone then stood (movement cost outside combat),left via side passage and hurried to Reed Street. No Acrobatics damage cancellation,spell,Luck,Inspiration spent. Inkpot man/Dalia not established seeing exit; no shout or alarm heard. Open window and two ledgers left behind, contents unread. No books carried now.
+Known lead remains clerk's testimony: Nabil waited quarter hour yesterday, asked Hadrin's address,left alone without case; no proof he reached this house. Memorised visitor entry 'Nabil Sar — seventh bell — waiting for Master Hadrin.'
+HP12/18,AC15,slots1/2,Lucky1/2,free Hunter'sMark2/2,HeroicInspiration1,HitDice2d10,79GP3SP,18arrows,no concentration or ongoing conditions.
+
+## Previous listening checkpoint
 Lucio remains inside upstairs storage room beside shelves just inside partly open inner doorway, holding two unread ledgers, listening. Day 2 morning, several minutes after first bell. Prior Stealth21 success remains; no new concealment check or discovery this turn. Inkpot man remains at desk, occupied with papers; no recognition or window discovery established. Window to yard still open.
 After about a minute, guide returned upstairs with another man identified by dialogue as yesterday's clerk. Conversation in waiting room remained at ordinary volume audible through open doors: clerk said Nabil waited about quarter hour, Hadrin did not return, Nabil asked where Hadrin lived, clerk gave directions, Nabil left alone without case. Clerk said Hadrin lives on Reed Street opposite old cistern, house with green shutters. These are overheard claims, not verified sightings of Nabil arriving there; Hadrin's relationship to accounts still unknown. Dalia remains in waiting room with guide/clerk, has not yet departed or noticed Lucio.
 HP18/18,AC15,slots1/2,Lucky1/2,free Hunter'sMark2/2,HeroicInspiration1,HitDice2d10,79GP3SP,18arrows,no concentration. No resources spent. Lucio has chosen no further action.
+
 
 ## Prior sequence (latest position above supersedes these snapshots)
 Day 2 morning, upstairs countinghouse, at the head of the stairs. Lucio walked slowly toward the downstairs conversation carrying the two ledgers against his chest. No new stealth check: ordinary movement under his existing successful worker bluff, no new observer encounter resolved. Listening Wisdom (Perception) actual7+4=11 vsDC10 success at stairhead. From here he can hear Dalia below but cannot yet see her or her interlocutor; stairs turn before ground floor. No alarm or detection established.
@@ -18,7 +25,7 @@ Latest action supersedes prior stairhead position: Lucio returned quietly to sto
 
 ## Player
 Human Ranger 2, 2024 mechanics, Wayfarer. Full sheet: ../characters/player.md.
-HP 18/18; AC 15; speed 30 ft; spell slots 1/2; Lucky 1/2; slot-free Hunter's Mark 2/2; Hit Dice 2d10; Heroic Inspiration 1; no concentration or conditions.
+HP 12/18; AC 15; speed 30 ft; spell slots 1/2; Lucky 1/2; slot-free Hunter's Mark 2/2; Hit Dice 2d10; Heroic Inspiration 1; no concentration or conditions.
 79 GP, 3 SP, 0 CP. 18 arrows. Bow stowed/retrieved; sword sheathed; studded leather and light-brown headcloth worn. Clay Cup room 3 key retained. No storage key or dispatch case carried.
 Long Rest completed overnight at Clay Cup. No new Long Rest since healing Hamid.
 
