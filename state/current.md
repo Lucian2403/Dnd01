@@ -7,6 +7,8 @@ He heard Dalia say "He was here yesterday. Your book has his name." Unidentified
 Lucio memorised yesterday's visitor entry 'Nabil Sar — seventh bell — waiting for Master Hadrin.' Two unauthorised bound ledgers still carried, contents unread, no value assigned. Two closed upstairs doors remain uninspected. Exterior storage window remains open. Dalia does not know he followed or infiltrated.
 HP18/18,AC15,slots1/2,Lucky1/2,free Hunter'sMark2/2,HeroicInspiration1,HitDice2d10,79GP3SP,18arrows,no concentration. No resources spent. Next player action pending.
 
+Continued listening without moving or new roll: existing audible conversation remains within reach. Dalia asked where Nabil waited. Unidentified man said upstairs, first door on right from stairs, and claimed clerk took Nabil there because front room was busy; he said he did not know how long Nabil stayed. Dalia demanded to see room. Chair scraped, man said "This way." Footsteps now approaching staircase from below, neither speaker visible yet. No recognition/detection/alarm established; Lucio remains stairhead carrying two ledgers. Of the two upstairs closed doors, waiting room now identified by testimony as nearest stairhead on right facing down upstairs corridor. No other layout change. Inkpot man's subsequent actions unresolved. No resources spent.
+
 ## Player
 Human Ranger 2, 2024 mechanics, Wayfarer. Full sheet: ../characters/player.md.
 HP 18/18; AC 15; speed 30 ft; spell slots 1/2; Lucky 1/2; slot-free Hunter's Mark 2/2; Hit Dice 2d10; Heroic Inspiration 1; no concentration or conditions.
