@@ -1,11 +1,11 @@
 # Current campaign state
-Last synchronized: 2026-10-30. Real date is not an in-world date.
+Last synchronized: 2026-10-31. Real date is not an in-world date.
 
 ## Resume exactly here
-Day2 morning,upstairs countinghouse passage. Lucio deliberately memorised visitor entry 'Nabil Sar — seventh bell — waiting for Master Hadrin';no perfect lifelong recall or document ownership conferred. He took2bound ledgers from shelf in storage room,held against chest partially concealing face,opened inner door and stepped out pretending ordinary worker. Deception actual16-1=15 vsDC12 success for passing encounter. No disguise clothes taken;armour,bow,sword/headcloth unchanged,not undetectable to people who know him.
-Approaching person is unnamed adult man carrying inkpot and folded cloth;stepped aside in narrow passage,said 'Mind the ink.' Passed Lucio without stopping to question identity. Has not entered storage room yet in established scene,has not seen window or reported missing books. Not identified as Hadrin or prior yard man. Lucio just outside storage doorway,2ledgers still held. No ledger contents read,no sale/loot value determined,no books returned or taken out building.
-Passage has two further closed doors and staircase down at far end;no office labels or door locks observed. Low conversation audible from below,words not clear. Dalia last downstairs with case,doesn't know intrusion/tail. Window behind Lucio remains open in storage room. No alarm/combat. Next route/action pending.
-HP18/18,AC15,slots1/2,Lucky1/2,free Hunter'sMark2/2,HeroicInspiration1,HitDice2d10,79GP3SP,18arrows,no concentration. Unauthorised ledgers2now carried,no permanent equipment/value grant. Memorised entry may guide inquiry,not proof case delivery.
+Day 2 morning, upstairs countinghouse, at the head of the stairs. Lucio walked slowly toward the downstairs conversation carrying the two ledgers against his chest. No new stealth check: ordinary movement under his existing successful worker bluff, no new observer encounter resolved. Listening Wisdom (Perception) actual7+4=11 vsDC10 success at stairhead. From here he can hear Dalia below but cannot yet see her or her interlocutor; stairs turn before ground floor. No alarm or detection established.
+He heard Dalia say "He was here yesterday. Your book has his name." Unidentified adult male voice replied "He waited. I never saw him." Dalia: "Then ask whoever sent him away." Man: "No one was told to send him away." Dalia: "That isn't what I asked." In context she is asking about Nabil; male identity not established as Hadrin. These are claims, not proof Nabil left or met anyone. No new destination revealed. Inkpot man last behind Lucio toward storage; has not yet been established discovering open window.
+Lucio memorised yesterday's visitor entry 'Nabil Sar — seventh bell — waiting for Master Hadrin.' Two unauthorised bound ledgers still carried, contents unread, no value assigned. Two closed upstairs doors remain uninspected. Exterior storage window remains open. Dalia does not know he followed or infiltrated.
+HP18/18,AC15,slots1/2,Lucky1/2,free Hunter'sMark2/2,HeroicInspiration1,HitDice2d10,79GP3SP,18arrows,no concentration. No resources spent. Next player action pending.
 
 ## Player
 Human Ranger 2, 2024 mechanics, Wayfarer. Full sheet: ../characters/player.md.
