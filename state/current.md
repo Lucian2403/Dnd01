@@ -2,6 +2,12 @@
 Last synchronized: 2026-11-04. Real date is not an in-world date.
 
 ## Resume exactly here
+Day 2 morning, combat/ambush started upstairs Reed Street house. Unidentified adult house occupant checked bedroom then pushed storeroom door open and stepped into reach. Plain clothes,no armour or weapon visible; identity not confirmed Hadrin. Mechanical baseline STR10,DEX10,save+0,initiative+0,AC10,HP4 (uninjured); no special combat training established.
+Lucio used last Lucky point to gain advantage on initiative ability check: actual4,20 +5 =25. Occupant actual18+0=18. No surprise disadvantage applied: occupant alert to intruder and previously heard movement. Lucio first round action attempted grapple; occupant STR save actual14+0=14 vsDC11,success,resisted. No damage/grapple/silence imposed. No further Luck or Inspiration automatically spent; HeroicInspiration cannot reroll opponent's save.
+Occupant turn used Disengage,withdrew from storeroom across landing toward stairhead,now10ft from Lucio with open storeroom doorway between them. Did not attack,draw weapon or call watch yet. Says "What do you want?" Lucio remains just inside storeroom masked,both hands free,weapons stowed. No chosen PC speech. Round2 Lucio turn pending,action/bonus action/movement available,reaction available. Woman last outside front door,has not been established leaving to fetch watch.
+HP12/18,AC15,slots1/2,Lucky0/2,free Hunter'sMark2/2,HeroicInspiration1,HitDice2d10,79GP3SP,18arrows,no concentration/conditions. Linen mask worn. Dalia last countinghouse;Nabil presence unknown.
+
+## Previous ambush preparation checkpoint
 Day 2 morning, upstairs Reed Street house storeroom. Lucio took a plain linen cloth from stored linen, tied it over nose,mouth,cheeks and tucked upper edge beneath existing light-brown headcloth; eyes remain exposed. Cloth now worn,not facial invisibility or full disguise; prior eyewitness saw unmasked climb. No other property taken.
 Lucio positioned close to wall beside storeroom doorway,outside direct view through door gap,with both hands free. Declared prepared ambush: attempt grapple if approaching man steps through doorway into reach,then question him. Bow stowed,sword sheathed. No grapple,attack,damage or check resolved yet; preparing is not guaranteed surprise/success. Apply initiative if combat begins,2024 grapple target STR/DEX save vsDC11 (8+STR1+proficiency2). No automatic silence,unconsciousness or compliance from grapple.
 While mask/position prepared,man reached landing and went into bedroom opposite (original eyewitness-directed room). Lucio hears him cross bedroom,then man calls downstairs "Stay outside." Man not yet at storeroom threshold; identity/armament not visually established. No new sighting of Lucio,guard response or other occupant established. Bedroom chest/window remain open;storeroom door nearly shut.
@@ -46,7 +52,7 @@ Latest action supersedes prior stairhead position: Lucio returned quietly to sto
 
 ## Player
 Human Ranger 2, 2024 mechanics, Wayfarer. Full sheet: ../characters/player.md.
-HP 12/18; AC 15; speed 30 ft; spell slots 1/2; Lucky 1/2; slot-free Hunter's Mark 2/2; Hit Dice 2d10; Heroic Inspiration 1; no concentration or conditions.
+HP 12/18; AC 15; speed 30 ft; spell slots 1/2; Lucky 0/2; slot-free Hunter's Mark 2/2; Hit Dice 2d10; Heroic Inspiration 1; no concentration or conditions.
 79 GP, 3 SP, 0 CP. 18 arrows. Bow stowed/retrieved; sword sheathed; studded leather and light-brown headcloth worn. Clay Cup room 3 key retained. No storage key or dispatch case carried.
 Long Rest completed overnight at Clay Cup. No new Long Rest since healing Hamid.
 
