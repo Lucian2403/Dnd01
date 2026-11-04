@@ -2,6 +2,11 @@
 Last synchronized: 2026-11-04. Real date is not an in-world date.
 
 ## Resume exactly here
+Day 2 morning,before second bell,Lucio reached North Watchhouse after taking official Rafiq Damar wanted-alive poster off central market noticeboard. Poster now carried,edge torn from fastening but name/reward/ALIVE/watchseal legible. No fee,no job exclusivity or accepted commission implied. Other2notices remain on board.
+North Watchhouse newly established squat stone building with open entrance,wooden bench outside,spear-armed watchman at entrance. Lucio arrived outside,poster in hand. Watchman saw poster and asked "Damar? You'll want the duty sergeant. Inside, first table." Directions only;Lucio not yet entered or spoken to sergeant. No recognition/search/arrest established,no claim that pending incidents were or were not reported. Watchman knows armed traveller with poster,not name/history. Damar remains only alleged wanted armed robber,30GP alive upon identification/delivery;description/location still to be obtained.
+Resources unchanged HP12/18,AC15,slots1/2,Lucky0/2,free Hunter'sMark2/2,HeroicInspiration1,HitDice2d10,79GP3SP,18arrows,no concentration/conditions. Armour/headcloth worn,face uncovered,linen cloth retained,bow not drawn. Previous Oren invitation after second bell;escort fourth bell today,other leads not accepted.
+
+## Previous noticeboard checkpoint
 Day 2 morning,before second bell. Lucio inspected central market and read public noticeboard beside public scales. Board obvious/readable,no uncertain task and no roll needed. Surroundings grain stalls,porters,coppersmith repairing pots,rope sellers,water seller beside scales. Board has3 legible paid-work notices:
 1) Official watch seal. Rafiq Damar wanted ALIVE for armed robbery on west road. Reward30GP upon identification and delivery to North Watchhouse. Details/description available there;no physical description or exact hiding place learned yet. New independent job lead,no connection to prior NPCs established.
 2) Armed guards for water wagons to western wells. Depart today fourth bell (~10:00). Expected two-day return trip,pay12GP per guard total,4GP in advance,balance on return. Ask Safa at Salt Gate caravan office. This may match general west-road water-escort lead mentioned innkeeper,not yet verified/accepted. No reward granted.
