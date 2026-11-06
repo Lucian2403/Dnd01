@@ -1,19 +1,19 @@
 # Lucio
-Human Ranger 2. D&D 2024. Background: Wayfarer.
+Human Ranger 3. D&D 2024. Background: Wayfarer.
 Player-confirmed: grew up alone in poverty among society's lowest; knows no comfortable life. Learned some magic in the past. No teacher, place, motive or further history established. Uses a bow and light, fast sword. Never saw a strange entity.
 Remaining mechanical selections below are DM defaults to get play started, editable before their first relevant use; they are not new biography.
 
 ## Scores and combat
 STR12 (+1), DEX16 (+3), CON12 (+1), INT11 (+0), WIS14 (+2), CHA9 (-1).
 Rolled base 12,14,12,11,13,9; Wayfarer +2 DEX +1 WIS.
-HP18/18: first level 10+1; second uses fixed 6+1. Hit Dice 2d10, unspent.
+HP25/25: first level 10+1; second fixed 6+1; third fixed 6+1. Hit Dice 3d10, unspent.
 AC15 (studded leather 12+3). Speed30 ft. Medium. Proficiency+2.
 Initiative+5 (DEX+3, Alert+2). Saves STR+3 DEX+5 CON+1 INT+0 WIS+2 CHA-1.
 Longbow +7 attack (DEX3, proficiency2, Archery2), 1d8+3 piercing; range150/600ft; two hands, ammunition, Heavy; mastery Slow.
 Shortsword +5 attack, 1d6+3 piercing; finesse/light; mastery Vex.
 Scimitar +5 attack, 1d6+3 slashing; finesse/light; no mastery selected.
 Daggers +5 attack, 1d4+3 piercing; thrown20/60ft, finesse/light; no mastery selected.
-No Extra Attack, no subclass, no Sneak Attack. Follow Light property rules for any extra attack; no Two-Weapon Fighting style.
+No Extra Attack or Sneak Attack. Level 3 subclass earned, choice pending; no subclass feature until chosen. Follow Light property rules for any extra attack; no Two-Weapon Fighting style.
 Masteries: Slow reduces hit creature's Speed by10ft until start of Lucio's next turn (no stacking from repeated Slow hits); Vex grants advantage on next attack against that hit creature before end of Lucio's next turn.
 
 ## Skills and features
@@ -23,13 +23,13 @@ Human skill: Investigation+2.
 Passive Perception14. Other untrained skills use their ability modifiers.
 Fighting Style: Archery.
 Human feat: Alert (initiative proficiency bonus; initiative swap only with willing ally under feat rules).
-Wayfarer feat: Lucky, 1/2 Luck Points; refresh Long Rest. Use current 2024 feat rules; ask before spending optional resources.
+Wayfarer feat: Lucky, 0/2 Luck Points; refresh Long Rest. Use current 2024 feat rules; ask before spending optional resources.
 Human Resourceful: Heroic Inspiration on completing Long Rest. Heroic Inspiration1, gained from completed Long Rest at Clay Cup. Player chooses when to spend it; reroll one die immediately after rolling and use new result.
 Setting language convention: all languages are human languages; names replace fantasy ancestry labels without extra mechanical benefits. Common plus Veyran court speech and Western Coast speech (origin); Southern caravan speech and Eastern basin speech (Deft Explorer). No history inferred from languages.
 
 ## Magic
-Spellcasting WIS; save DC12, spell attack+4. Level1 spell slots1/2.
-Prepared: Cure Wounds, Ensnaring Strike, Speak with Animals.
+Spellcasting WIS; save DC12, spell attack+4. Level1 spell slots2/3 (one expended earlier on Hamid; third slot gained at level up).
+Prepared: Cure Wounds, Ensnaring Strike, Speak with Animals; fourth level-1 Ranger spell selection pending.
 Hunter's Mark always prepared separately; Favored Enemy gives2/2 slot-free casts per Long Rest.
 No cantrips. Ranger can replace one prepared spell after Long Rest. Ritual casting applies to prepared ritual spells under 2024 rules.
 Hunter's Mark and Ensnaring Strike require Concentration; cannot maintain both. Check actual spell text before casting; do not mix 2014 and 2024 timing or effects.
@@ -45,7 +45,7 @@ Water fill and carried weight must be established before desert travel; a waters
 Collected5 GP advance and15 GP balance after delivery, total20 GP. Contract paid in full.
 
 ## Current scene
-See ../state/current.md. Day2 morning,Lucio at countinghouse open upper windowsill15ft above rear yard,not entered or reached roof. Luck1 spent:Athletics advantage2,12+3=15 success;Stealth13+5=18 success. Occupant in yard hasn't seen him. Room visible empty with paper shelves/desk/closed internal door. Heroic Inspiration1 retained. Money79GP3SP,HP18/18,AC15,slots1/2,18arrows,no concentration. Next action pending.
+See ../state/current.md. Day2 about sixth bell, alone in Clay Cup room3 after surgeon treatment and a quiet period of thought. Milestone Ranger3 reached; subclass and fourth prepared spell pending. HP25/25,AC15,slots2/3,Lucky0/2,Heroic Inspiration1,HitDice3d10,17arrows,108GP7SP4CP. No Short or Long Rest this scene. Doctor left, food and ale untouched.
 
 ## Sources
 https://www.dndbeyond.com/sources/dnd/br-2024/character-classes
