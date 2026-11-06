@@ -1,7 +1,7 @@
 # Rules, exceptions and corrections
 
 ## Default
-D&D 2024,Human Ranger3 as of Day2 sixth bell; subclass and fourth prepared spell pending. Preserve player's agency,real generated dice,resource accounting,NPC knowledge limits. No automatic fate/chosen-one status. Full writing requirements remain CAMPAIGN.md.
+D&D 2024,Human Ranger3 as of Day2 sixth bell; subclass Gloom Stalker and fourth prepared spell Longstrider chosen by player after milestone. Preserve player's agency,real generated dice,resource accounting,NPC knowledge limits. No automatic fate/chosen-one status. Full writing requirements remain CAMPAIGN.md.
 A failure should reflect the attempted competent action failing,not invent childish player behaviour. The market crouching/quiver snag was explicitly removed.
 Use skills only with meaningful uncertainty/stakes,not every line of dialogue. Do not repeat checks without materially changed approach.
 Check actual rule text when needed;this record reports applied rulings and does not validate every earlier ruling as official.
@@ -42,3 +42,6 @@ Today Cure Wounds on Hamid consumed1slot;slots now1/2. No automatic new rest or 
 Requested images: ordinary unfiltered smartphone-photo realism,casual eye-level views,natural skin/materials/exposure,no cinematic grading/illustration/custom style. Match established characters/location where references available. No player face/body invented.
 Images are visual aids,not hidden-clue evidence. Incidental props,coin counts or changed geometry don't override played facts.
 Dalia wardrobe edit was visual;it did not establish sexual interest or restore removed scene.
+
+## Level 3 choice
+Player explicitly accepted recommended Gloom Stalker + Longstrider path. Apply official 2024 level3 Gloom Stalker features, including WIS+2 to initiative (total+7), 2/2 Dreadful Strike uses, Darkvision60ft, conditional Umbral Sight, Disguise Self always prepared separately (slot required). Longstrider is fourth prepared Ranger spell, no concentration. Ranger spells remain2/3 slots, Lucky0/2, Hunter's Mark free2/2, HP25/25. Custom shadow discipline was a future campaign proposal only, not an acquired feature. No rest, resource reset, time advance or in-world encounter caused by sheet choice.
