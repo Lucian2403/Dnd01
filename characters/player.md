@@ -28,12 +28,12 @@ Human skill: Investigation+2.
 Passive Perception14. Other untrained skills use their ability modifiers.
 Fighting Style: Archery.
 Human feat: Alert (initiative proficiency bonus; initiative swap only with willing ally under feat rules).
-Wayfarer feat: Lucky, 0/2 Luck Points; refresh Long Rest. Use current 2024 feat rules; ask before spending optional resources.
+Wayfarer feat: Lucky, 2/2 Luck Points; refresh Long Rest. Use current 2024 feat rules; ask before spending optional resources.
 Human Resourceful: Heroic Inspiration on completing Long Rest. Heroic Inspiration1, gained from completed Long Rest at Clay Cup. Player chooses when to spend it; reroll one die immediately after rolling and use new result.
 Setting language convention: all languages are human languages; names replace fantasy ancestry labels without extra mechanical benefits. Common plus Veyran court speech and Western Coast speech (origin); Southern caravan speech and Eastern basin speech (Deft Explorer). No history inferred from languages.
 
 ## Magic
-Spellcasting WIS; save DC12, spell attack+4. Level1 spell slots2/3 (one expended earlier on Hamid; third slot gained at level up).
+Spellcasting WIS; save DC12, spell attack+4. Level1 spell slots3/3 (restored after qualifying overnight Long Rest on Day3).
 Prepared: Cure Wounds, Ensnaring Strike, Speak with Animals, Longstrider (fourth selection chosen at level 3).
 Subclass spell always prepared separately: Disguise Self.
 Hunter's Mark always prepared separately; Favored Enemy gives2/2 slot-free casts per Long Rest.
@@ -51,7 +51,7 @@ Water fill and carried weight must be established before desert travel; a waters
 Collected5 GP advance and15 GP balance after delivery, total20 GP. Contract paid in full.
 
 ## Current scene
-See ../state/current.md. Day2 about sixth bell, alone in Clay Cup room3 after surgeon treatment and a quiet period of thought. Milestone Ranger3 reached; Gloom Stalker and Longstrider chosen. HP25/25,AC15,slots2/3,Lucky0/2,Heroic Inspiration1,HitDice3d10,17arrows,108GP7SP4CP. No Short or Long Rest this scene. Doctor left, food and ale untouched.
+See ../state/current.md. Day3 dawn in Clay Cup room3 after meal and overnight Long Rest. Gloom Stalker and Longstrider chosen. HP25/25,AC15 when armour worn,slots3/3,Lucky2/2,free Hunter's Mark2/2,Dreadful Strike2/2,Heroic Inspiration1,HitDice3d10 unspent,17arrows,108GP7SP4CP. Stew and bread eaten; ale untouched. Innkeeper at door with notice of watchman asking for wounded hunter; another night of room fee5SP outstanding, not yet paid.
 
 ## Sources
 https://www.dndbeyond.com/sources/dnd/br-2024/character-classes
