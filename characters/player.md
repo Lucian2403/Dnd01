@@ -1,5 +1,5 @@
 # Lucio
-Human Ranger 3. D&D 2024. Background: Wayfarer.
+Human Ranger 3 (Gloom Stalker). D&D 2024. Background: Wayfarer.
 Player-confirmed: grew up alone in poverty among society's lowest; knows no comfortable life. Learned some magic in the past. No teacher, place, motive or further history established. Uses a bow and light, fast sword. Never saw a strange entity.
 Remaining mechanical selections below are DM defaults to get play started, editable before their first relevant use; they are not new biography.
 
@@ -8,13 +8,18 @@ STR12 (+1), DEX16 (+3), CON12 (+1), INT11 (+0), WIS14 (+2), CHA9 (-1).
 Rolled base 12,14,12,11,13,9; Wayfarer +2 DEX +1 WIS.
 HP25/25: first level 10+1; second fixed 6+1; third fixed 6+1. Hit Dice 3d10, unspent.
 AC15 (studded leather 12+3). Speed30 ft. Medium. Proficiency+2.
-Initiative+5 (DEX+3, Alert+2). Saves STR+3 DEX+5 CON+1 INT+0 WIS+2 CHA-1.
+Initiative+7 (DEX+3, Alert+2, Dread Ambusher WIS+2). Saves STR+3 DEX+5 CON+1 INT+0 WIS+2 CHA-1.
 Longbow +7 attack (DEX3, proficiency2, Archery2), 1d8+3 piercing; range150/600ft; two hands, ammunition, Heavy; mastery Slow.
 Shortsword +5 attack, 1d6+3 piercing; finesse/light; mastery Vex.
 Scimitar +5 attack, 1d6+3 slashing; finesse/light; no mastery selected.
 Daggers +5 attack, 1d4+3 piercing; thrown20/60ft, finesse/light; no mastery selected.
-No Extra Attack or Sneak Attack. Level 3 subclass earned, choice pending; no subclass feature until chosen. Follow Light property rules for any extra attack; no Two-Weapon Fighting style.
+No Extra Attack or Sneak Attack. Level 3 subclass Gloom Stalker chosen by player; features below. Follow Light property rules for any extra attack; no Two-Weapon Fighting style.
 Masteries: Slow reduces hit creature's Speed by10ft until start of Lucio's next turn (no stacking from repeated Slow hits); Vex grants advantage on next attack against that hit creature before end of Lucio's next turn.
+
+## Gloom Stalker, level 3
+Dread Ambusher: Ambusher's Leap gives +10ft Speed on Lucio's first turn of each combat (40ft that turn; 50ft if Longstrider is active). Dreadful Strike adds 2d6 Psychic damage to a weapon hit, at most once per turn, 2/2 uses per Long Rest (WIS modifier). Initiative Bonus adds WIS+2 to initiative; included in +7 above.
+Umbral Sight: Darkvision 60ft. While entirely in Darkness, Lucio has the Invisible condition against creatures relying on Darkvision to see him there. This does not make him invisible in daylight or against every creature in darkness.
+Gloom Stalker Spells: Disguise Self always prepared separately from the four Ranger prepared spells. Casting it spends a level-1 spell slot; no free cast from this subclass. It changes visible appearance for 1 hour and does not stand up to touch. Further subclass spells are not yet available.
 
 ## Skills and features
 Ranger skills: Perception+4, Survival+6 (Deft Explorer expertise), Athletics+3.
@@ -29,10 +34,11 @@ Setting language convention: all languages are human languages; names replace fa
 
 ## Magic
 Spellcasting WIS; save DC12, spell attack+4. Level1 spell slots2/3 (one expended earlier on Hamid; third slot gained at level up).
-Prepared: Cure Wounds, Ensnaring Strike, Speak with Animals; fourth level-1 Ranger spell selection pending.
+Prepared: Cure Wounds, Ensnaring Strike, Speak with Animals, Longstrider (fourth selection chosen at level 3).
+Subclass spell always prepared separately: Disguise Self.
 Hunter's Mark always prepared separately; Favored Enemy gives2/2 slot-free casts per Long Rest.
 No cantrips. Ranger can replace one prepared spell after Long Rest. Ritual casting applies to prepared ritual spells under 2024 rules.
-Hunter's Mark and Ensnaring Strike require Concentration; cannot maintain both. Check actual spell text before casting; do not mix 2014 and 2024 timing or effects.
+Hunter's Mark and Ensnaring Strike require Concentration; cannot maintain both. Longstrider and Disguise Self do not require Concentration. Check actual spell text before casting; do not mix 2014 and 2024 timing or effects.
 Druidic focus: starting sprig of mistletoe. Its ownership is equipment, not an invented encounter or teacher.
 
 ## Starting equipment and money
@@ -45,7 +51,7 @@ Water fill and carried weight must be established before desert travel; a waters
 Collected5 GP advance and15 GP balance after delivery, total20 GP. Contract paid in full.
 
 ## Current scene
-See ../state/current.md. Day2 about sixth bell, alone in Clay Cup room3 after surgeon treatment and a quiet period of thought. Milestone Ranger3 reached; subclass and fourth prepared spell pending. HP25/25,AC15,slots2/3,Lucky0/2,Heroic Inspiration1,HitDice3d10,17arrows,108GP7SP4CP. No Short or Long Rest this scene. Doctor left, food and ale untouched.
+See ../state/current.md. Day2 about sixth bell, alone in Clay Cup room3 after surgeon treatment and a quiet period of thought. Milestone Ranger3 reached; Gloom Stalker and Longstrider chosen. HP25/25,AC15,slots2/3,Lucky0/2,Heroic Inspiration1,HitDice3d10,17arrows,108GP7SP4CP. No Short or Long Rest this scene. Doctor left, food and ale untouched.
 
 ## Sources
 https://www.dndbeyond.com/sources/dnd/br-2024/character-classes
