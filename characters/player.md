@@ -51,7 +51,7 @@ Water fill and carried weight must be established before desert travel; a waters
 Collected5 GP advance and15 GP balance after delivery, total20 GP. Contract paid in full.
 
 ## Current scene
-See ../state/current.md. Day3 dawn in Clay Cup room3 after meal and overnight Long Rest. Gloom Stalker and Longstrider chosen. HP25/25,AC15 when armour worn,slots3/3,Lucky2/2,free Hunter's Mark2/2,Dreadful Strike2/2,Heroic Inspiration1,HitDice3d10 unspent,17arrows,108GP7SP4CP. Stew and bread eaten; ale untouched. Innkeeper at door with notice of watchman asking for wounded hunter; another night of room fee5SP outstanding, not yet paid.
+See ../state/current.md. Day3 dawn in Clay Cup room3 after meal and overnight Long Rest. Gloom Stalker and Longstrider chosen. HP25/25,AC15 when armour worn,slots3/3,Lucky2/2,free Hunter's Mark2/2,Dreadful Strike2/2,Heroic Inspiration1,HitDice3d10 unspent,17arrows,108GP2SP4CP. Stew and bread eaten; ale untouched. Lucio paid5SP for the second night, asked if the watchman is here; innkeeper says no, not yet as far as he knows. Innkeeper outside room.
 
 ## Sources
 https://www.dndbeyond.com/sources/dnd/br-2024/character-classes
