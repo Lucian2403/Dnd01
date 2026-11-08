@@ -24,3 +24,6 @@ Lucky2/freeMark2/HitDice2d10 remain unspent. Inspiration1 from Human Long Rest,u
 Water fill not established;breakfast drink mentioned but quantity not tracked. Ration stock unchanged by purchased meals. No desert supplies consumed.
 Case custody:Nabil -> Hamid cupboard (testimony),Lucio forceful taking (observed),Dalia verified/opened,innkeeper temporary safekeeping,Dalia collected,now inside countinghouse.
 Original warrant Saren;delivery receipt Oren;Tarek description Lucio;torn clue back behind chest;Nabil description/address sheet Lucio;Clay Cup key Lucio;Hamid key left with him. No extra confiscations or loot.
+
+## Day 3 current cash checkpoint
+Day2 dawn before second room fee:108GP7SP4CP (10874CP), per current player and scene files. Day3 dawn Lucio paid innkeeper5SP (-50CP), now108GP2SP4CP (10824CP). The older table above is a historical incomplete snapshot; subsequent case payment, bounty, meals and treatment are reflected in state/current.md and character sheet. No extra charge or watch fee.
