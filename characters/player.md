@@ -44,14 +44,14 @@ Druidic focus: starting sprig of mistletoe. Its ownership is equipment, not an i
 ## Starting equipment and money
 Use official Ranger equipment A and Wayfarer equipment A, without free substitutions.
 Studded leather; scimitar; shortsword; longbow;18 arrows;quiver;mistletoe focus.
-Explorer's Pack: backpack, bedroll,2 oil flasks,10 days rations,rope,tinderbox,10 torches,waterskin.
+Explorer's Pack: backpack, bedroll,2 oil flasks,10 days rations,rope,tinderbox,10 torches,original waterskin (now full of ale). Additional second waterskin purchased Day3, full of drinking water.
 Wayfarer:2 daggers,thieves' tools,dice set,bedroll,2 pouches,traveller's clothes.
 79 GP, 3 SP, 0 CP. Full transaction history is in ../state/ledger.md. Two bedrolls are intentional from packs; no free sale or removal. No horse, home, debts or restraints assigned.
 Water fill and carried weight must be established before desert travel; a waterskin does not give unlimited water. Current pack weight comfortably below STR12 carrying limit180lb; verify exact load when it matters.
 Collected5 GP advance and15 GP balance after delivery, total20 GP. Contract paid in full.
 
 ## Current scene
-See ../state/current.md. Day3 dawn in Clay Cup room3 after meal and overnight Long Rest. Gloom Stalker and Longstrider chosen. HP25/25,AC15 when armour worn,slots3/3,Lucky2/2,free Hunter's Mark2/2,Dreadful Strike2/2,Heroic Inspiration1,HitDice3d10 unspent,17arrows,108GP1SP4CP. Stew and bread eaten; strong ale on room table untouched. Waterskin handed to innkeeper, paid1SP for full four-pint ale fill, ready at downstairs counter; no drinking water in skin. Lucio paid5SP for the second night, asked if the watchman is here; innkeeper says no, not yet as far as he knows. Innkeeper outside room.
+See ../state/current.md. Day3 dawn in Clay Cup room3 after meal and overnight Long Rest. Gloom Stalker and Longstrider chosen. HP25/25,AC15 when armour worn,slots3/3,Lucky2/2,free Hunter's Mark2/2,Dreadful Strike2/2,Heroic Inspiration1,HitDice3d10 unspent,17arrows,107GP9SP4CP. Day3 after first bell, on street outside Clay Cup. Two full waterskins: original contains four pints of ale; second purchased for2SP and filled with clean drinking water at inn. Strong ale on room3 table untouched. Room3 key retained; no new reservation. No watchman encountered. Lucio chooses not to pursue watch matter, Nabil, Hadrin or Dalia accounts currently. Lucio paid5SP for the second night, asked if the watchman is here; innkeeper says no, not yet as far as he knows. Innkeeper outside room.
 
 ## Sources
 https://www.dndbeyond.com/sources/dnd/br-2024/character-classes
