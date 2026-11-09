@@ -27,3 +27,5 @@ Original warrant Saren;delivery receipt Oren;Tarek description Lucio;torn clue b
 
 ## Day 3 current cash checkpoint
 Day2 dawn before second room fee:108GP7SP4CP (10874CP), per current player and scene files. Day3 dawn Lucio paid innkeeper5SP (-50CP), now108GP2SP4CP (10824CP). The older table above is a historical incomplete snapshot; subsequent case payment, bounty, meals and treatment are reflected in state/current.md and character sheet. No extra charge or watch fee.
+
+Day3 shortly before first bell: paid1SP (-10CP) for a full four-pint waterskin of ordinary ale from Clay Cup cask. Previous cash108GP2SP4CP (10824CP); current108GP1SP4CP (10814CP). Full ale skin awaiting collection at common-room counter; strong ale previously purchased remains untouched in room3. No water supply has been established in carried skin.
