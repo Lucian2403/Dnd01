@@ -2,6 +2,9 @@
 Last synchronized: 2026-11-06. Real date is not an in-world date.
 
 ## Resume exactly here — Day 3 dawn
+Lucio, still half asleep, asks the innkeeper whether it is already morning and what time it is. The innkeeper answers that dawn has just passed, the first bell (approximately07:00) has not rung yet, and the day is beginning. He does not give a precise clock minute. He remains outside room3. No watchman has returned as far as he knows. No resource or time change beyond the brief exchange; cash108GP2SP4CP, HP25/25, slots3/3, Luck2/2, free Hunter's Mark2/2, Dreadful Strike2/2, Inspiration1, 17 arrows.
+
+## Previous room-payment checkpoint
 Lucio opened the room3 door enough to hand the innkeeper5SP for the second night's room; the innkeeper accepted. Lucio asked whether the watchman is here now. Innkeeper answered plainly: "No. He left after dark. He said he'd come back this morning." At this moment no watchman is in the passage or presently seen in the common room by the innkeeper; he has not returned as far as the innkeeper knows. No name, warrant, charge or more detailed message has been established. Innkeeper stands outside the room; Lucio has not chosen whether to dress, depart, question further or wait. Day3 dawn, no meaningful time advanced. Cash now108GP2SP4CP; HP25/25, AC15 when armour worn, slots3/3, Lucky2/2, free Hunter's Mark2/2, Dreadful Strike2/2, Heroic Inspiration1, Hit Dice3d10, 17 arrows; no concentration or conditions. Room3 key still held. Watchman's return remains unresolved.
 
 ## Previous overnight-rest checkpoint
