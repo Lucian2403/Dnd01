@@ -51,7 +51,7 @@ Water fill and carried weight must be established before desert travel; a waters
 Collected5 GP advance and15 GP balance after delivery, total20 GP. Contract paid in full.
 
 ## Current scene
-See ../state/current.md. Day3 dawn in Clay Cup room3 after meal and overnight Long Rest. Gloom Stalker and Longstrider chosen. HP25/25,AC15 when armour worn,slots3/3,Lucky2/2,free Hunter's Mark2/2,Dreadful Strike2/2,Heroic Inspiration1,HitDice3d10 unspent,17arrows,107GP9SP4CP. Day3 after first bell, on street outside Clay Cup. Two full waterskins: original contains four pints of ale; second purchased for2SP and filled with clean drinking water at inn. Strong ale on room3 table untouched. Room3 key retained; no new reservation. No watchman encountered. Lucio chooses not to pursue watch matter, Nabil, Hadrin or Dalia accounts currently. Lucio paid5SP for the second night, asked if the watchman is here; innkeeper says no, not yet as far as he knows. Innkeeper outside room.
+See ../state/current.md. Day3 dawn in Clay Cup room3 after meal and overnight Long Rest. Gloom Stalker and Longstrider chosen. HP25/25,AC15 when armour worn,slots3/3,Lucky2/2,free Hunter's Mark2/2,Dreadful Strike2/2,Heroic Inspiration1,HitDice3d10 unspent,17arrows,107GP9SP4CP. Day3 after first bell, on street outside Clay Cup. Two full waterskins: original contains four pints of ale; second purchased for2SP and filled with clean drinking water at inn. Strong ale on room3 table untouched. Room3 key returned at checkout; no new reservation. No watchman encountered. Lucio chooses not to pursue watch matter, Nabil, Hadrin or Dalia accounts currently. Lucio paid5SP for the second night, asked if the watchman is here; innkeeper says no, not yet as far as he knows. Innkeeper outside room.
 
 ## Sources
 https://www.dndbeyond.com/sources/dnd/br-2024/character-classes
@@ -60,7 +60,7 @@ https://www.dndbeyond.com/sources/dnd/br-2024/equipment
 https://www.dndbeyond.com/posts/1785-the-backgrounds-and-origin-feats-in-the-2024
 
 ## Additional equipment
-Light-brown headcloth purchased for5CP; worn. Clay Cup room 3 key retained into Day 2 morning, to be returned; no second night bought.
+Light-brown headcloth purchased for5CP; worn. Clay Cup room 3 key returned to innkeeper at Day3 checkout after second night.
 
 ## Case recovery payment
 Dalia's40GP paid in full (15advance+25balance) after she verified returned dispatch case and accounts. Dalia opened it herself. Nabil still missing;Lucio has not agreed further fee or declared search abandoned. Lucio supplied last sighting and source,withheld assault. Dalia later learned violence from Hamid and is now inside countinghouse. See ../state/current.md.
