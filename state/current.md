@@ -1,7 +1,10 @@
 # Current campaign state
 Last synchronized: 2026-11-06. Real date is not an in-world date.
 
-## Resume exactly here — Day 3 dawn
+## Resume exactly here — Day 3 before first bell
+Lucio yawns, notes he slept a long time, looks down the upstairs passage and asks the innkeeper whether the watchman seemed dangerous or wanted to hire him, explicitly seeking the innkeeper's assumption. Passage clear: four room doors, stair at end, morning light; no watchman visible. Innkeeper states observed facts: the watchman came alone after dark, asked once for the man the surgeon treated for a bolt wound, did not demand entry or wake Lucio, and left word he would return this morning. His impression is that the man wants to ask questions rather than offer work; he cannot know if the questions carry danger or what the watch intends. This is innkeeper inference only, not a confirmed motive, charge, warrant or employment offer. No resource change; watchman has not returned. Cash108GP2SP4CP,HP25/25,slots3/3,Lucky2/2,free Hunter's Mark2/2,Dreadful Strike2/2,Inspiration1,17arrows. Innkeeper remains outside room3; time just before first bell.
+
+## Previous first-bell exchange
 Lucio, still half asleep, asks the innkeeper whether it is already morning and what time it is. The innkeeper answers that dawn has just passed, the first bell (approximately07:00) has not rung yet, and the day is beginning. He does not give a precise clock minute. He remains outside room3. No watchman has returned as far as he knows. No resource or time change beyond the brief exchange; cash108GP2SP4CP, HP25/25, slots3/3, Luck2/2, free Hunter's Mark2/2, Dreadful Strike2/2, Inspiration1, 17 arrows.
 
 ## Previous room-payment checkpoint
