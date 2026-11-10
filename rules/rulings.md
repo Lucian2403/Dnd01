@@ -1,7 +1,7 @@
 # Rules, exceptions and corrections
 
 ## Default
-D&D 2024,Human Ranger3 as of Day2 sixth bell; subclass Gloom Stalker and fourth prepared spell Longstrider chosen by player after milestone. Preserve player's agency,real generated dice,resource accounting,NPC knowledge limits. No automatic fate/chosen-one status. Full writing requirements remain CAMPAIGN.md.
+D&D 2024,Human Ranger3 as of Day2 sixth bell; subclass Gloom Stalker and fourth prepared spell Longstrider chosen by player after milestone. Preserve player's agency,real generated dice,resource accounting,NPC knowledge limits. No automatic fate/chosen-one status. For all new dialogue and scene text, rules/dialogue.md is the authoritative writing guide; CAMPAIGN.md preserves earlier approved requirements and history.
 A failure should reflect the attempted competent action failing,not invent childish player behaviour. The market crouching/quiver snag was explicitly removed.
 Use skills only with meaningful uncertainty/stakes,not every line of dialogue. Do not repeat checks without materially changed approach.
 Check actual rule text when needed;this record reports applied rulings and does not validate every earlier ruling as official.
