@@ -11,6 +11,7 @@ At player's request:
 1. First arrow into Hamid's leg was an automatic hit with Prone;damage still rolled5+3=8. Initiative began afterwards. NOT normal called-shot or attack-before-initiative rule.
 2. Initial tail of Dalia was scripted unnoticed.
 3. Closer weighhouse approach was retconned to scripted unnoticed after actual Stealth3+5=8 failure. Original recognition and confrontation removed.
+4. At the north-road lime ramp, the stone distraction and channel flank were resolved as a player-directed scripted success after the user rejected a string of failed checks. The prior Stealth9 outcome, lookout sighting and drawn-bow warning are void. Lucio reached roughly15ft behind lookout unseen; initial Lucky use remains spent, no additional resource spent. This does not grant general automatic stealth.
 No successful random result was fabricated for these exceptions. They do not grant permanent invisibility,success or protection from consequences. Further requested overrides must be openly labelled,not silently described as dice.
 Earlier proposed combined warning-shot/shove/door exception was discussed but not actually used successfully. Do not generalize it into a feat.
 
