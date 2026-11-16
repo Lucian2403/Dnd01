@@ -1,7 +1,10 @@
 # Current campaign state
 Last synchronized: 2026-11-16. Real date is not an in-world date.
 
-## Resume exactly here — Day 3 ~14:59, Lucio questions two men
+## Resume exactly here — Day 3 ~15:00, Naim and key holder confronted
+Lucio tells Naim he saw Sami, asks who sent them to open gate, walks several steps closer from ~20ft to ~12-15ft and notes long iron key in second man's fist. He holds hand out demanding it. Naim plants feet, puts hand on hilt of short knife and pulls it partly free without attacking: "That's close enough." He says "A clerk from the West Water Office. I didn't get his name." This is Naim's unverified claim; Lucio has not verified employer or whether second man's key is stolen gate key. Second man says "We should go," edges one step up narrow stair, still facing Lucio and holding key. Naim replies "Not until I know what he did with Sami." He looks at Lucio's outstretched hand and says "Put it down. He's not giving you anything." Neither has witnessed shadow powers. No initiative, injury, resource spend, or forced player action. Sami remains at braced gate, water still flowing. Lucio can answer, use power, attack, pursue, etc. Stats unchanged HP25/25 AC15 slots3/3 Lucky1/2 freeMark2/2 Dreadful2/2 Inspiration1 HitDice3d10 16arrows cash177GP9SP4CP two full skins. Foreman owes20GP; four workers safe above.
+
+## Previous confrontation checkpoint — Lucio questions two men
 At ~20ft in wet passage by stair, Lucio answers split-ear man's "Where's Sami?" with "Are you looking for him? Who are you?" Split-ear man says "I'm Naim. We came to see why the gate isn't open." Thus name Naim is now self-identified; he claims purpose, not verified. The second man with long square-headed iron key remains several paces behind by narrow stair; his identity not given, key not conclusively identified. Naim notices Lucio has not answered about Sami, is wary, hand near belt, no weapon drawn. Neither has seen shadow powers. Lucio has not disclosed Sami's location or moved/attacked. Sami at braced partly-open gate behind Lucio, water still flowing. Four quarry workers safe above, foreman owes20GP. HP25/25,AC15,slots3/3,Lucky1/2,freeMark2/2,Dreadful2/2,Inspiration1,HitDice3d10,16arrows,cash177GP9SP4CP,two skins full. Next action Lucio's.
 
 ## Previous encounter checkpoint — Lucio calls to two men
