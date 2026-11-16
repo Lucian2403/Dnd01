@@ -6,6 +6,9 @@ A failure should reflect the attempted competent action failing,not invent child
 Use skills only with meaningful uncertainty/stakes,not every line of dialogue. Do not repeat checks without materially changed approach.
 Check actual rule text when needed;this record reports applied rulings and does not validate every earlier ruling as official.
 
+## Witnesses to shadow power
+When Lucio visibly uses shadow fume, extra hands, extreme speed or force near another person, describe that person's specific immediate reaction based on what they see and what they need to do. Let a witness pause, recoil, adapt, question, help, flee or seek to use the ability as appropriate; carry their knowledge into later encounters. An unseen use remains unseen. Do not make every witness react identically, invent automatic fear effects, or impose arbitrary legal penalties. The player explicitly corrected earlier omissions on Day3 at the quarry; state/current.md records expanded reactions from worker, Karim, foreman and Sami. Preserve scene outcomes and player agency while making social consequences visible.
+
 ## Explicit scripted exceptions
 At player's request:
 1. First arrow into Hamid's leg was an automatic hit with Prone;damage still rolled5+3=8. Initiative began afterwards. NOT normal called-shot or attack-before-initiative rule.
