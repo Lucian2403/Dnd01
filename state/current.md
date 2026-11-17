@@ -1,7 +1,10 @@
 # Current campaign state
 Last synchronized: 2026-11-17. Real date is not an in-world date.
 
-## Resume exactly here — Day 3 ~15:17, Lucio free to leave quarry
+## Resume exactly here — Day 3 ~15:18, Lucio mocks Naim's pay
+Lucio looks at Naim and boasts with laughter: "Not only I got to walk away, but I walk away with 20 gold." Naim answers that Beshir paid six gold for the gate job, referring to their initial payment; companion corrects him: Beshir handed six to Naim and Naim gave companion only two. Naim does not dispute. This establishes initial payment six total in Naim's hand, companion received two, Naim retained four; promised second half still unpaid, total/terms could be further clarified. The mundane pay dispute shows mistrust between two; no physical move or attack. Meanwhile quarry worker with tools cuts Sami's padlock/short chain safely at surface; Sami free of chain and holds key/work order. Foreman has asked men to remain by hoist, watch runner sent, lower cut closed, gate shut. Lucio still in yard, free to leave or act, money197GP9SP4CP, stats unchanged HP25/25 AC15 slots3/3 Lucky1/2 freeMark2/2 Dreadful2/2 Inspiration1 HitDice3d10 16arrows two skins full. Next action Lucio's.
+
+## Previous release checkpoint — Lucio free to leave quarry
 Lucio laughs to Naim, "You heard the foreman. He ain't me," then asks foreman if he needs more from Lucio. Foreman says no, thanks him for bringing four workers up, confirms 20GP paid. Sami can attest gate and chain; two hired men can give account of Beshir. Foreman will send for watch and bring signed work order; he does not require Lucio to stay. Naim objects that Lucio can go while he must remain; foreman replies Lucio did not chain a worker or raise water toward crew. Naim and unnamed companion stay in yard near hoist for now, not physically bound; foreman has crew present and asked them to remain. Sami has key/order, short padlocked chain ankle; worker will cut it at surface. Gate shut, lower cut closed to workers. Beshir reportedly paid at West Water yard by coal door, expected before dusk, motive for flooding new cut/old wall unknown. Lucio is free to leave or act. Stats HP25/25 AC15 slots3/3 Lucky1/2 freeMark2/2 Dreadful2/2 Inspiration1 HitDice3d10 16arrows cash197GP9SP4CP two skins full. Next action Lucio's.
 
 ## Previous answer checkpoint — Lucio describes Sami
