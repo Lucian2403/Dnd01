@@ -1,7 +1,10 @@
 # Current campaign state
 Last synchronized: 2026-11-18. Real date is not an in-world date.
 
-## Resume exactly here — Day 3 ~15:22, sharp end of Yasin's tracks
+## Resume exactly here — Day 3 ~15:23, Mansur rebukes Lucio
+Lucio laughs at Mansur, calls him dumbass and stiff/square-headed for explaining he did not literally see Yasin lifted; Lucio says he was making a comparison. Mansur does not argue semantic point. He says he saw dark shadow hands Lucio used to carry one of Mansur's men out and still cannot explain what they were; likewise he limits himself to what he saw at White Sink. He returns attention to crew, ending exchange, without withdrawing access or trying to punish Lucio. Naim and unnamed companion near hoist, having not witnessed powers, hear mention of dark hands and look at Lucio's hands uneasily; they have no proof of mechanism. White Sink cart remains by ramp, four miles north beyond kilns site unvisited by Lucio. Quarry gate shut, Sami free with key/order, watch runner sent. Cash197GP9SP4CP HP25/25 AC15 slots3/3 Lucky1/2 freeMark2/2 Dreadful2/2 Inspiration1 HitDice3d10 16arrows two skins full. Next action Lucio's.
+
+## Previous track-detail checkpoint — sharp end of prints
 Lucio asks if Yasin's tracks vanished suddenly, as if lifted or reduced to dust. Mansur confirms last boot impression was as sharp as prior ones, showing heel/toe in salt; ground immediately beyond was smooth and intact, no scuff, hole or disturbed crust. Earlier tracks remained sharp, so a wind that erased only onward prints is not supported by what he saw. Mansur and two haulers circled and found no second/return trail; he cannot establish Yasin was lifted, vanished by supernatural means or disintegrated. Retracing exactly over own prints is possible but would still need explanation of final path. This is Mansur testimony, Lucio has not examined White Sink personally. Current scene unchanged quarry yard, cash197GP9SP4CP HP25/25 AC15 slots3/3 Lucky1/2 freeMark2/2 Dreadful2/2 Inspiration1 HitDice3d10 16arrows two skins full; Naim/companion await watch, Sami holds key/order, gate shut, four workers safe one unconscious breathing; recovered covered stone cart near ramp. Next action Lucio's.
 
 ## Previous Yasin-detail checkpoint — Mansur's account
