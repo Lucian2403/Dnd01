@@ -1,7 +1,10 @@
 # Current campaign state
-Last synchronized: 2026-11-17. Real date is not an in-world date.
+Last synchronized: 2026-11-18. Real date is not an in-world date.
 
-## Resume exactly here — Day 3 ~15:18, Lucio mocks Naim's pay
+## Resume exactly here — Day 3 ~15:19, foreman names quarry
+Lucio asks foreman his name and what place/purpose. Foreman identifies himself as Mansur, foreman of the North Road lime cut, a limestone quarry. They cut stone; usable blocks go to masons/builders, broken limestone is hauled to kilns for lime. The central shaft/hoist moves men, stone and water casks to the lower workings; the four rescued workers were extending the new lower cut toward old worked wall. Old West Water Office gate/channel crosses below the quarry; that office controls gate, which Sami had order to leave closed. Mansur says work in lower cut is halted until he checks why Beshir asked about wall and paid men to run hot water into cut. This is his stated plan, not proof of Beshir motive. Lucio remains free in yard with20GP payment already collected; cash197GP9SP4CP. Sami's ankle chain/padlock cut off, holds gate key/work order. Naim/companion remain near hoist pending watch. Four workers safe, one unconscious breathing. Stats unchanged HP25/25 AC15 slots3/3 Lucky1/2 freeMark2/2 Dreadful2/2 Inspiration1 HitDice3d10 16arrows two skins full. Next action Lucio's.
+
+## Previous pay-dispute checkpoint — Lucio mocks Naim
 Lucio looks at Naim and boasts with laughter: "Not only I got to walk away, but I walk away with 20 gold." Naim answers that Beshir paid six gold for the gate job, referring to their initial payment; companion corrects him: Beshir handed six to Naim and Naim gave companion only two. Naim does not dispute. This establishes initial payment six total in Naim's hand, companion received two, Naim retained four; promised second half still unpaid, total/terms could be further clarified. The mundane pay dispute shows mistrust between two; no physical move or attack. Meanwhile quarry worker with tools cuts Sami's padlock/short chain safely at surface; Sami free of chain and holds key/work order. Foreman has asked men to remain by hoist, watch runner sent, lower cut closed, gate shut. Lucio still in yard, free to leave or act, money197GP9SP4CP, stats unchanged HP25/25 AC15 slots3/3 Lucky1/2 freeMark2/2 Dreadful2/2 Inspiration1 HitDice3d10 16arrows two skins full. Next action Lucio's.
 
 ## Previous release checkpoint — Lucio free to leave quarry
