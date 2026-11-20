@@ -1,0 +1,21 @@
+# Lucio's established shadow abilities
+Live observations as of Day 3 ~15:36. These custom feats are actual campaign canon and coexist with Ranger 3. Earlier practice or proposed future discipline is not a cap. No arbitrary spell-slot, HP, Luck, fixed range, use-count or concentration cost has been established for these feats.
+
+| Ability | Demonstrated result | Limits / unanswered questions |
+|---|---|---|
+| Shadow movement and time slowing | Crossed dozens of metres in under a second; external time slowed during deliberate arrow experiment | Exact duration/control/cost unknown; not an established absolute time stop |
+| Physical interaction in altered time | Changed course and caught his own flying arrow intact | No general immunity or ability to affect every intangible thing inferred |
+| Full and partial fume form | Whole body and carried gear transform; a small portion enters a crack; gradual controlled transformation succeeds | Mild nausea/dizziness/tremor occurred in early training; no permanent condition or automatic damage |
+| Flight | Reached cloud height in ~1 second; crossed ~6–7 miles in ~1–2 seconds; later repeated quarry/city flights | No retroactive short-range cap or automatic crash; fast low departures have physical effects when declared |
+| Shape concealment | Took shape of an actual tree's shadow | Not blanket invisibility or guaranteed anonymity |
+| Passing a narrow opening | Entered old chamber through stone crack in fume form | Not proof of passing through solid unbroken matter |
+| Shadow hands and strength | Pulled rescue rope, carried wounded workers, crushed iron wall ring without hurting Sami | Not proof that all supernatural beings can be gripped |
+| Fume-charged arrow | One shot demolished stone arch with sonic report, arrow destroyed | This is one demonstrated extreme feat; repeatability/cost not quantified. 16 arrows remain |
+| Inhuman voice projection | Muffled voice apparently from multiple directions heard in Harun yard | Presentation succeeded; no mechanical fear condition/mind control. Major first-witness reactions were inadequately written and are under editorial correction |
+| Controlled departure | Walked clear, shifted gradually and flew without repeating ground shockwave | Prior fast departure still caused falls/bruises; do not add another blast when not declared |
+
+## Related observations, not acquired abilities
+Lucio saw/heard and physically affected the flat figure identifying as Yasin; foot pressure hurt it. He can hear it after lifting foot. Ordinary searchers reportedly failed to notice/hear it. Reason unknown. Lucio has NOT demonstrated body possession, extracting souls, reattaching shadows, restoring Yasin or immunity to another entity.
+
+## Witness rule
+Record exposure by feat, not a single "knows magic" flag. First exposure to a new phenomenon still matters. See current state's witness table and rules/dm-operating.md.
