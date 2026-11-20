@@ -61,3 +61,6 @@ Adil in Yasin body and old motionless balding body now both held by Lucio at qua
 
 ## Examination update — Day 3 ~15:50
 Old body now confirmed dead by direct signs, on blanket at quarry. Exact cause not established. Conditional Cure Wounds not cast; no slot used. Lucio silently tests glass: Adil/Yasin body's reflected face matches old balding corpse and moves with living occupant, while objects reflect normally and corpse stays still. Adil notices inspection and asks what Lucio sees; not assumed to know mirror effect. Mansur keeps crew back but hasn't automatically seen tiny reflection or learned Adil lore. Shade still southbound; no restoration/escape.
+
+## Wait and arrival — Day 3 ~17:40
+After Lucio agrees to wait, Mansur keeps entrance clear, four rescued workers sent by wagon for care; two summoned watchmen cautious around fume manifestation escort Naim/companion for statements, no court outcome. Yasin shade now at quarry below own body, asks Lucio to lay it down and make Adil leave. Mansur cannot presently perceive shade unaided, asks if here; Adil sees it, stays in body. No exit/restoration/payment/new injury yet.
