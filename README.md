@@ -1,23 +1,20 @@
 # Dnd01 — Veyr campaign
-Desert-city espionage campaign. Lucio,Human Ranger3 (Gloom Stalker). D&D2024 default.
+Lucio's desert-city campaign. Human Ranger 3, Gloom Stalker; D&D 2024 baseline plus established custom shadow powers. This repository is separate from The-Pall.
 
-## Resume order
-1. [Current state](state/current.md) — exact position,time,resources and unresolved consequences.
-2. [Lucio](characters/player.md) — character mechanics and equipment.
-3. [NPCs](characters/npcs.md) — identities,testimony and knowledge limits.
-4. [Session continuation](sessions/002-salt-gate-to-countinghouse.md) — complete consequential history since Salt Gate waiting.
-5. [Dialogue and narrative rules](rules/dialogue.md) — authoritative style guide for all new scenes and speech.
-6. [Rules and canon corrections](rules/rulings.md) — actual rolls versus scripted exceptions, retcons and rests.
-7. [Money/resource ledger](state/ledger.md).
-8. [World and locations](canon/world.md).
-9. [Original campaign record](CAMPAIGN.md) — earlier writing requirements and historical log.
+## Start or resume
+1. [Standing agent instructions](AGENTS.md).
+2. [DM operating requirements and before-scene check](rules/dm-operating.md).
+3. [Dialogue rules](rules/dialogue.md) and [persistent corrections](rules/correction-log.md).
+4. [Compact live state](state/current.md) and [demonstrated shadow powers](state/shadow-powers.md).
+5. Relevant [player mechanics](characters/player.md), [NPC records](characters/npcs.md), [ledger](state/ledger.md), [world](canon/world.md), and historical sections as needed.
 
-Checkpoint: Read state/current.md for the live position, time and resources; this README intentionally does not repeat a snapshot.
+## History
+- [Checkpoints through Harun scene, preserved before compacting](sessions/003-checkpoints-through-harun-2026-11-20.md).
+- [Salt Gate through countinghouse](sessions/002-salt-gate-to-countinghouse.md).
+- [Original campaign record](CAMPAIGN.md).
+- [Mechanical rulings and historical exceptions](rules/rulings.md).
 
-## Authority and persistence
-state/current.md controls live resume;other files must agree. Historical pending-character/opening notes are not current state. Preserve original approved text and keep factual corrections explicit.
-Never convert NPC testimony into confirmed fact,grant NPCs private knowledge,or restore removed Dalia upstairs scene. Later post-delivery refusals remain canon.
-Scripted successes were explicit one-time player exceptions,not rolled successes or permanent powers.
-No automatic background saving:confirm only after successful repository writes. All repo files are readable by the owner;no truly hidden GM secrets stored.
-
-Last full synchronization:2026-10-30 (real-world date;campaign calendar not established).
+## Authority and saving
+Latest explicit player corrections govern. state/current.md controls live resume; historical snapshots never reset it. Changes to money, powers, witness knowledge and accepted revisions must be reconciled across current files.
+No automatic background saving or automatic enforcement is promised: instructions must be loaded and applied; report successful saves only after repository writes succeed. All repository files are owner-readable, including any planning notes.
+Last consistency update: 2026-11-20 (real date).
