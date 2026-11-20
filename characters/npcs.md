@@ -55,3 +55,6 @@ Claims pin-shadow/enter-at-feet displacement, out-of-body ground movement and hu
 
 ## Movement update — Day 3 ~15:43
 Lucio ended painful intrusion, gently supports Yasin's body/Adil and flew him to unused shed behind last north kiln. Harun/crew remain west yard; Harun demanded body's return. Adil identifies exposed right palm of motionless thin balding bloodstained man visible through missing roof tiles; embedded dark fragment seen. Body identity/death/fragment nature unverified; no examination or entry yet. Original Yasin shade still heading toward Mansur.
+
+## Quarry return — Day 3 ~15:45
+Adil in Yasin body and old motionless balding body now both held by Lucio at quarry ramp after supported flight. Original palm shard extracted/retained by Lucio; no restoration, escape, death determination or new magical effect observed. Mansur recognizes Yasin body, prepares blanket/space, asks whether restored or still occupied. Mansur has not yet heard Adil name/origin confession/glass account. Workers cautious around new two-body arrival. No watch arrival or Yasin shade arrival established.
