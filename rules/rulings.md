@@ -1,5 +1,8 @@
 # Rules, exceptions and corrections
 
+## Live reading note — 2026-11-20
+[DM operating requirements](dm-operating.md), [current state](../state/current.md), and [shadow powers](../state/shadow-powers.md) control current execution. The dated practice/scene checkpoints below preserve history: phrases such as "future proposal", "currently", early failed full-sun trials or short range do not erase later successful feats. Witness procedure explicitly includes extraordinary voice, flight, partial transformations and first exposure to new powers. Existing rules are not sufficient unless the draft actually shows the required reactions. See [correction log](correction-log.md).
+
 ## Default
 D&D 2024,Human Ranger3 as of Day2 sixth bell; subclass Gloom Stalker and fourth prepared spell Longstrider chosen by player after milestone. Preserve player's agency,real generated dice,resource accounting,NPC knowledge limits. No automatic fate/chosen-one status. For all new dialogue and scene text, rules/dialogue.md is the authoritative writing guide; CAMPAIGN.md preserves earlier approved requirements and history.
 A failure should reflect the attempted competent action failing,not invent childish player behaviour. The market crouching/quiver snag was explicitly removed.
