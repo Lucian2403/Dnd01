@@ -52,3 +52,6 @@ Caravan master under mule-yard lean-to;tally-board man;loader Harun named in Yus
 
 ## Adil testimony update — Day 3 ~15:41
 Claims pin-shadow/enter-at-feet displacement, out-of-body ground movement and human semblance. Seven-week origin account: cut right palm on black glass in White Sink well scavenging copper, fragment remains in abandoned body's right palm. Says repeated exits preceded sickness. Yasin first attempted displacement; restoration promise untested. All claims unverified. See state/current.md; this does not grant Lucio new power or apply Adil's alleged illness/costs to him.
+
+## Movement update — Day 3 ~15:43
+Lucio ended painful intrusion, gently supports Yasin's body/Adil and flew him to unused shed behind last north kiln. Harun/crew remain west yard; Harun demanded body's return. Adil identifies exposed right palm of motionless thin balding bloodstained man visible through missing roof tiles; embedded dark fragment seen. Body identity/death/fragment nature unverified; no examination or entry yet. Original Yasin shade still heading toward Mansur.
