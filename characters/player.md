@@ -75,3 +75,6 @@ Torn paper strip was returned behind Tarek's chest before Lucio escaped through 
 
 ## Latest acquired item — Day 3 ~15:45
 Angular black glass shard about thumbnail-size, extracted from claimed Adil body's right palm using fume pliers. Lucio retains it separately in fume without bare-skin contact. Dried blood/tissue on edge; no identification, attunement, power gain or ownership history verified. Current scene: quarry ramp, Lucio still fume holding two bodies. Money/resources unchanged from live current state.
+
+## Black shard examination — Day 3 ~15:50
+Safely examined with fume; no skin contact/cut/attunement. Curved polished face/dull back resembles fragment of made mirror. Objects reflect ordinarily; when directed at Adil in Yasin body, shows old balding face in sync with living occupant, not physical bearded face. Repeated observed effect; broader ability unknown. Conditional Cure Wounds not cast because old body confirmed dead; slots3/3 unchanged. Old body placed on blanket, living borrowed body remains gently held.
