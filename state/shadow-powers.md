@@ -11,7 +11,7 @@ Live observations as of Day 3 ~15:36. These custom feats are actual campaign can
 | Passing a narrow opening | Entered old chamber through stone crack in fume form | Not proof of passing through solid unbroken matter |
 | Shadow hands and strength | Pulled rescue rope, carried wounded workers, crushed iron wall ring without hurting Sami | Not proof that all supernatural beings can be gripped |
 | Fume-charged arrow | One shot demolished stone arch with sonic report, arrow destroyed | This is one demonstrated extreme feat; repeatability/cost not quantified. 16 arrows remain |
-| Inhuman voice projection | Muffled voice apparently from multiple directions heard in Harun yard | Presentation succeeded; no mechanical fear condition/mind control. Major first-witness reactions were inadequately written and are under editorial correction |
+| Inhuman voice projection | Muffled voice apparently from multiple directions heard in Harun yard | Presentation succeeded; no mechanical fear condition/mind control. First-witness reactions corrected by authorized yard rewrite, sessions/004-harun-arrival-rewrite.md; retain disrupted work and individual responses |
 | Controlled departure | Walked clear, shifted gradually and flew without repeating ground shockwave | Prior fast departure still caused falls/bruises; do not add another blast when not declared |
 
 ## Related observations, not acquired abilities
