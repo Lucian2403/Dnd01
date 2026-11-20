@@ -25,3 +25,6 @@ Lucio saw/heard and physically affected the flat figure identifying as Yasin; fo
 
 ## Witness rule
 Record exposure by feat, not a single "knows magic" flag. First exposure to a new phenomenon still matters. See current state's witness table and rules/dm-operating.md.
+
+## Tool shaping and simultaneous transport — Day 3 ~15:45
+Small fume hand shaped into pliers to remove embedded shard without bare-skin contact, then expanded into second large hand. Two separate adult bodies transported together under controlled support. This succeeded without damage/resource charge. It does not establish spirit confinement or artifact immunity.
