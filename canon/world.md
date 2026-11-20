@@ -1,6 +1,6 @@
 # Established world and locations
 Veyr is a fixed city beside six deep wells on a vast desert continent. Covered markets,bathhouses,temples,caravan roads,abandoned forts,burial grounds. Emperor missing11years;ministers govern in his name;provincial tax and army-pay pressures are setting background.
-Ordinary people human;very rare strange beings may exist beyond/beneath desert. Lucio never saw one. No confirmed entity encounter. Not The Pall;its industrial era is superseded. Not Dune;no moving city/orchard premise.
+Ordinary people human;very rare strange beings may exist beyond/beneath desert. At creation Lucio had not seen one. By Day 3, shadow powers and a disembodied speaking human outline are observed; species, origin and possession mechanism remain unconfirmed. Not The Pall;its industrial era is superseded. Not Dune;no moving city/orchard premise.
 Exact distances/routes are only established locally;no full city map invented.
 
 ## Places
@@ -20,3 +20,10 @@ Observed:purple wing fragment,note Salt Gate before sixth bell,heron brass seal 
 Attributed:Dalia sent Tarek note two evenings earlier,waited at gate,claims debt/accounts ownership;Tarek hid from court guards;Nabil sightings by Yusef/Hamid.
 Unresolved:why Tarek left,window intruder and pale sand,actual link between cases,why Nabil stored case,his current location,the debt claim's substance.
 Don't turn resemblance or NPC statement into proven conspiracy.
+
+## Day 3 locations — current additions
+- North Road lime cut: Mansur's limestone quarry, guarded access ramp, hoist/inspection stairs, lower cut meets old worked stone. Four workers rescued; lower water gate closed, lower work halted.
+- Old chamber/gate: Sami's former wall-chain location beyond cracked stone, rear service passage, old gate crossed by West Water Office channel; stairs to quarry yard. No monster established there.
+- White Sink: dry salt basin east of kiln road about4mi north of last northern kiln. Cairn at recovered cart site, broken salt at abrupt boot-print ending, old wells around edge. Yasin shade encountered, now crawling south.
+- West caravan yard: inside West Gate; Harun office open to mule pens, pack animals/workers, drivers' loft above stable reached by outside stair. Yasin's shadowless body currently on that stair.
+These additions do not merge west old lime kilns/Damar hideout with all northern kiln sites. Routes are local, not a complete city map.
