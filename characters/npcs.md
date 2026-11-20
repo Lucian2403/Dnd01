@@ -1,3 +1,29 @@
+# NPC records
+Live additions reconciled 2026-11-20. Read state/current.md before continuation. Older table preserved below is historical; use latest established role/knowledge. Face recognition does not confer Lucio's name.
+
+## Active scene
+- Harun: caravan foreman, west yard office beside mule pens. Met Lucio yesterday re Damar, no name given. Supplied Gate Lane lodging/Barek leads without fee/quarrel. Now first witness to fume flight/inhuman projected voice; summoned Yasin. No report of possession received. Detailed reaction requires authorized correction.
+- Yasin's shade: flat speaking outline, self-identifies missing quarry hauler; describes body stolen via shadow contact. Slowly going south from White Sink to Mansur. Account remains testimony.
+- Man in Yasin's body: matches beard/scar/shirt/wired sole; visibly no shadow in sunlight. On outside stable loft stair, ordinary footing now. Saw Lucio fume/voice. No attack/resolved possession. Actual identity/motive unknown.
+- Mansur: quarry foreman; knows rescue, visible powers, Yasin report, Beshir testimony. Paid20GP rescue and10GP search advance. Awaiting shade, expects Lucio to identify it. At quarry.
+- Sami: water-gate repairer, freed, ankle chain removed. Saw shadow strength; gate closed. Holds key, work order shown to Mansur. No magical expertise.
+- Naim: split left ear, knife sheathed, admitted chaining Sami and opening gate for payment despite warning. At quarry awaiting watch, not bound.
+- Naim's unnamed companion: exposed Beshir payment; received2 of initial6GP given to Naim. At quarry. Do not invent name or allegiance.
+- Beshir: Water Office name matching signature, alleged payer to open gate and flood new cut. Foreman claims he knew four men below. No direct encounter with Lucio or verified motive; do not merge with earlier salt-yard Bashir.
+- Four quarry workers: rescued alive, one unconscious breathing; crew saw rescue powers. No deaths in launch established.
+
+## Knowledge and witness changes
+| Person/group | Direct exposure | Current consequence / limit |
+|---|---|---|
+| Mansur and rescue crew | Shadow hands carrying workers; later full fume sonic launch; return in fume; controlled departure | First surprise and aid, then falls/injuries and caution/clearance. Mansur heard full Yasin report; cannot independently confirm possession |
+| Sami | Iron ring crushed by shadow strength; subsequent quarry manifestations | Freed, startled, safety-conscious; heard Yasin report. No magical expertise established |
+| Naim / companion | First full-fume shockwave and return; heard references to hands | Knocked down/alarmed; not prior witnesses to rescue hands. Do not give them full private Yasin knowledge automatically |
+| Harun / yard workers | First airborne fume and then apparently directionless inhuman command | These reactions were underwritten and rejected; apply correction before next authorized continuation. Harun cooperated/summoned body but is not magically compelled; knows no possession report |
+| Man on stair | Lucio fume/voice, public demand for Yasin | Studies Lucio, questioned Harun. No Lucio biography, quarry events or power origin known |
+| Yasin shade | Lucio materialization, speech, foot contact, departure as fume | Knows help sent by Mansur and is heading to him. No automatic knowledge of contract price, city finding or exact elapsed time |
+
+
+## Historical NPC register
 # Encountered NPCs and limits of knowledge
 Day2 first bell checkpoint. Read state/current.md before resuming. None of these people has been told Lucio's name unless future play establishes it. Recognizing his face is different from knowing his name.
 
@@ -22,3 +48,4 @@ Day2 first bell checkpoint. Read state/current.md before resuming. None of these
 
 ## Working contacts not yet identified
 Caravan master under mule-yard lean-to;tally-board man;loader Harun named in Yusef exchange;carter at weighhouse;two paper-carrying countinghouse customers;South Well bread seller not interviewed. Do not assign them hidden affiliations from appearance.
+
