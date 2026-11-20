@@ -2,7 +2,7 @@
 Live additions reconciled 2026-11-20. Read state/current.md before continuation. Older table preserved below is historical; use latest established role/knowledge. Face recognition does not confer Lucio's name.
 
 ## Active scene
-- Harun: caravan foreman, west yard office beside mule pens. Met Lucio yesterday re Damar, no name given. Supplied Gate Lane lodging/Barek leads without fee/quarrel. Now first witness to fume flight/inhuman projected voice; summoned Yasin. No report of possession received. Detailed reaction requires authorized correction.
+- Harun: caravan foreman, west yard office beside mule pens. Met Lucio yesterday re Damar, no name given. Supplied Gate Lane lodging/Barek leads without fee/quarrel. First witnessed fume flight/inhuman projected voice: visibly shaken, backed into doorway, summoned Yasin to protect crew; now personally notices body's absent shadow, retreats from stairs. No report of possession received. See authorized rewrite sessions/004-harun-arrival-rewrite.md.
 - Yasin's shade: flat speaking outline, self-identifies missing quarry hauler; describes body stolen via shadow contact. Slowly going south from White Sink to Mansur. Account remains testimony.
 - Man in Yasin's body: matches beard/scar/shirt/wired sole; visibly no shadow in sunlight. On outside stable loft stair, ordinary footing now. Saw Lucio fume/voice. No attack/resolved possession. Actual identity/motive unknown.
 - Mansur: quarry foreman; knows rescue, visible powers, Yasin report, Beshir testimony. Paid20GP rescue and10GP search advance. Awaiting shade, expects Lucio to identify it. At quarry.
@@ -18,7 +18,7 @@ Live additions reconciled 2026-11-20. Read state/current.md before continuation.
 | Mansur and rescue crew | Shadow hands carrying workers; later full fume sonic launch; return in fume; controlled departure | First surprise and aid, then falls/injuries and caution/clearance. Mansur heard full Yasin report; cannot independently confirm possession |
 | Sami | Iron ring crushed by shadow strength; subsequent quarry manifestations | Freed, startled, safety-conscious; heard Yasin report. No magical expertise established |
 | Naim / companion | First full-fume shockwave and return; heard references to hands | Knocked down/alarmed; not prior witnesses to rescue hands. Do not give them full private Yasin knowledge automatically |
-| Harun / yard workers | First airborne fume and then apparently directionless inhuman command | These reactions were underwritten and rejected; apply correction before next authorized continuation. Harun cooperated/summoned body but is not magically compelled; knows no possession report |
+| Harun / yard workers | First airborne fume and directionless inhuman command; Harun also sees body's absent shadow | Work disrupted; workers retreat/crouch/run, handler holds startled mule. Harun shaken, acts to protect crew, then retreats from shadowless man. No possession report received |
 | Man on stair | Lucio fume/voice, public demand for Yasin | Studies Lucio, questioned Harun. No Lucio biography, quarry events or power origin known |
 | Yasin shade | Lucio materialization, speech, foot contact, departure as fume | Knows help sent by Mansur and is heading to him. No automatic knowledge of contract price, city finding or exact elapsed time |
 
