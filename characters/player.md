@@ -1,6 +1,6 @@
 # Lucio
 Human Ranger 3 (Gloom Stalker). D&D 2024. Background: Wayfarer.
-Player-confirmed: grew up alone in poverty among society's lowest; knows no comfortable life. Learned some magic in the past. No teacher, place, motive or further history established. Uses a bow and light, fast sword. Never saw a strange entity.
+Player-confirmed: grew up alone in poverty among society's lowest; knows no comfortable life. Learned some magic in the past. No teacher, place, motive or further history established. Uses a bow and light, fast sword. At creation he had never seen a strange entity; Day 3 supernatural encounters are recorded in state/current.md.
 Remaining mechanical selections below are DM defaults to get play started, editable before their first relevant use; they are not new biography.
 
 ## Scores and combat
@@ -41,7 +41,7 @@ No cantrips. Ranger can replace one prepared spell after Long Rest. Ritual casti
 Hunter's Mark and Ensnaring Strike require Concentration; cannot maintain both. Longstrider and Disguise Self do not require Concentration. Check actual spell text before casting; do not mix 2014 and 2024 timing or effects.
 Druidic focus: starting sprig of mistletoe. Its ownership is equipment, not an invented encounter or teacher.
 
-## Starting equipment and money
+## Starting equipment and historical money
 Use official Ranger equipment A and Wayfarer equipment A, without free substitutions.
 Studded leather; scimitar; shortsword; longbow;18 arrows;quiver;mistletoe focus.
 Explorer's Pack: backpack, bedroll,2 oil flasks,10 days rations,rope,tinderbox,10 torches,original waterskin (now full of ale). Additional second waterskin purchased Day3, full of drinking water.
@@ -50,8 +50,11 @@ Wayfarer:2 daggers,thieves' tools,dice set,bedroll,2 pouches,traveller's clothes
 Water fill and carried weight must be established before desert travel; a waterskin does not give unlimited water. Current pack weight comfortably below STR12 carrying limit180lb; verify exact load when it matters.
 Collected5 GP advance and15 GP balance after delivery, total20 GP. Contract paid in full.
 
-## Current scene
-See ../state/current.md. Day3 dawn in Clay Cup room3 after meal and overnight Long Rest. Gloom Stalker and Longstrider chosen. HP25/25,AC15 when armour worn,slots3/3,Lucky2/2,free Hunter's Mark2/2,Dreadful Strike2/2,Heroic Inspiration1,HitDice3d10 unspent,17arrows,107GP9SP4CP. Day3 after first bell, on street outside Clay Cup. Two full waterskins: original contains four pints of ale; second purchased for2SP and filled with clean drinking water at inn. Strong ale on room3 table untouched. Room3 key returned at checkout; no new reservation. No watchman encountered. Lucio chooses not to pursue watch matter, Nabil, Hadrin or Dalia accounts currently. Lucio paid5SP for the second night, asked if the watchman is here; innkeeper says no, not yet as far as he knows. Innkeeper outside room.
+## Current scene and resources — reconciled 2026-11-20
+Day 3 ~15:36, west caravan yard. Full shadow-fume form, hovering near office-awning height. Harun summoned Yasin's shadowless body to the outside loft stair. Scene is paused for OOC correction of inadequate witness reactions.
+HP25/25; AC15; slots3/3; Lucky1/2; free Hunter's Mark2/2; Dreadful Strike2/2; Inspiration1; Hit Dice3d10 unspent; arrows16; money207GP9SP4CP. Two full skins (water/ale). No concentration or formal condition.
+[Current state](../state/current.md) controls live details. [Shadow powers](../state/shadow-powers.md) records actual custom abilities including flight, time slowing, fume, hands and projected voice. They are acquired canon, not merely a future proposal. No new cost or cap may be invented retroactively.
+The equipment section above preserves earlier inventory/history; its old balances are not the live balance.
 
 ## Sources
 https://www.dndbeyond.com/sources/dnd/br-2024/character-classes
