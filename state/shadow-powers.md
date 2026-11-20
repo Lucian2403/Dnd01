@@ -28,3 +28,6 @@ Record exposure by feat, not a single "knows magic" flag. First exposure to a ne
 
 ## Tool shaping and simultaneous transport — Day 3 ~15:45
 Small fume hand shaped into pliers to remove embedded shard without bare-skin contact, then expanded into second large hand. Two separate adult bodies transported together under controlled support. This succeeded without damage/resource charge. It does not establish spirit confinement or artifact immunity.
+
+## Sustained state — Day 3 ~15:53–17:40
+Lucio maintained full-fume form and gently supported living adult in giant hand during agreed wait, retaining shard separately, without established resource loss/condition. This is demonstrated duration, not a new maximum or universal spirit-containment proof.
