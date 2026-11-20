@@ -3,11 +3,10 @@ Last synchronized: 2026-11-20. Real date is not campaign time.
 Startup: read [AGENTS.md](../AGENTS.md), [operating requirements](../rules/dm-operating.md), [dialogue](../rules/dialogue.md), [powers](shadow-powers.md), [corrections](../rules/correction-log.md).
 History: [preserved checkpoints through this scene](../sessions/003-checkpoints-through-harun-2026-11-20.md). Older sheets' snapshots never reset this state.
 
-## Exact resume — Day 3 ~15:37, missing shadow stated aloud
-Lucio still full fume hovering by wall asks Harun "Look at Yasin's body. Does he have a shadow?"
-Harun looks over boots, steps and wall; tests his own hand's visible shadow, confirms "No." He tells man "Stay on the stairs" and backs away; his cast shadow withdraws from lower steps as he moves. Worker at carts peers out upon hearing this, does not automatically know possession.
-Man notices Lucio's use of "body", stops addressing Harun as ordinary Yasin, says to Lucio "You spoke to him." This is inference/recognition, not access to private conversation. As Harun retreats, man's eyes follow moving tip of Harun's cast shadow then return to Lucio. He asks "Is he still at the salt basin?" He already knows that site from described theft; no player answer yet, no confirmed attacker name/full motive. He has not stepped onto Harun shadow or attempted possession/attack. Harun still on ground several yards clear of stair, frightened, warning it to stop; workers in cover, open gate, loft doorway above. Lucio has not moved/attacked or spent resource. Original shade continues south toward quarry.
-Arrival rewrite in sessions/004-harun-arrival-rewrite.md; new live beat here supersedes prior resume point.
+## Exact resume — Day 3 ~15:38, Adil's claimed explanation
+Lucio still fume asks figure who he is and how he cut Yasin's shadow from body. Man self-identifies "Adil"; name/origin unverified. Claims he held Yasin's shadow against ground so Yasin could not pull free, then entered Yasin's body, displacing Yasin into shadow. He claims pinning alone did not accomplish exchange; entry/displacement was separate act. This is NPC explanation, not a new Lucio power or guaranteed universal magical rule. No complete costs/range/resistance known.
+Harun hears admission, asks if man has been sleeping upstairs among drivers; Adil does not deny. Harun orders crew inside stable, away from stairs; they withdraw by routes clear of man, mule handler still securing animal, not all already gone. No automatic magic protection from shade established.
+Adil keeps Yasin's hands visible on railing, says he can put Yasin back if shadow is brought here and offers to let Lucio watch. This is offer/claim, not proven restoration or agreed deal, no payment or guarantee. Neither attacker name/species/motive beyond possession nor targets in city established. Lucio has not answered original question about shade location, told Harun full report, moved, materialized, attacked, accepted bargain or spent resources. Body remains on sunlit outside stairs, shadowless, no new attack/contact. Original Yasin shade crawling south toward Mansur, hours away. Next action player's.
 
 ## Live mechanics and equipment
 - Human Ranger 3, Gloom Stalker; AC15; HP25/25; Hit Dice3d10 unspent.
@@ -26,7 +25,7 @@ Mansur paid10GP advance, already included in money. Additional30GP for Yasin ret
 - Claims body moved legs without touching salt and cast no shadow, searched pockets, asked which city gate stays open after dark, then left toward road. No witnessed city entry.
 - Yasin's shade is now slowly crawling south to quarry under own power; expected hours, not yet arrived. It can cross from salt to gritty ground. He says searchers didn't see/hear him. No confirmed reason Lucio can.
 - White Sink east of road ~4mi north of last northern kiln; cairn at recovered cart site, broken salt at end of prints, old wells. Original body/attacker identity and return method unresolved.
-- Current stair man matches and is shadowless, corroborating account but not revealing full identity/motive/powers. He has not been told Lucio's name or quest.
+- Current stair man matches and is shadowless; self-identifies as Adil and admits displacement, offering restoration with shade present. These are claims; motive/species/method still unverified. He has not been told Lucio's name or quest.
 
 ## Quarry and other live matters
 Mansur runs North Road lime cut. Four rescued workers alive above, one unconscious but breathing;20GP rescue paid already. Lower gate closed/locked, no new hot inflow, lower cut closed to work.
