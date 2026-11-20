@@ -1,16 +1,16 @@
 # NPC records
 Live additions reconciled 2026-11-20. Read state/current.md before continuation. Older table preserved below is historical; use latest established role/knowledge. Face recognition does not confer Lucio's name.
 
-## Active scene
-- Harun: caravan foreman, west yard office beside mule pens. Met Lucio yesterday re Damar, no name given. Supplied Gate Lane lodging/Barek leads without fee/quarrel. First witnessed fume flight/inhuman projected voice: visibly shaken, backed into doorway, summoned Yasin to protect crew; now personally notices body's absent shadow, confirms it aloud and orders man to stay on stairs. Heard Adil's admission of displacing Yasin; sees giant fume grip and new ear intrusion. Retreats into stable doorway, calls Yasin's name, cannot hear targeted whisper. See authorized rewrite sessions/004-harun-arrival-rewrite.md.
-- Yasin's shade: flat speaking outline, self-identifies missing quarry hauler; describes body stolen via shadow contact. Slowly going south from White Sink to Mansur. Account remains testimony.
-- Man in Yasin's body: matches beard/scar/shirt/wired sole; visibly no shadow in sunlight. On outside stable loft stair, ordinary footing now. Saw Lucio fume/voice. Currently physically restrained around ribs/upper arms by giant fume hand; light squeeze painful but no lasting injury established, no escape or new possession resolved. On hearing Lucio call him Yasin's body, infers Lucio spoke to displaced self, asks if shade remains at salt basin; follows Harun's moving shadow with eyes. Self-identifies as Adil; claims to have pinned Yasin's shadow and entered/displaced him, offers restoration if shade brought here. Claims unverified; origin/species unknown. Now under targeted fume-ear whisper, visibly acutely distressed/disoriented, begs removal; no permanent mental condition or mind reading established. Under giant-hand restraint now claims own body was dying, could not return after leaving it, deliberately took lone Yasin to survive; this account unverified.
-- Mansur: quarry foreman; knows rescue, visible powers, Yasin report, Beshir testimony. Paid20GP rescue and10GP search advance. Awaiting shade, expects Lucio to identify it. At quarry.
-- Sami: water-gate repairer, freed, ankle chain removed. Saw shadow strength; gate closed. Holds key, work order shown to Mansur. No magical expertise.
-- Naim: split left ear, knife sheathed, admitted chaining Sami and opening gate for payment despite warning. At quarry awaiting watch, not bound.
-- Naim's unnamed companion: exposed Beshir payment; received2 of initial6GP given to Naim. At quarry. Do not invent name or allegiance.
-- Beshir: Water Office name matching signature, alleged payer to open gate and flood new cut. Foreman claims he knew four men below. No direct encounter with Lucio or verified motive; do not merge with earlier salt-yard Bashir.
-- Four quarry workers: rescued alive, one unconscious breathing; crew saw rescue powers. No deaths in launch established.
+## Active scene — Day 3 ~17:42
+- Yasin: restored to own living body at quarry after voluntary Adil exit and shade reentry at feet. Cast shadow visible again; Lucio sees Yasin's face in shard. Conscious, coughing initially, grasps own shirt/feels limbs; recoils at Mansur's first touch, then recognizes him and grips sleeve. Says "Don't let him go." No knowledge of contract price, mirror result or Lucio name automatically granted.
+- Adil: now departed Yasin body, separate flat dark outline successfully enclosed by Lucio's cupped fume hand. Shifts against fingers but remains held; says to Lucio "I've left him. You saw." No new attack or possession. Mansur cannot independently see/hear this shade. Original balding body remains dead, covered on blanket. Origin/illness story remains testimony.
+- Mansur: quarry foreman; witnessed Yasin body go slack, recover, regain attached shadow. Crosses rope/kneels despite fear of fume, withdraws offered hand when Yasin recoils, orients him. Asks Lucio if still holding other one. Alive-return condition met;30GP balance owed, no payment yet. Prior judgment: restore victim first, no automatic killing merely for disembodiment, no uncontrolled release among workers; victim must get say.
+- Harun: remains west caravan yard beside mule pens, not present at reunion. Knows face, no Lucio name. First fume flight/inhuman voice disrupted yard; noticed absent shadow, heard admission of displacement, saw restraint/ear intrusion before Lucio left with captive. Demanded return.
+- Sami: water-gate repairer, freed, ankle chain removed. Holds gate key; work order shown to Mansur, no permanent transfer. Saw rescue/strength and quarry manifestations; no magical expertise or automatic access to private mirror/Adil testimony.
+- Naim and unnamed companion: escorted from quarry by two summoned watchmen during wait for statements/investigation. No conviction or sentence. Admit paid to open gate despite Sami warning; companion names Beshir.
+- Beshir: Water Office name matching signature, alleged payer to open gate and flood new cut; foreman claims he knew men below. Motive unverified. Do not merge salt-yard Bashir.
+- Four rescued workers: departed by wagon for treatment during wait; one still lying down. No medical outcome established.
+- Quarry crew behind rope: keep clear of reunion; no automatic shade perception or private reflection knowledge.
 
 ## Knowledge and witness changes
 | Person/group | Direct exposure | Current consequence / limit |
@@ -64,3 +64,6 @@ Old body now confirmed dead by direct signs, on blanket at quarry. Exact cause n
 
 ## Wait and arrival — Day 3 ~17:40
 After Lucio agrees to wait, Mansur keeps entrance clear, four rescued workers sent by wagon for care; two summoned watchmen cautious around fume manifestation escort Naim/companion for statements, no court outcome. Yasin shade now at quarry below own body, asks Lucio to lay it down and make Adil leave. Mansur cannot presently perceive shade unaided, asks if here; Adil sees it, stays in body. No exit/restoration/payment/new injury yet.
+
+## Supervised reunion — Day 3 ~17:42
+Player accepts setup/exit/check recommendation. Lucio lowers body, catches departing Adil in cupped fume hand; Yasin enters at feet and recovers, attached shadow returns, shard reflects Yasin face. Mansur kneels, respects Yasin's recoil, orients him. Yasin wants Adil kept captive. Adil remains held and asks credit for compliance; no release/judgment/payment. See active scene and current state.
