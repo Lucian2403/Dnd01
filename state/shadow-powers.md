@@ -17,6 +17,9 @@ Live observations as of Day 3 ~15:36. These custom feats are actual campaign can
 ## Targeted fume whisper — observed Day 3 ~15:40
 Lucio sent a thin fume strand into Adil's borrowed body's ear carrying one whispered word. Captive showed severe immediate distress/disorientation and claimed to hear voice inside. This demonstrates targeted delivery and observed short-term effect; it does not establish permanent insanity, mind control, thought/memory reading, automatic spirit extraction or arbitrary extra resource cost. See current state for ongoing thread/restraint.
 
+## Supported passenger flight — Day 3 ~15:43
+Lucio gently held and supported a separate living adult body with fume hand while flying from west yard to northern kiln shed. Safe transport succeeded, no added damage/cost. This does not establish that an unwilling possessing spirit cannot leave its captive body.
+
 ## Related observations, not acquired abilities
 Lucio saw/heard and physically affected the flat figure identifying as Yasin; foot pressure hurt it. He can hear it after lifting foot. Ordinary searchers reportedly failed to notice/hear it. Reason unknown. Lucio has NOT demonstrated body possession, extracting souls, reattaching shadows, restoring Yasin or immunity to another entity.
 
