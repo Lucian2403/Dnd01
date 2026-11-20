@@ -3,12 +3,14 @@ Last synchronized: 2026-11-20. Real date is not campaign time.
 Startup: read [AGENTS.md](../AGENTS.md), [operating requirements](../rules/dm-operating.md), [dialogue](../rules/dialogue.md), [powers](shadow-powers.md), [corrections](../rules/correction-log.md).
 History: [preserved checkpoints through this scene](../sessions/003-checkpoints-through-harun-2026-11-20.md). Older sheets' snapshots never reset this state.
 
-## Exact resume and editorial pause
-Day 3 ~15:36, west caravan yard inside Veyr's West Gate. Lucio is full shadow fume hovering near outer wall, about office-awning height. He has not materialized or attacked.
-He commanded in a muffled apparently inhuman voice seeming to come from every direction: "Harun! Find Yasin. Bring him here!"
-Harun summoned Yasin from the drivers' loft. A man now stands on sunlit outside wooden stair, hand on rail, boots on wood: short dark beard, scar through left eyebrow, blue work shirt, right sole tied with wire. He casts no shadow; wood casts normal shadows. He asked Harun what he brought into the yard; Harun said Lucio asked for him.
-Loft door/escape route remains above; Harun on ground near stair, workers/mules at pens or backed away. No weapons drawn, no attack/possession attempt resolved.
-Player explicitly rejected inadequate witness reactions to the supernatural voice, then requested durable instructions. No replacement scene has been approved or new IC action taken. Keep this pause; do not silently canonize an editorial rewrite.
+## Exact resume — authorized yard-arrival rewrite, Day 3 ~15:36
+On 2026-11-20 player explicitly asked to continue directly from arrival in Harun's yard, authorizing revision of inadequate supernatural reactions. Replaces prior arrival/voice/summoning narration; subsequent OOC did not advance time.
+Lucio arrives controlled full-fume hovering at office-awning height near outer wall. No shockwave or harm from flight. Workers interrupt work: handler slips mule lead, second man catches it; one person runs toward gate; handler told inside; others retreat/crouch. Harun backs into frame, returns partly, visibly unable to speak initially.
+Previously declared player command is replayed verbatim: "Harun. Find Yasin. Bring him here." Muffled voice perceived above Harun, by stable wall and behind carts. Handler with rope turns, rope hurts palm, kneels but holds animal; crouched worker covers ears. Harun checks empty office, points shakily upstairs, grips wrist to steady it. Worker objects to calling Yasin down; Harun orders him behind stable and goes near bottom of stairs without approaching fume, shouts twice.
+Man matching short beard/scar left eyebrow/blue shirt/wired right boot emerges loft and descends to sunlight, hand on rail. Boots now ordinary contact; no cast shadow while wooden stairs cast clear bars. Harun notices absence after looking from face to ground, checks his own shadow, retreats several steps. This is new observer knowledge: he has now personally seen TWO supernatural anomalies, doesn't know possession.
+Man asks "Harun, what is that?" then "Was it asking for me?" Harun gives no answer. Man notices Harun looking at absent shadow, loosens rail grip, becomes still. No attack, flight, contact with another shadow or possession resolved. Loft doorway remains above, yard gate open, workers clear/moving; Harun no longer immediately under stair.
+Lucio has not materialized, spoken new words beyond replayed command, or attacked. Next action player's.
+Story text preserved in sessions/004-harun-arrival-rewrite.md.
 
 ## Live mechanics and equipment
 - Human Ranger 3, Gloom Stalker; AC15; HP25/25; Hit Dice3d10 unspent.
@@ -43,8 +45,8 @@ Recovered cart still has limestone load at quarry; Lucio has not searched it. Da
 | Mansur and rescue crew | Shadow hands carrying workers; later full fume sonic launch; return in fume; controlled departure | First surprise and aid, then falls/injuries and caution/clearance. Mansur heard full Yasin report; cannot independently confirm possession |
 | Sami | Iron ring crushed by shadow strength; subsequent quarry manifestations | Freed, startled, safety-conscious; heard Yasin report. No magical expertise established |
 | Naim / companion | First full-fume shockwave and return; heard references to hands | Knocked down/alarmed; not prior witnesses to rescue hands. Do not give them full private Yasin knowledge automatically |
-| Harun / yard workers | First airborne fume and then apparently directionless inhuman command | These reactions were underwritten and rejected; apply correction before next authorized continuation. Harun cooperated/summoned body but is not magically compelled; knows no possession report |
-| Man on stair | Lucio fume/voice, public demand for Yasin | Studies Lucio, questioned Harun. No Lucio biography, quarry events or power origin known |
+| Harun / yard workers | First airborne fume, then apparently directionless inhuman command | Work disrupted, several retreat/crouch or run, handler holds startled mule. Harun shaken, cooperates to protect crew; now sees body's missing shadow and retreats. No possession report received |
+| Man on stair | Lucio fume/voice, public demand, Harun noticing absent shadow | Stops on stairs watching Lucio and Harun; knows Harun noticed anomaly. No Lucio biography, quarry events or power origin known |
 | Yasin shade | Lucio materialization, speech, foot contact, departure as fume | Knows help sent by Mansur and is heading to him. No automatic knowledge of contract price, city finding or exact elapsed time |
 
 ## Harun refresher
