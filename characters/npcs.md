@@ -49,3 +49,6 @@ Day2 first bell checkpoint. Read state/current.md before resuming. None of these
 ## Working contacts not yet identified
 Caravan master under mule-yard lean-to;tally-board man;loader Harun named in Yusef exchange;carter at weighhouse;two paper-carrying countinghouse customers;South Well bread seller not interviewed. Do not assign them hidden affiliations from appearance.
 
+
+## Adil testimony update — Day 3 ~15:41
+Claims pin-shadow/enter-at-feet displacement, out-of-body ground movement and human semblance. Seven-week origin account: cut right palm on black glass in White Sink well scavenging copper, fragment remains in abandoned body's right palm. Says repeated exits preceded sickness. Yasin first attempted displacement; restoration promise untested. All claims unverified. See state/current.md; this does not grant Lucio new power or apply Adil's alleged illness/costs to him.
