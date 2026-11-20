@@ -62,3 +62,15 @@ Corrections improve a specific requirement or example; they never silently repla
 - "Are those your friends?" Resolve the actual exchange; do not automatically create a fight or political conspiracy.
 - Recap: retrieve the relevant earlier encounter; do not advance the scene or save new biography.
 - Player ends play in anger: stop. Do not make an unsolicited scene rewrite canonical.
+
+## Additional creative direction — confirmed 2026-11-20
+Target natural, unsettling, psychologically complex adult storytelling. The player explicitly asks for twisted, disorienting ("mindfuck") plots and explicit storytelling. This deepens the 19 requirements; it does not relax continuity, ordinary spoken English, agency or literal clarity.
+- Adult subject matter can include desire, intimacy, betrayal, exploitation, coercion, violence, shame, grief, compromised loyalties and the use of power. Characters have specific personal stakes and limits; do not make everyone depraved or every interaction hostile.
+- Use concrete physical and psychological detail appropriate to the scene. Injuries, fear, attraction, cruelty and consequences must be legible rather than hidden behind generic labels. Narrative intensity is not a requirement for constant violence or shock.
+- Develop disturbing implications through established facts, human choices and coherent supernatural behavior. Plan enough of a mystery's cause before extending its clues that later discoveries fit.
+- Twists should change the interpretation of earlier evidence. Leave fair signs; preserve the literal events. Do not retroactively falsify player observations, secretly negate a successful action, or manufacture a new culprit each time the player guesses.
+- A character can lie, misunderstand, exploit or conceal. Identify their knowledge and motive internally. Never use unreliable NPC testimony as an excuse for inconsistent spatial narration or arbitrary rules.
+- Let revelation affect the next choice, relationships or stakes. Avoid an endless sequence of mysterious names, vague warnings and deferred answers.
+- Maintain natural speech even in horror. No theatrical villain lectures, ornate riddles, convenient exposition confessions or narration announcing how shocking a twist is.
+- Sustain the tone across turns. A quieter practical exchange can retain its personal stakes without a new twist every paragraph.
+- "Perfect" is an aspiration, not a claim the DM can guarantee. Verify the actual draft against the requirements and correct concrete failures.
