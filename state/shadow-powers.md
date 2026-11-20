@@ -14,6 +14,9 @@ Live observations as of Day 3 ~15:36. These custom feats are actual campaign can
 | Inhuman voice projection | Muffled voice apparently from multiple directions heard in Harun yard | Presentation succeeded; no mechanical fear condition/mind control. First-witness reactions corrected by authorized yard rewrite, sessions/004-harun-arrival-rewrite.md; retain disrupted work and individual responses |
 | Controlled departure | Walked clear, shifted gradually and flew without repeating ground shockwave | Prior fast departure still caused falls/bruises; do not add another blast when not declared |
 
+## Targeted fume whisper — observed Day 3 ~15:40
+Lucio sent a thin fume strand into Adil's borrowed body's ear carrying one whispered word. Captive showed severe immediate distress/disorientation and claimed to hear voice inside. This demonstrates targeted delivery and observed short-term effect; it does not establish permanent insanity, mind control, thought/memory reading, automatic spirit extraction or arbitrary extra resource cost. See current state for ongoing thread/restraint.
+
 ## Related observations, not acquired abilities
 Lucio saw/heard and physically affected the flat figure identifying as Yasin; foot pressure hurt it. He can hear it after lifting foot. Ordinary searchers reportedly failed to notice/hear it. Reason unknown. Lucio has NOT demonstrated body possession, extracting souls, reattaching shadows, restoring Yasin or immunity to another entity.
 
