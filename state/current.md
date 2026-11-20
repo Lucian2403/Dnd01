@@ -3,14 +3,11 @@ Last synchronized: 2026-11-20. Real date is not campaign time.
 Startup: read [AGENTS.md](../AGENTS.md), [operating requirements](../rules/dm-operating.md), [dialogue](../rules/dialogue.md), [powers](shadow-powers.md), [corrections](../rules/correction-log.md).
 History: [preserved checkpoints through this scene](../sessions/003-checkpoints-through-harun-2026-11-20.md). Older sheets' snapshots never reset this state.
 
-## Exact resume — authorized yard-arrival rewrite, Day 3 ~15:36
-On 2026-11-20 player explicitly asked to continue directly from arrival in Harun's yard, authorizing revision of inadequate supernatural reactions. Replaces prior arrival/voice/summoning narration; subsequent OOC did not advance time.
-Lucio arrives controlled full-fume hovering at office-awning height near outer wall. No shockwave or harm from flight. Workers interrupt work: handler slips mule lead, second man catches it; one person runs toward gate; handler told inside; others retreat/crouch. Harun backs into frame, returns partly, visibly unable to speak initially.
-Previously declared player command is replayed verbatim: "Harun. Find Yasin. Bring him here." Muffled voice perceived above Harun, by stable wall and behind carts. Handler with rope turns, rope hurts palm, kneels but holds animal; crouched worker covers ears. Harun checks empty office, points shakily upstairs, grips wrist to steady it. Worker objects to calling Yasin down; Harun orders him behind stable and goes near bottom of stairs without approaching fume, shouts twice.
-Man matching short beard/scar left eyebrow/blue shirt/wired right boot emerges loft and descends to sunlight, hand on rail. Boots now ordinary contact; no cast shadow while wooden stairs cast clear bars. Harun notices absence after looking from face to ground, checks his own shadow, retreats several steps. This is new observer knowledge: he has now personally seen TWO supernatural anomalies, doesn't know possession.
-Man asks "Harun, what is that?" then "Was it asking for me?" Harun gives no answer. Man notices Harun looking at absent shadow, loosens rail grip, becomes still. No attack, flight, contact with another shadow or possession resolved. Loft doorway remains above, yard gate open, workers clear/moving; Harun no longer immediately under stair.
-Lucio has not materialized, spoken new words beyond replayed command, or attacked. Next action player's.
-Story text preserved in sessions/004-harun-arrival-rewrite.md.
+## Exact resume — Day 3 ~15:37, missing shadow stated aloud
+Lucio still full fume hovering by wall asks Harun "Look at Yasin's body. Does he have a shadow?"
+Harun looks over boots, steps and wall; tests his own hand's visible shadow, confirms "No." He tells man "Stay on the stairs" and backs away; his cast shadow withdraws from lower steps as he moves. Worker at carts peers out upon hearing this, does not automatically know possession.
+Man notices Lucio's use of "body", stops addressing Harun as ordinary Yasin, says to Lucio "You spoke to him." This is inference/recognition, not access to private conversation. As Harun retreats, man's eyes follow moving tip of Harun's cast shadow then return to Lucio. He asks "Is he still at the salt basin?" He already knows that site from described theft; no player answer yet, no confirmed attacker name/full motive. He has not stepped onto Harun shadow or attempted possession/attack. Harun still on ground several yards clear of stair, frightened, warning it to stop; workers in cover, open gate, loft doorway above. Lucio has not moved/attacked or spent resource. Original shade continues south toward quarry.
+Arrival rewrite in sessions/004-harun-arrival-rewrite.md; new live beat here supersedes prior resume point.
 
 ## Live mechanics and equipment
 - Human Ranger 3, Gloom Stalker; AC15; HP25/25; Hit Dice3d10 unspent.
