@@ -17,3 +17,6 @@ The Harun scene is paused at the shadowless man's appearance on the stair. The p
 
 ## Amendment rule
 Record a dated entry with the observed failure, the specific behavioral correction and affected canon only when actually changed. Keep all 19 confirmed requirements. A later convenience or default cannot weaken them without explicit player direction.
+
+## Creative direction added — 2026-11-20
+Player requests natural, twisted, psychologically disorienting adult storytelling with explicit detail. Apply the added creative-direction section in dm-operating.md. Review whether disturbing developments follow coherent causes and change meaningful choices, rather than using random shocks or another vague lead. No IC scene or character action changed by this instruction update.
