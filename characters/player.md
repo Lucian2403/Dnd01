@@ -72,3 +72,6 @@ Dalia's40GP paid in full (15advance+25balance) after she verified returned dispa
 Nabil Sar description and Tanner Street delivery address sheet supplied by Dalia; retained.
 Tarek Venn description sheet retained. Original apprehension warrant returned to Judge Saren at Third Court. Signed, court-sealed delivery receipt surrendered to Oren after payment: bearer brought Tarek Venn alive under the identified warrant and he appeared personally before Saren; no fee or guilt finding stated.
 Torn paper strip was returned behind Tarek's chest before Lucio escaped through the window. Lucio remembers the visible text “...at the Salt Gate before sixth bell” and the purple wax fragment showing part of a bird's wing.
+
+## Latest acquired item — Day 3 ~15:45
+Angular black glass shard about thumbnail-size, extracted from claimed Adil body's right palm using fume pliers. Lucio retains it separately in fume without bare-skin contact. Dried blood/tissue on edge; no identification, attunement, power gain or ownership history verified. Current scene: quarry ramp, Lucio still fume holding two bodies. Money/resources unchanged from live current state.
