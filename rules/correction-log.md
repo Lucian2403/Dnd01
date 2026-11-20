@@ -12,8 +12,8 @@ Updated 2026-11-20. These are editorial corrections; no new scene event occurs h
 | Clumsy/illogical failures cancel ranger competence | Resolve competent intent; meaningful uncertainty only, honor agreed scripted successes | Is this obstacle causal, or invented to block the action? |
 | Monolithic current file and stale parallel sheets | Compact live state, archive old checkpoints, reconcile current money/gear/powers/NPC knowledge | Could startup reads produce two different current answers? |
 
-## Current editorial pause
-The Harun scene is paused at the shadowless man's appearance on the stair. The player rejected the inadequate reaction to the voice and then requested a durable DM workflow. This task does not authorize new IC actions or silently make a rewritten reaction canon. On resumption, honor the user's requested scope of continuation/revision.
+## Authorized revision — 2026-11-20
+Player requested restart directly from Harun yard arrival. Replaced inadequate arrival/voice/summoning narration with sessions/004-harun-arrival-rewrite.md. Work stops; workers take different protective actions; Harun is visibly shaken and summons Yasin while attempting to protect crew. He then notices body's missing shadow and retreats. Current state and NPC knowledge updated. The earlier correction remains a regression requirement on future displays; this rewrite is not proof of permanent quality. No new player action, resource loss or automatic fear condition imposed.
 
 ## Amendment rule
 Record a dated entry with the observed failure, the specific behavioral correction and affected canon only when actually changed. Keep all 19 confirmed requirements. A later convenience or default cannot weaken them without explicit player direction.
