@@ -58,3 +58,6 @@ Lucio ended painful intrusion, gently supports Yasin's body/Adil and flew him to
 
 ## Quarry return — Day 3 ~15:45
 Adil in Yasin body and old motionless balding body now both held by Lucio at quarry ramp after supported flight. Original palm shard extracted/retained by Lucio; no restoration, escape, death determination or new magical effect observed. Mansur recognizes Yasin body, prepares blanket/space, asks whether restored or still occupied. Mansur has not yet heard Adil name/origin confession/glass account. Workers cautious around new two-body arrival. No watch arrival or Yasin shade arrival established.
+
+## Examination update — Day 3 ~15:50
+Old body now confirmed dead by direct signs, on blanket at quarry. Exact cause not established. Conditional Cure Wounds not cast; no slot used. Lucio silently tests glass: Adil/Yasin body's reflected face matches old balding corpse and moves with living occupant, while objects reflect normally and corpse stays still. Adil notices inspection and asks what Lucio sees; not assumed to know mirror effect. Mansur keeps crew back but hasn't automatically seen tiny reflection or learned Adil lore. Shade still southbound; no restoration/escape.
