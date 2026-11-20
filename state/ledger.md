@@ -1,3 +1,21 @@
+# Live money and resource ledger
+Reconciled 2026-11-20. Read state/current.md for scene context.
+1GP=10SP=100CP.
+
+| Latest transaction | Change CP | Balance CP |
+|---|---:|---:|
+| Established checkpoint after Sadiq bounty | — | 17794 |
+| Mansur: four workers rescued alive | +2000 | 19794 |
+| Yasin recovery contract advance accepted | +1000 | 20794 |
+
+Current money:207GP9SP4CP. Yasin live return balance30GP unpaid; if returned dead/identifiable,10GP more instead. No extra ransom accepted.
+HP25/25; AC15; slots3/3; Lucky1/2; free Mark2/2; Dreadful Strike2/2; Inspiration1; Hit Dice3d10 unspent; arrows16 (one fume-charged arrow destroyed after earlier17-arrow checkpoint).
+Water/ale skins still full. No expense, healing, rest, ammunition use or ordinary spell slot charge on subsequent shadow flights.
+Custom shadow abilities/cost uncertainty: [powers](shadow-powers.md).
+
+## Historical ledger — preserved below
+Balances and "current" labels below refer to older dated checkpoints only. They do not override the live balance above.
+
 # Money and resource ledger
 Amounts kept in copper for checking:1GP=10SP=100CP.
 
