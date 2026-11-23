@@ -1,5 +1,5 @@
 # Lucio's established shadow abilities
-Live observations through Day 3 ~17:42. These custom feats are actual campaign canon and coexist with Ranger 3. Earlier practice or proposed future discipline is not a cap. No arbitrary spell-slot, HP, Luck, fixed range, use-count or concentration cost has been established for these feats.
+Live observations through Day 3 ~17:46. These custom feats are actual campaign canon and coexist with Ranger 3. Earlier practice or proposed future discipline is not a cap. No arbitrary spell-slot, HP, Luck, fixed range, use-count or concentration cost has been established for these feats.
 
 | Ability | Demonstrated result | Limits / unanswered questions |
 |---|---|---|
@@ -34,3 +34,6 @@ Lucio maintained full-fume form and gently supported living adult in giant hand 
 
 ## Supervised exit and shade restraint — Day 3 ~17:42
 Adil voluntarily left living Yasin body as flat dark outline at heels. Lucio caught/enclosed this shade in cupped fume hand, felt shifting pressure and maintained hold. This is demonstrated containment of this voluntarily exiting entity in this setup, not a permanent prison, general soul extraction or guaranteed hold over every spirit. Yasin's shade moved into own body's feet unaided, regained control and attached cast shadow. Lucio facilitated/protected reunion; no acquired possession/resurrection power. Shard now reflects Yasin's face rather than Adil's original face. No HP/slot/Luck cost or additional healing invented.
+
+## Adil reentry trial — Day 3 ~17:46 (related observation)
+Lucio opens hand towards original corpse at feet; Adil voluntarily enters. Dead body does not revive: no breath/pulse or mouth movement. Lucio hears Adil's shade voice from corpse despite no physical speech; other people do not. Consciousness persists in corpse. No demonstrated soul destruction, acquired Lucio possession, resurrection or new resource cost. Physical execution remains unperformed.
