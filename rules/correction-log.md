@@ -1,5 +1,5 @@
 # Corrections that must persist
-Updated 2026-11-20. These are editorial corrections; no new scene event occurs here.
+Updated 2026-11-23. These are editorial corrections; no new scene event occurs here.
 
 | Failure demonstrated | Required behavior on later turns | Concrete review question |
 |---|---|---|
@@ -20,3 +20,10 @@ Record a dated entry with the observed failure, the specific behavioral correcti
 
 ## Creative direction added — 2026-11-20
 Player requests natural, twisted, psychologically disorienting adult storytelling with explicit detail. Apply the added creative-direction section in dm-operating.md. Review whether disturbing developments follow coherent causes and change meaningful choices, rather than using random shocks or another vague lead. No IC scene or character action changed by this instruction update.
+
+## Speaker attribution and mirror explanation — 2026-11-23
+Player could not tell who said "You could have asked me for help." It was Yasin addressing Adil inside Lucio's fume hand. After a speaker change, identify speaker immediately when more than two people are present or addressee is invisible. Do not rely on paragraph proximity. No scene outcome changed.
+Player asked why mirror was recommended: retained curved black glass showed Adil's old face while he occupied Yasin. It was an optional identity check, not required restoration tool or demonstrated universal soul detector. After successful reunion reflection changed to Yasin face; record observation, keep broader powers unknown.
+
+## Handoff audit — 2026-11-23
+Older CAMPAIGN resume/world positions and parallel witness rows still described Harun scene or older countinghouse. Corrected live pointers, witness knowledge and stale current wording; preserved historical records. Adil entirely destroyed by declared player action, not an unresolved captive. No automatic new pursuit, revived remnant or future resurrection hook. Snapshot creation does not advance play.
