@@ -15,19 +15,19 @@ Live observations through Day 3 ~17:48. These custom feats are actual campaign c
 | Controlled departure | Walked clear, shifted gradually and flew without repeating ground shockwave | Prior fast departure still caused falls/bruises; do not add another blast when not declared |
 
 ## Targeted fume whisper — observed Day 3 ~15:40
-Lucio sent a thin fume strand into Adil's borrowed body's ear carrying one whispered word. Captive showed severe immediate distress/disorientation and claimed to hear voice inside. This demonstrates targeted delivery and observed short-term effect; it does not establish permanent insanity, mind control, thought/memory reading, automatic spirit extraction or arbitrary extra resource cost. See current state for ongoing thread/restraint.
+Lucio sent a thin fume strand into Adil's borrowed body's ear carrying one whispered word. Captive showed severe immediate distress/disorientation and claimed to hear voice inside. This demonstrates targeted delivery and observed short-term effect; it does not establish permanent insanity, mind control, thought/memory reading, automatic spirit extraction or arbitrary extra resource cost. The intrusion was later withdrawn before supported travel; no ongoing ear thread or permanent condition remains.
 
 ## Supported passenger flight — Day 3 ~15:43
 Lucio gently held and supported a separate living adult body with fume hand while flying from west yard to northern kiln shed. Safe transport succeeded, no added damage/cost. This does not establish that an unwilling possessing spirit cannot leave its captive body.
 
 ## Related observations, not acquired abilities
-Lucio saw/heard and physically affected the flat figure identifying as Yasin; foot pressure hurt it. He can hear it after lifting foot. Ordinary searchers reportedly failed to notice/hear it. Reason unknown. Lucio has NOT demonstrated body possession, extracting souls, reattaching shadows, restoring Yasin or immunity to another entity.
+Lucio saw/heard and physically affected the flat figure identifying as Yasin; foot pressure hurt it. He can hear it after lifting foot. Ordinary searchers reportedly failed to notice/hear it. Reason unknown. Lucio has NOT demonstrated body possession, extracting unwilling souls, directly reattaching another person's shadow or immunity to possession. He later facilitated Yasin's own voluntary reentry; that success does not itself grant a general resurrection/restoration spell. Adil containment and destruction are separately recorded below.
 
 ## Witness rule
 Record exposure by feat, not a single "knows magic" flag. First exposure to a new phenomenon still matters. See current state's witness table and rules/dm-operating.md.
 
 ## Tool shaping and simultaneous transport — Day 3 ~15:45
-Small fume hand shaped into pliers to remove embedded shard without bare-skin contact, then expanded into second large hand. Two separate adult bodies transported together under controlled support. This succeeded without damage/resource charge. It does not establish spirit confinement or artifact immunity.
+Small fume hand shaped into pliers to remove embedded shard without bare-skin contact, then expanded into second large hand. Two separate adult bodies transported together under controlled support. This succeeded without damage/resource charge. At that point spirit confinement had not been tested; later confinement is recorded below. Artifact immunity is not established.
 
 ## Sustained state — Day 3 ~15:53–17:40
 Lucio maintained full-fume form and gently supported living adult in giant hand during agreed wait, retaining shard separately, without established resource loss/condition. This is demonstrated duration, not a new maximum or universal spirit-containment proof.
@@ -40,3 +40,6 @@ Lucio opens hand towards original corpse at feet; Adil voluntarily enters. Dead 
 
 ## Partial solidity and shade destruction — Day 3 ~17:48
 Lucio materializes real hand while otherwise fume to collect30GP. Then seizes and crushes cooperative/within-reach Adil shade in fume hand. Player explicitly declares complete lethal success; it succeeds, destroying Adil entirely without surviving fragment, absorbed abilities/energy, curse, new cost or secret escape. Ordinary witnesses see the crushing gesture and hear threatening low whisper; only Lucio perceives shade collapse/brief cut-off voice. This establishes lethal effect on this entity in this setup, not universal immunity-negating destruction of all beings. See NPC/current records for consequences.
+
+## Cross-chat checkpoint
+At Day3~17:48 Lucio remains mostly fume with one solid hand holding collected coins. Adil destroyed, no surviving captive/thread. See [live state](current.md) and [dated handoff](../checkpoints/2026-11-23-quarry-after-adil.md). Do not reset early practice limits, introduce a new cost or treat Adil's origin account as Lucio's power origin.
