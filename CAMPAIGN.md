@@ -1,11 +1,10 @@
 # Campaign record
 
-## Latest resume point — authoritative
-Read state/current.md first, then characters/player.md, characters/npcs.md, and rules/rulings.md.
-Day2 first bell(~07:00). Lucio unnoticed beneath awning across Tanner Street countinghouse25ft from blue door. Dalia just entered carrying recovered case;door shut. Two paper-carrying men outside,barred service window. Lucio sees entrance but cannot hear interior. No next action selected.
-HP18/18,AC15,slots1/2,Lucky2/2,freeHunter'sMark2/2,HitDice2d10,HeroicInspiration1,79GP3SP,18arrows,no concentration. Tarek20GP and Dalia40GP fully paid. Nabil still missing. Hamid intends report;filing not established. No personal/upstairs Dalia scene before job acceptance canon;later post-delivery refusal is canon.
-Chronological continuation: sessions/002-salt-gate-to-countinghouse.md. Full ledger: state/ledger.md. World/evidence: canon/world.md.
-All pending creation,older resume and exact-resume statements below are historical snapshots superseded by this pointer. Preserve locked writing requirements.
+## Latest resume point — authoritative pointer, updated 2026-11-23
+Start with [CONTINUE.md](CONTINUE.md), [current state](state/current.md), and [dated checkpoint](checkpoints/2026-11-23-quarry-after-adil.md). Mandatory DM instructions remain in AGENTS.md and rules/dm-operating.md/dialogue.md/correction-log.md.
+Day3~17:48, Mansur's North Road quarry. Yasin restored alive; Adil's shade entirely destroyed by Lucio.30GP balance collected;237GP9SP4CP,HP25/25,slots3/3,16arrows. Lucio mostly fume with one real hand holding coins; shard retained separately. Mansur/Sami support Yasin. Last line: "You've been paid. Leave." Lucio has not departed; next action belongs to player.
+Latest sequence: [session005](sessions/005-harun-to-adil-death.md); earlier [session004](sessions/004-harun-arrival-rewrite.md), [preserved archive](sessions/003-checkpoints-through-harun-2026-11-20.md), [session002](sessions/002-salt-gate-to-countinghouse.md).
+All setup/current labels below are preserved historical snapshots, not live facts. This documentation checkpoint advances no in-world time.
 
 ## Historical setup state
 Restart requested on 2026-10-29. No gameplay has taken place. No character sheet, equipment, money, debts, rolls or consequences have been established.
