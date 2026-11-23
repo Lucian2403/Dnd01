@@ -1,7 +1,9 @@
 # Current campaign state
 Last synchronized: 2026-11-23. Real date is not campaign time.
 Startup: read [AGENTS.md](../AGENTS.md), [operating requirements](../rules/dm-operating.md), [dialogue](../rules/dialogue.md), [powers](shadow-powers.md), [corrections](../rules/correction-log.md).
-History: [preserved checkpoints through this scene](../sessions/003-checkpoints-through-harun-2026-11-20.md). Older sheets' snapshots never reset this state.
+Handoff: [start/resume instructions](../CONTINUE.md) · [complete dated checkpoint](../checkpoints/2026-11-23-quarry-after-adil.md) · [latest chronological record](../sessions/005-harun-to-adil-death.md). Earlier history: [checkpoints through Harun](../sessions/003-checkpoints-through-harun-2026-11-20.md). Older snapshots never reset live state.
+
+**Paused for cross-chat handoff. No in-world time passes while documenting. The last accepted line is Mansur's "You've been paid. Leave." Await Lucio's next action; do not make him leave automatically.**
 
 ## Exact resume — Day 3 ~17:48, Adil destroyed; contract paid
 Lucio partially materializes real hand and collects30GP from wagon, thanks Mansur, then deliberately speaks low frightening whisper "But I'm not." Uses fume hand to seize/crush Adil's exposed shade, killing him entirely as player explicitly declares. Gesture fully visible to ordinary eyes; Adil's shape collapsing/destruction and brief cut-off voice perceived by Lucio, no automatic ordinary perception of shade itself. Death succeeds: no surviving fragment, secret escape, absorption, curse, new cost or later revival hook.
@@ -25,7 +27,7 @@ Self-identifies Adil. Says black glass cut his right palm seven weeks ago in Whi
 
 ## Yasin: evidence and testimony
 - Observed: flat crawling human outline at White Sink, no solid body above it or trail; audible adult voice. Foot pinned hand and hurt; lifting foot freed it; voice stayed audible.
-- Self-identifies Yasin and names employer Mansur; correctly describes beard/scar/shirt/wired boot matching man now on stair. Supernatural mechanism not verified.
+- Self-identified Yasin and named employer Mansur; described beard/scar/shirt/wired boot later matched to recovered living body. Supernatural mechanism not verified.
 - Claims passenger offered2SP on kiln road for ride to White Sink wells before delivery. Followed to collect fare; passenger stepped on his cast shadow; Yasin became flat while own body stood, passenger disappeared from view.
 - Claims body moved legs without touching salt and cast no shadow, searched pockets, asked which city gate stays open after dark, then left toward road. No witnessed city entry.
 - Yasin's shade reached quarry ramp at~17:40; Lucio alone then saw/heard it before restoration. Crossed salt to gritty ground. Searchers reportedly didn't see/hear him; reason Lucio can remains unknown. Now Yasin is embodied again.
@@ -37,18 +39,20 @@ Mansur runs North Road lime cut. Four rescued workers left quarry by wagon for c
 Sami freed from wall ring; later ankle chain/padlock removed. Has gate key; work order shown/handed to Mansur for reading, not transferred as permanent property.
 Naim/unnamed companion were escorted from quarry by two watchmen during the wait; proceedings/outcome not established. They admit paid to open gate despite Sami warning. Companion named Beshir, matching signature on Sami's contradictory order. Employer identification is testimony; foreman also says Beshir knew men were below. Motive unproven.
 First abrupt launch knocked crew down, bruised Mansur shoulder, scraped Sami elbow, broke slate/scattered cover; no deaths/major further injuries established. Later controlled departure did not repeat it.
-Mansur warned watch via messengers about possible false Yasin, requested checking shadow and avoiding injury. Watches' receipt/action not yet shown. Mansur witnessed recovery and Lucio's threatening whisper/crushing gesture; cannot independently see Adil's shade, opposes killing and now tells Lucio to leave.
+Earlier Mansur sent a warning to watch about possible false Yasin and asked them to check the shadow/avoid injury. Receipt of that particular warning or a citywide search is unconfirmed. Two separately summoned watchmen did arrive during the wait and escort Naim/companion away. Mansur witnessed recovery and Lucio's threatening whisper/crushing gesture; cannot independently see Adil's shade, opposes killing and now tells Lucio to leave.
 Recovered cart still has limestone load at quarry; Lucio has not searched it. Dalia/Nabil/Hadrin/watch disputes remain historical/open; no new pursuit accepted.
 
 ## Knowledge and witness changes
 | Person/group | Direct exposure | Current consequence / limit |
 |---|---|---|
-| Mansur and rescue crew | Shadow hands carrying workers; later full fume sonic launch; return in fume; controlled departure | First surprise and aid, then falls/injuries and caution/clearance. Mansur heard full Yasin report; cannot independently confirm possession |
-| Sami | Iron ring crushed by shadow strength; subsequent quarry manifestations | Freed, startled, safety-conscious; heard Yasin report. No magical expertise established |
-| Naim / companion | First full-fume shockwave and return; heard references to hands | Knocked down/alarmed; not prior witnesses to rescue hands. Do not give them full private Yasin knowledge automatically |
-| Harun / yard workers | First airborne fume, then apparently directionless inhuman command | Work disrupted, several retreat/crouch or run, handler holds startled mule. Harun shaken, cooperates to protect crew; now sees body's missing shadow and retreats. No possession report received |
-| Man on stair | Lucio fume/voice, public demand, Harun noticing absent shadow | Stops on stairs watching Lucio and Harun; knows Harun noticed anomaly. No Lucio biography, quarry events or power origin known |
-| Yasin | Previously displaced shade, now reentered own body at quarry | Recognizes Mansur, recoils from initial touch, grips his sleeve and wants Adil kept captive; no contract-price knowledge |
+| Mansur | Rescue hands, sonic launch, later controlled flight/two-body return; Yasin's bodily recovery; low threatening whisper and visible crushing gesture | Protects Yasin, calls Sami, says "You've been paid. Leave." Does not independently see/hear separated shades or tiny mirror reflection. No new charge/pursuit established |
+| Sami | Iron ring crushed, quarry fume/flight, aftermath and visible final gesture | Crosses rope cautiously to support Yasin. Has gate key; no supernatural expertise or private mirror knowledge |
+| Remaining quarry crew | Rescue manifestations, shockwave/returns; cleared-space events visible from rope | Keep distance. No ordinary shade perception or automatic knowledge of all private testimony |
+| Yasin | Lucio as displaced shade, own return, public commands, low whisper and crushing gesture | Restored, reports no pain, accepted help to stand, watches coin-holding real hand. Cannot hear/see Adil shade independently; does not know mirror result |
+| Harun / west-yard workers | First airborne fume/directionless voice, absent body shadow, restraint; Harun heard admission of displacement | Work disrupted, retreat/animal control; Harun demanded body back. Still at west yard. No knowledge of later reunion/death unless information reaches them |
+| Adil | All direct interrogation, fume restraint/whisper, travel, shard inspection and reunion/trial events involving him | Entirely dead after deliberate crushing. His knowledge is not a future NPC source; no surviving shade |
+| Naim / companion | First full-fume shockwave/return and parts of quarry confrontation | Escorted away by watchmen before reunion/death. Cannot witness those later events |
+| Two summoned watchmen | Hovering fume/held living body on arrival, Mansur's private explanation | Escort Naim/companion away. No direct knowledge of later restoration/death or automatic Lucio identity |
 
 ## Harun refresher
 West-yard caravan foreman, small office opening onto mule pens. Lucio visited yesterday morning over Damar; did not give name. Harun supplied Damar's room above Gate Lane saddler and Barek association without fee/quarrel. Not a confidant. Mansur now says Yasin lodges in Harun's drivers' loft; Harun confirmed upstairs this morning.
