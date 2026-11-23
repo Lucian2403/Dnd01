@@ -10,18 +10,19 @@ Live additions reconciled 2026-11-23. Read state/current.md before continuation.
 - Naim and unnamed companion: escorted from quarry by two summoned watchmen during wait for statements/investigation. No conviction or sentence. Admit paid to open gate despite Sami warning; companion names Beshir.
 - Beshir: Water Office name matching signature, alleged payer to open gate and flood new cut; foreman claims he knew men below. Motive unverified. Do not merge salt-yard Bashir.
 - Four rescued workers: departed by wagon for treatment during wait; one still lying down. No medical outcome established.
-- Quarry crew behind rope: keep clear of reunion; no automatic shade perception or private reflection knowledge.
+- Quarry crew behind rope: keep clear throughout reunion and final gesture; no automatic shade perception or private reflection knowledge. Two summoned watchmen left with Naim/companion before these events; do not place them at final execution.
 
 ## Knowledge and witness changes
 | Person/group | Direct exposure | Current consequence / limit |
 |---|---|---|
-| Mansur and rescue crew | Shadow hands carrying workers; later full fume sonic launch; return in fume; controlled departure | First surprise and aid, then falls/injuries and caution/clearance. Mansur heard full Yasin report; cannot independently confirm possession |
-| Sami | Iron ring crushed by shadow strength; subsequent quarry manifestations | Freed, startled, safety-conscious; heard Yasin report. No magical expertise established |
-| Naim / companion | First full-fume shockwave and return; heard references to hands | Knocked down/alarmed; not prior witnesses to rescue hands. Do not give them full private Yasin knowledge automatically |
-| Harun / yard workers | First airborne fume and directionless inhuman command; Harun also sees body's absent shadow | Work disrupted; workers retreat/crouch/run, handler holds startled mule. Harun shaken, acts to protect crew, then retreats from shadowless man. No possession report received |
-| Man on stair | Lucio fume/voice, public demand for Yasin | Studies Lucio, questioned Harun. No Lucio biography, quarry events or power origin known |
-| Yasin | Lucio powers and supervised restoration in own body | Conscious, reports no pain, shaken; wants Adil held and addresses captive through closed fume hand. No automatic contract knowledge or ability to hear shade |
-
+| Mansur | Rescue hands, sonic launch, later controlled flight/two-body return; Yasin's bodily recovery; low threatening whisper and visible crushing gesture | Protects Yasin, calls Sami, says "You've been paid. Leave." Does not independently see/hear separated shades or tiny mirror reflection. No new charge/pursuit established |
+| Sami | Iron ring crushed, quarry fume/flight, aftermath and visible final gesture | Crosses rope cautiously to support Yasin. Has gate key; no supernatural expertise or private mirror knowledge |
+| Remaining quarry crew | Rescue manifestations, shockwave/returns; cleared-space events visible from rope | Keep distance. No ordinary shade perception or automatic knowledge of all private testimony |
+| Yasin | Lucio as displaced shade, own return, public commands, low whisper and crushing gesture | Restored, reports no pain, accepted help to stand, watches coin-holding real hand. Cannot hear/see Adil shade independently; does not know mirror result |
+| Harun / west-yard workers | First airborne fume/directionless voice, absent body shadow, restraint; Harun heard admission of displacement | Work disrupted, retreat/animal control; Harun demanded body back. Still at west yard. No knowledge of later reunion/death unless information reaches them |
+| Adil | All direct interrogation, fume restraint/whisper, travel, shard inspection and reunion/trial events involving him | Entirely dead after deliberate crushing. His knowledge is not a future NPC source; no surviving shade |
+| Naim / companion | First full-fume shockwave/return and parts of quarry confrontation | Escorted away by watchmen before reunion/death. Cannot witness those later events |
+| Two summoned watchmen | Hovering fume/held living body on arrival, Mansur's private explanation | Escort Naim/companion away. No direct knowledge of later restoration/death or automatic Lucio identity |
 
 ## Historical NPC register
 # Encountered NPCs and limits of knowledge
