@@ -12,7 +12,7 @@ Exact distances/routes are only established locally;no full city map invented.
 - Third Court:Copper Street main/side entrances,records room,upstairs offices. Saren heard petitions until sunset Day1. No guaranteed public entry/private searching authority.
 - Clay Cup:~5min from court,2storeys,counter,key pegs,stairs,hearth,tables. Room3 rented by Lucio;room6 Dalia. Room5SP,stew/bread3CP,breakfast2CP. No extra room night purchased.
 - Old weighhouse:Tanner Street past leather stalls,broad cart doors,stone weight,platform/balance beam,rear cupboard partition,crates,closed inner door,bell by broom. Hamid keeper. Dispatch cupboard unlocked/open after taking;storage key returned by throwing.
-- Countinghouse:Tanner Street near dye vats,delivery address on Dalia sheet. Whitewashed,blue door,barred service window. At current position Dalia inside;Lucio across street25ft under awning. No interior explored.
+- Countinghouse:Tanner Street near dye vats,delivery address on Dalia sheet. Whitewashed,blue door,barred service window. Dalia was last known inside; Lucio later infiltrated the upper rooms, memorised visitor entry and left both borrowed ledgers behind. That visit is historical, not current position; see session/archive.
 - West-road dry well:innkeeper's carter rumour only;second stopping place allegedly dry,water escort work offered by master. No desert expedition or measured travel established.
 
 ## Evidence status
@@ -24,6 +24,14 @@ Don't turn resemblance or NPC statement into proven conspiracy.
 ## Day 3 locations — current additions
 - North Road lime cut: Mansur's limestone quarry, guarded access ramp, hoist/inspection stairs, lower cut meets old worked stone. Four workers rescued; lower water gate closed, lower work halted.
 - Old chamber/gate: Sami's former wall-chain location beyond cracked stone, rear service passage, old gate crossed by West Water Office channel; stairs to quarry yard. No monster established there.
-- White Sink: dry salt basin east of kiln road about4mi north of last northern kiln. Cairn at recovered cart site, broken salt at abrupt boot-print ending, old wells around edge. Yasin shade encountered, now crawling south.
-- West caravan yard: inside West Gate; Harun office open to mule pens, pack animals/workers, drivers' loft above stable reached by outside stair. Yasin's shadowless body currently on that stair.
+- White Sink: dry salt basin east of kiln road about4mi north of last northern kiln. Cairn at recovered cart site, broken salt at abrupt boot-print ending, old wells around edge. Yasin shade encountered there, later crawled south and rejoined own body at quarry; no shade remains waiting there.
+- West caravan yard: inside West Gate; Harun office open to mule pens, pack animals/workers, drivers' loft above stable reached by outside stair. Adil occupied Yasin's shadowless body there during Day3 encounter; Lucio removed it. Harun remains at yard, not quarry.
 These additions do not merge west old lime kilns/Damar hideout with all northern kiln sites. Routes are local, not a complete city map.
+
+## Location and event checkpoint — Day3~17:48 / saved 2026-11-23
+Lucio currently at Mansur's quarry beside wagon/blanket, not Harun's loft. Yasin restored alive, Adil's shade destroyed, original corpse on blanket. Cleared area roped off; four rescue patients departed for treatment; Naim/companion escorted away by watch. Mansur/Sami support Yasin and Mansur tells Lucio to leave. No automatic departure or new pursuit.
+- Unused firing shed behind last northern kiln: bolted inside, missing roof tiles; Adil's original body and embedded palm shard found/recovered. No body remains in shed.
+- Abandoned dry settling basin west of Veyr: Lucio tested time slowing, caught arrow and later destroyed one stone arch with charged arrow; subsequent flight left site. Not proof of a magical ruin or new monster.
+- Damar hideout: old lime kilns about2mi beyond West Gate by track off west road, two towers/shed. Distinct from northern kiln route and Mansur's working quarry.
+- Sadiq last-sighting/loading ramp: about2.5mi up north road/east track, lower cut and ledge. Two scouts returned at third bell; Lucio captured Sadiq later. Do not merge all kiln/quarry/ramp sites or invent global map distances.
+Geography, testimony and open cases remain as recorded; no confirmed common cause between Water Office affair, White Sink shard, Lucio's powers or Dalia's accounts.
