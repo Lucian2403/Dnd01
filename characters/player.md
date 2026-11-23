@@ -28,7 +28,7 @@ Human skill: Investigation+2.
 Passive Perception14. Other untrained skills use their ability modifiers.
 Fighting Style: Archery.
 Human feat: Alert (initiative proficiency bonus; initiative swap only with willing ally under feat rules).
-Wayfarer feat: Lucky, 2/2 Luck Points; refresh Long Rest. Use current 2024 feat rules; ask before spending optional resources.
+Wayfarer feat: Lucky, maximum2 Luck Points; current1/2, refresh Long Rest. Use current 2024 feat rules; ask before spending optional resources.
 Human Resourceful: Heroic Inspiration on completing Long Rest. Heroic Inspiration1, gained from completed Long Rest at Clay Cup. Player chooses when to spend it; reroll one die immediately after rolling and use new result.
 Setting language convention: all languages are human languages; names replace fantasy ancestry labels without extra mechanical benefits. Common plus Veyran court speech and Western Coast speech (origin); Southern caravan speech and Eastern basin speech (Deft Explorer). No history inferred from languages.
 
@@ -75,7 +75,10 @@ Tarek Venn description sheet retained. Original apprehension warrant returned to
 Torn paper strip was returned behind Tarek's chest before Lucio escaped through the window. Lucio remembers the visible text “...at the Salt Gate before sixth bell” and the purple wax fragment showing part of a bird's wing.
 
 ## Latest acquired item — Day 3 ~15:45
-Angular black glass shard about thumbnail-size, extracted from claimed Adil body's right palm using fume pliers. Lucio retains it separately in fume without bare-skin contact. Dried blood/tissue on edge; no identification, attunement, power gain or ownership history verified. Current scene: quarry ramp, Lucio still fume holding two bodies. Money/resources unchanged from live current state.
+Angular black glass shard about thumbnail-size, extracted from claimed Adil body's right palm using fume pliers. Lucio retains it separately in fume without bare-skin contact. Dried blood/tissue on edge; no identification, attunement, power gain or ownership history verified. Historical extraction position: quarry ramp, Lucio then held two bodies. At current checkpoint Yasin restored, Adil destroyed, original corpse on blanket; shard remains with Lucio. See live state.
 
 ## Black shard examination — Day 3 ~15:50
 Safely examined with fume; no skin contact/cut/attunement. Curved polished face/dull back resembles fragment of made mirror. Objects reflect ordinarily; when directed at Adil in Yasin body, shows old balding face in sync with living occupant, not physical bearded face. Repeated observed effect; broader ability unknown. Conditional Cure Wounds not cast because old body confirmed dead; slots3/3 unchanged. Old body placed on blanket, living borrowed body remains gently held.
+
+## Handoff pointer — 2026-11-23
+[Continue instructions](../CONTINUE.md) and [complete dated checkpoint](../checkpoints/2026-11-23-quarry-after-adil.md). Last action resolved; Lucio has not left quarry. Money237GP9SP4CP; Yasin contract paid in full. No further action/resource change from creating documentation.
