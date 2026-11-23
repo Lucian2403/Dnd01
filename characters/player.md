@@ -50,11 +50,12 @@ Wayfarer:2 daggers,thieves' tools,dice set,bedroll,2 pouches,traveller's clothes
 Water fill and carried weight must be established before desert travel; a waterskin does not give unlimited water. Current pack weight comfortably below STR12 carrying limit180lb; verify exact load when it matters.
 Collected5 GP advance and15 GP balance after delivery, total20 GP. Contract paid in full.
 
-## Current scene and resources — reconciled 2026-11-20
-Day 3 ~15:36, west caravan yard. Full shadow-fume form, hovering near office-awning height. Harun summoned Yasin's shadowless body to the outside loft stair. Scene is paused for OOC correction of inadequate witness reactions.
-HP25/25; AC15; slots3/3; Lucky1/2; free Hunter's Mark2/2; Dreadful Strike2/2; Inspiration1; Hit Dice3d10 unspent; arrows16; money207GP9SP4CP. Two full skins (water/ale). No concentration or formal condition.
-[Current state](../state/current.md) controls live details. [Shadow powers](../state/shadow-powers.md) records actual custom abilities including flight, time slowing, fume, hands and projected voice. They are acquired canon, not merely a future proposal. No new cost or cap may be invented retroactively.
-The equipment section above preserves earlier inventory/history; its old balances are not the live balance.
+## Current scene and resources — reconciled 2026-11-23
+Day3~17:48, Mansur's North Road quarry beside wagon. Mostly fume with one solid hand holding collected30GP balance; other fume hand just crushed Adil's shade, killing him entirely. Shard retained separately without bare-skin contact; bow/gear in fume, sword sheathed. Mansur dismisses Lucio, no departure chosen.
+HP25/25; AC15; slots3/3; Lucky1/2; free Hunter's Mark2/2; Dreadful Strike2/2; Inspiration1; Hit Dice3d10 unspent; arrows16; money237GP9SP4CP. Two full skins (water/ale). No concentration/formal condition or invented power cost.
+Yasin alive/restored; contract paid40GP total (10advance+30balance). Adil original body remains dead; shade destroyed, no absorbed power or extra loot.
+[Current state](../state/current.md) controls live details. [Shadow powers](../state/shadow-powers.md) records actual custom abilities, including controlled solid hand while mostly fume and this destruction of a captive shade. These are canon, not future proposals; no retroactive cost/cap.
+Earlier equipment balances and acquired-item scenes below are historical.
 
 ## Sources
 https://www.dndbeyond.com/sources/dnd/br-2024/character-classes
