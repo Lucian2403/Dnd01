@@ -1,5 +1,5 @@
 # Live money and resource ledger
-Reconciled 2026-11-20. Read state/current.md for scene context.
+Reconciled 2026-11-23. Read state/current.md for scene context.
 1GP=10SP=100CP.
 
 | Latest transaction | Change CP | Balance CP |
@@ -7,8 +7,9 @@ Reconciled 2026-11-20. Read state/current.md for scene context.
 | Established checkpoint after Sadiq bounty | — | 17794 |
 | Mansur: four workers rescued alive | +2000 | 19794 |
 | Yasin recovery contract advance accepted | +1000 | 20794 |
+| Yasin restored alive: balance collected Day3~17:48 | +3000 | 23794 |
 
-Current money:207GP9SP4CP. Yasin live return balance30GP unpaid; if returned dead/identifiable,10GP more instead. No extra ransom accepted.
+Current money:237GP9SP4CP. Yasin contract paid in full:10GP advance+30GP collected balance,40GP total. No extra ransom accepted. Adil's shade destruction uses no established resource charge; no loot/fee/power reward invented.
 HP25/25; AC15; slots3/3; Lucky1/2; free Mark2/2; Dreadful Strike2/2; Inspiration1; Hit Dice3d10 unspent; arrows16 (one fume-charged arrow destroyed after earlier17-arrow checkpoint).
 Water/ale skins still full. No expense, healing, rest, ammunition use or ordinary spell slot charge on subsequent shadow flights.
 Custom shadow abilities/cost uncertainty: [powers](shadow-powers.md).
