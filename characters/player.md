@@ -1,4 +1,7 @@
 # Lucio
+
+## Live player state — dye-house, late night (recorded 2026-11-24)
+This supersedes the **location** in the 2026-11-23 quarry section below. Lucio is currently **in human form**, facing Vane, who is **offering** 80 gold crowns and an iron-and-brass vault key. Neither item has been collected. The Halvar contract is agreed for 500 gold crowns. The player's later report did not state a rest or other resource use. **Last verified** resources are HP25/25, AC15, slots3/3, Lucky1/2, Mark2/2, Dreadful2/2, Inspiration1, hit dice3d10 unspent, arrows16, cash237GP9SP4CP, full water/ale skins. Black mirror shard safely carried clear of skin. Added actual shadow strings and shadow-conversion feats: see ../state/shadow-powers.md. No interim heal, recharge, cost, expenditure or payment assumed. [Live state](../state/current.md); [latest checkpoint](../checkpoints/2026-11-24-dyehouse-vane-halvar.md).
 Human Ranger 3 (Gloom Stalker). D&D 2024. Background: Wayfarer.
 Player-confirmed: grew up alone in poverty among society's lowest; knows no comfortable life. Learned some magic in the past. No teacher, place, motive or further history established. Uses a bow and light, fast sword. At creation he had never seen a strange entity; Day 3 supernatural encounters are recorded in state/current.md.
 Remaining mechanical selections below are DM defaults to get play started, editable before their first relevant use; they are not new biography.
@@ -50,7 +53,7 @@ Wayfarer:2 daggers,thieves' tools,dice set,bedroll,2 pouches,traveller's clothes
 Water fill and carried weight must be established before desert travel; a waterskin does not give unlimited water. Current pack weight comfortably below STR12 carrying limit180lb; verify exact load when it matters.
 Collected5 GP advance and15 GP balance after delivery, total20 GP. Contract paid in full.
 
-## Current scene and resources — reconciled 2026-11-23
+## Historical quarry scene and resources — reconciled 2026-11-23
 Day3~17:48, Mansur's North Road quarry beside wagon. Mostly fume with one solid hand holding collected30GP balance; other fume hand just crushed Adil's shade, killing him entirely. Shard retained separately without bare-skin contact; bow/gear in fume, sword sheathed. Mansur dismisses Lucio, no departure chosen.
 HP25/25; AC15; slots3/3; Lucky1/2; free Hunter's Mark2/2; Dreadful Strike2/2; Inspiration1; Hit Dice3d10 unspent; arrows16; money237GP9SP4CP. Two full skins (water/ale). No concentration/formal condition or invented power cost.
 Yasin alive/restored; contract paid40GP total (10advance+30balance). Adil original body remains dead; shade destroyed, no absorbed power or extra loot.
