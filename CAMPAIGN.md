@@ -1,10 +1,7 @@
 # Campaign record
 
-## Latest resume point — authoritative pointer, updated 2026-11-23
-Start with [CONTINUE.md](CONTINUE.md), [current state](state/current.md), and [dated checkpoint](checkpoints/2026-11-23-quarry-after-adil.md). Mandatory DM instructions remain in AGENTS.md and rules/dm-operating.md/dialogue.md/correction-log.md.
-Day3~17:48, Mansur's North Road quarry. Yasin restored alive; Adil's shade entirely destroyed by Lucio.30GP balance collected;237GP9SP4CP,HP25/25,slots3/3,16arrows. Lucio mostly fume with one real hand holding coins; shard retained separately. Mansur/Sami support Yasin. Last line: "You've been paid. Leave." Lucio has not departed; next action belongs to player.
-Latest sequence: [session005](sessions/005-harun-to-adil-death.md); earlier [session004](sessions/004-harun-arrival-rewrite.md), [preserved archive](sessions/003-checkpoints-through-harun-2026-11-20.md), [session002](sessions/002-salt-gate-to-countinghouse.md).
-All setup/current labels below are preserved historical snapshots, not live facts. This documentation checkpoint advances no in-world time.
+## Latest resume point — authoritative pointer, 2026-11-24
+[CONTINUE](CONTINUE.md), [current state](state/current.md), [latest checkpoint](checkpoints/2026-11-24-halvar-advance-paid.md), [session006](sessions/006-vane-halvar-advance.md). All 19 requirements in AGENTS.md and rules/dm-operating.md plus dialogue and correction log. Lucio human, dye-house, 250GP advance collected, purse487GP9SP4CP, HP25/25, slots3/3, 16arrows. Vane requests Halvar alive with intact hands and employer concealed for extra50GP; response pending. Last exact line in checkpoint. No departure or time advance. All older snapshots historical.
 
 ## Historical setup state
 Restart requested on 2026-10-29. No gameplay has taken place. No character sheet, equipment, money, debts, rolls or consequences have been established.
