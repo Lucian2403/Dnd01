@@ -1,19 +1,16 @@
 # Continue Lucio's Veyr campaign
-Repository: Lucian2403/Dnd01 · branch main · latest handoff recorded 2026-11-24.
+Repository Lucian2403/Dnd01 · main · handoff 2026-11-24.
 
 ## Resume instruction
-> Continue my Veyr campaign from [the latest dye-house checkpoint](checkpoints/2026-11-24-dyehouse-vane-halvar.md). Read CONTINUE.md, AGENTS.md, the linked live state, player/powers/NPC/ledger and DM/dialogue/correction requirements. The older 2026-11-23 quarry stop was superseded by the player's newer-agent update. Current scene: Lucio (human form), late night approaching midnight, dye-house near old tanneries, facing Vane. Vane has released giant-arm restraint and holds out 80 gold crowns and an iron-and-brass vault key on waxed cord. Lucio **has not accepted the items** or departed. Halvar contract for 500 crowns agreed, interception planned just past midnight. Wait for my next action.
+> Continue my Veyr campaign from https://github.com/Lucian2403/Dnd01/blob/main/checkpoints/2026-11-24-halvar-advance-paid.md. Read CONTINUE.md, AGENTS.md, live state, linked checkpoint and requirements before narrating. Late night, dye-house near old tanneries. Lucio human, Vane standing by bench. Halvar contract 500GP, advance 250GP collected, balance 250GP due. Vane has just offered another 50GP to deliver Halvar alive. His final exact line: "Don't tell him you're working for me. And leave his hands intact. I may need him to open something at the archive." Lucio has not answered or left. Wait for next action.
 
 ## Mandatory reading
-- [Latest complete checkpoint](checkpoints/2026-11-24-dyehouse-vane-halvar.md) — supplied newer-agent events, active contract, actual stop and uncertainties.
-- [AGENTS](AGENTS.md), [DM operating requirements](rules/dm-operating.md), [dialogue](rules/dialogue.md), [corrections](rules/correction-log.md).
-- Live [state](state/current.md), [player](characters/player.md), [powers](state/shadow-powers.md), [NPCs](characters/npcs.md), [ledger](state/ledger.md), [open matters](state/open-threads.md), [world](canon/world.md).
-- [Previous quarry checkpoint](checkpoints/2026-11-23-quarry-after-adil.md) and [latest prior chronological session](sessions/005-harun-to-adil-death.md) for history.
+- [Latest full checkpoint](checkpoints/2026-11-24-halvar-advance-paid.md) and [chronological session](sessions/006-vane-halvar-advance.md).
+- [AGENTS](AGENTS.md), [all 19 DM requirements](rules/dm-operating.md), [dialogue](rules/dialogue.md), [corrections](rules/correction-log.md).
+- [Live state](state/current.md), [player](characters/player.md), [powers](state/shadow-powers.md), [NPCs](characters/npcs.md), [ledger](state/ledger.md), [open threads](state/open-threads.md), [world](canon/world.md).
+- Historical [initial dye-house checkpoint](checkpoints/2026-11-24-dyehouse-vane-halvar.md), [quarry checkpoint](checkpoints/2026-11-23-quarry-after-adil.md), [session005](sessions/005-harun-to-adil-death.md).
 
-## Exact stop
-Lucio in human form inside dim dye-house with vats, chair, bench and a lantern now near Vane. Vane standing across from him, holding out the pouch of 80 gold crowns and vault key; uncollected. Tariq was destroyed completely earlier, no remains. Vane unharmed after being pinned by giant shadow arm. Target Halvar expected to travel after midnight on canal wharf with sealed slate and ledger key. Player has not chosen next action. No additional scene time passes during saving.
-
-Last confirmed carried purse **237GP9SP4CP**, HP25/25, AC15, slots3/3, Lucky1/2, free Mark2/2, Dreadful Strike2/2, Inspiration1, hit dice3d10, 16 arrows, two full skins, black mirror shard. New 80+170+250 crown arrangement not collected; 80 and vault key merely offered. See the checkpoint for limits.
-
+## Exact stop and resources
+Lucio has collected both advance pouches (80+170 genuine GP). **487GP9SP4CP**, HP25/25, AC15, slots3/3, Lucky1/2, free Mark2/2, Dreadful2/2, Inspiration1, HD3d10, 16arrows, two full skins. Black mirror shard safely in pocket; Vane retains vault key. Mirror showed older scarred face in sync with Vane. Vane's claimed borrowed body belongs to Edrin; testimony not independent proof. Actual Adil death preserved, even though Lucio gave Vane different account. Agreed delivery location is dye-house. Base contract 250GP outstanding; extra 50GP live-capture offer pending, not paid. No departure or movement assigned to Lucio.
 ## Authority
-Latest player correction/accepted play > live state > established canon > old dated records. No imagined gap-filling from quarry. New shadow conversion and precise hand feats established by the player's later report. No invented power cost or cap. Respect individual witness reactions and character agency. Veyr is not The Pall.
+Latest explicit player correction/accepted scene > live files > canon > old snapshots. Do not advance time during save; do not fill unknown intervening events, impose arbitrary resource costs, weaken established custom powers or invent witnesses. All 19 DM requirements govern. Veyr is not The Pall.
