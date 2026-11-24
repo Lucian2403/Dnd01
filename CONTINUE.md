@@ -1,21 +1,19 @@
 # Continue Lucio's Veyr campaign
-Repository: Lucian2403/Dnd01 · branch main · checkpoint saved2026-11-23.
+Repository: Lucian2403/Dnd01 · branch main · latest handoff recorded 2026-11-24.
 
-## Resume instruction for another chat or agent
-> Continue my Veyr campaign from https://github.com/Lucian2403/Dnd01/blob/main/checkpoints/2026-11-23-quarry-after-adil.md. Read CONTINUE.md, AGENTS.md and the linked live state, character, powers, NPC, ledger and DM requirements before narrating. The checkpoint is Day3~17:48 after Adil's complete destruction. Mansur's last line is "You've been paid. Leave." Lucio has not departed. Wait for my next action; do not restart or invent an intervening event.
+## Resume instruction
+> Continue my Veyr campaign from [the latest dye-house checkpoint](checkpoints/2026-11-24-dyehouse-vane-halvar.md). Read CONTINUE.md, AGENTS.md, the linked live state, player/powers/NPC/ledger and DM/dialogue/correction requirements. The older 2026-11-23 quarry stop was superseded by the player's newer-agent update. Current scene: Lucio (human form), late night approaching midnight, dye-house near old tanneries, facing Vane. Vane has released giant-arm restraint and holds out 80 gold crowns and an iron-and-brass vault key on waxed cord. Lucio **has not accepted the items** or departed. Halvar contract for 500 crowns agreed, interception planned just past midnight. Wait for my next action.
 
 ## Mandatory reading
-- [Complete dated checkpoint](checkpoints/2026-11-23-quarry-after-adil.md): active state, character/powers, NPC knowledge, open matters, last exact scene and all19 DM requirements.
-- [AGENTS](AGENTS.md); [operating requirements](rules/dm-operating.md); [dialogue](rules/dialogue.md); [corrections](rules/correction-log.md).
-- Live [state](state/current.md), [player](characters/player.md), [powers](state/shadow-powers.md), [NPCs](characters/npcs.md), [ledger](state/ledger.md).
-- [Older open matters](state/open-threads.md).
-- [Latest chronological continuation](sessions/005-harun-to-adil-death.md); [history index](README.md).
+- [Latest complete checkpoint](checkpoints/2026-11-24-dyehouse-vane-halvar.md) — supplied newer-agent events, active contract, actual stop and uncertainties.
+- [AGENTS](AGENTS.md), [DM operating requirements](rules/dm-operating.md), [dialogue](rules/dialogue.md), [corrections](rules/correction-log.md).
+- Live [state](state/current.md), [player](characters/player.md), [powers](state/shadow-powers.md), [NPCs](characters/npcs.md), [ledger](state/ledger.md), [open matters](state/open-threads.md), [world](canon/world.md).
+- [Previous quarry checkpoint](checkpoints/2026-11-23-quarry-after-adil.md) and [latest prior chronological session](sessions/005-harun-to-adil-death.md) for history.
 
-## Exact stopping point
-Day3~17:48, Mansur's North Road limestone quarry, sunset~18:00. Lucio mostly fume, one real hand holding collected coins, fume fist just destroyed Adil entirely; black mirror shard retained separately. Yasin restored alive; Mansur/Sami helping him stand. Adil original corpse on blanket, shade gone. Mansur dismisses Lucio; player has not left.
-237GP9SP4CP · HP25/25 · AC15 · level1 slots3/3 · Lucky1/2 · free Mark2/2 · Dreadful Strike2/2 · Inspiration1 · HD3d10 ·16arrows · two full skins.
-No active concentration, formal condition, shadow captive or ear thread. Yasin contract paid40GP total. No new job or forced pursuit. No in-world time passes during save.
+## Exact stop
+Lucio in human form inside dim dye-house with vats, chair, bench and a lantern now near Vane. Vane standing across from him, holding out the pouch of 80 gold crowns and vault key; uncollected. Tariq was destroyed completely earlier, no remains. Vane unharmed after being pinned by giant shadow arm. Target Halvar expected to travel after midnight on canal wharf with sealed slate and ledger key. Player has not chosen next action. No additional scene time passes during saving.
+
+Last confirmed carried purse **237GP9SP4CP**, HP25/25, AC15, slots3/3, Lucky1/2, free Mark2/2, Dreadful Strike2/2, Inspiration1, hit dice3d10, 16 arrows, two full skins, black mirror shard. New 80+170+250 crown arrangement not collected; 80 and vault key merely offered. See the checkpoint for limits.
 
 ## Authority
-Latest player correction/accepted play and live files govern; dated snapshots/history do not reset them. This is Veyr, not The-Pall. Established custom powers are actual feats, not proposals; no retroactive generic caps/costs. Ordinary people do not automatically see/hear separated shades. Major visible powers/voice still require substantial individual witness reactions.
-Do not invent Lucio's next movement, words, thoughts, spending or agreement. After loading, acknowledge ready and await next player action unless it is already supplied.
+Latest player correction/accepted play > live state > established canon > old dated records. No imagined gap-filling from quarry. New shadow conversion and precise hand feats established by the player's later report. No invented power cost or cap. Respect individual witness reactions and character agency. Veyr is not The Pall.
