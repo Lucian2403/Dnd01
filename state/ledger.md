@@ -1,4 +1,11 @@
 # Live money and resource ledger
+
+## Latest checkpoint: Vane offer — no transaction yet (recorded 2026-11-24)
+- **Last confirmed carried cash: 237GP9SP4CP (23794CP).** No later purchase or collected new payment reported; old current balance remains until a new player action.
+- Halvar intercept negotiated **500 gold crowns total**, not yet paid: **80 crowns** physically held out by Vane with **vault key** (both offered, **not accepted or possessed**); **170 crowns** reportedly in vault two blocks north under ledger mark *Bramwell* (unverified); **250 crowns** promised upon delivery of sealed slate + ledger key (unpaid).
+- Do not add 80/170/250 crowns, or key, until Lucio actually receives them. Do not silently convert crowns into previously tracked GP without establishment.
+- Last confirmed HP25/25; AC15; slots3/3; Lucky1/2; free Mark2/2; Dreadful2/2; Inspiration1; 3d10 unspent; **16 arrows**; two full waterskins (water/ale). Later user report supplies no intervening rest, wounds, ammo use, spending or resource charge. Shadow conversion of Tariq does not have a stated resource cost.
+- Prior Yasin contract paid40GP total; Adil destroyed, Tariq destroyed. [Live state](current.md), [checkpoint](../checkpoints/2026-11-24-dyehouse-vane-halvar.md).
 Reconciled 2026-11-23. Read state/current.md for scene context.
 1GP=10SP=100CP.
 
