@@ -59,3 +59,6 @@ Day3 shortly before first bell: paid1SP (-10CP) for a full four-pint waterskin o
 Day3 just after first bell: Lucio collected ale skin, purchased second waterskin for2SP (-20CP) and innkeeper filled clean water free. Cash before108GP1SP4CP (10814CP); after107GP9SP4CP (10794CP). Both four-pint waterskins full, one ale and one water. No future room reservation/charge.
 
 Day3 around11:20: Sadiq Mar brought alive to North Watchhouse. Posted bounty70GP (+7000CP) paid in full; before10794CP (107GP9SP4CP), after17794CP (177GP9SP4CP). No name requirement, fine or fee. Lucio handed over Sadiq's short bow and pouch (remainder uncounted); four gold removed from Sadiq's pouch had been left at lime ramp for two hired men, never added to Lucio's money. Lucio's rope returned after watch restraints replaced it. Lucky1/2 from initial approach;HP25/25,slots3/3,free Mark2/2,Dreadful Strike2/2,Inspiration1,17arrows,water and ale full.
+
+## Latest payment negotiation
+Lucio refuses to fetch upfront balance from vault. Vane agrees to fetch it himself, returns key to coat, puts 80-crown pouch on bench. Neither collected. 500-crown total unchanged, 170 remaining upfront and 250 upon delivery still unpaid/unverified. Last confirmed carried cash237GP9SP4CP; no resource expenditure.
