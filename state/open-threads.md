@@ -1,6 +1,12 @@
 # Open matters and older campaign continuity
 
-## Latest new contract (recorded 2026-11-24)
+## Current open matters (2026-11-24)
+- **Halvar intercept:** base 500GP contract, 250 paid, 250 owed for slate and ledger key. Rendezvous this dye-house. Live return with intact hands and employer concealed requested by Vane for extra 50GP; no response yet. Expected route after midnight; no reconnaissance.
+- **Vane / Edrin:** different face in mirror directly observed. Vane admits borrowed body, claims original grave east of wall, forced experiment below archive and Edrin's unknown fate. Wrist marks on borrowed body do not yet have a verified explanation. Edrin's reported knowledge of Vane's memories and wife/children unverified. Vane withdrew grave offer; no search or restoration agreed.
+- **Archive inquiry:** Vane says Halvar keeps separate death register and was seen with a previously buried prisoner. Physician and order issuer unidentified; object contents/key function unknown. No demonstrated link to earlier cases. [Checkpoint](../checkpoints/2026-11-24-halvar-advance-paid.md), [session](../sessions/006-vane-halvar-advance.md).
+All older sections below are history; no automatically assigned quest.
+
+## Historical initial Halvar offer (recorded 2026-11-24)
 The later player-reported dye-house scene supersedes the older quarry stop. **Halvar intercept active:** Vane wants sealed slate and ledger key carried by archivist runner Halvar, passing canal wharf shortly after midnight. Fee negotiated to 500 crowns, of which 80-crown pouch and vault key are **being offered but not yet taken**, 170 reportedly in Bramwell-marked dead-drop, 250 promised after delivery. Actual vault contents and Vane's court connections unknown. Tariq, lookout hired by Vane, was completely destroyed by Lucio; no remains. See [current](current.md) and [new checkpoint](../checkpoints/2026-11-24-dyehouse-vane-halvar.md). Do not retroactively connect Vane's "court's hounds" to Saren/Tarek or old cases without evidence.
 Saved2026-11-23. Reference record; no new job, pursuit or scene action accepted here. [Live state](current.md) governs the actual stopping point.
 
