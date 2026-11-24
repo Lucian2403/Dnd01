@@ -1,6 +1,15 @@
 # Live money and resource ledger
 
-## Latest checkpoint: Vane offer — no transaction yet (recorded 2026-11-24)
+## Current balance and contract (2026-11-24)
+**487GP9SP4CP (48794CP)**. 1GP=10SP=100CP; Veyran gold crowns confirmed same denomination as GP.
+| Transaction | Change CP | Balance CP |
+|---|---:|---:|
+| Quarry checkpoint after Yasin return | — | 23794 |
+| Vane: both counted pouches (80+170GP) | +25000 | 48794 |
+Base Halvar contract 500GP: advance250 paid; 250 due on slate + key delivery here. Vane offered **extra 50GP for live delivery**, not accepted/earned/paid yet; possible total550, possible outstanding300 only if bonus earned. Vault key belongs to Vane; ledger key still target item. No other cash, costs or charges.
+HP25/25, AC15, slots3/3, Lucky1/2, Mark2/2, Dreadful2/2, Inspiration1, HD3d10, 16arrows, two full skins. Black mirror safely pocketed. No intervening rest or resource charge. All sections below describe historical transactions and old stops.
+
+## Historical checkpoint: Vane offer — no transaction yet (recorded 2026-11-24)
 - **Last confirmed carried cash: 237GP9SP4CP (23794CP).** No later purchase or collected new payment reported; old current balance remains until a new player action.
 - Halvar intercept negotiated **500 gold crowns total**, not yet paid: **80 crowns** physically held out by Vane with **vault key** (both offered, **not accepted or possessed**); **170 crowns** reportedly in vault two blocks north under ledger mark *Bramwell* (unverified); **250 crowns** promised upon delivery of sealed slate + ledger key (unpaid).
 - Do not add 80/170/250 crowns, or key, until Lucio actually receives them. Do not silently convert crowns into previously tracked GP without establishment.
@@ -60,7 +69,7 @@ Day3 just after first bell: Lucio collected ale skin, purchased second waterskin
 
 Day3 around11:20: Sadiq Mar brought alive to North Watchhouse. Posted bounty70GP (+7000CP) paid in full; before10794CP (107GP9SP4CP), after17794CP (177GP9SP4CP). No name requirement, fine or fee. Lucio handed over Sadiq's short bow and pouch (remainder uncounted); four gold removed from Sadiq's pouch had been left at lime ramp for two hired men, never added to Lucio's money. Lucio's rope returned after watch restraints replaced it. Lucky1/2 from initial approach;HP25/25,slots3/3,free Mark2/2,Dreadful Strike2/2,Inspiration1,17arrows,water and ale full.
 
-## Latest payment negotiation
+## Historical payment negotiation
 Lucio refuses to fetch upfront balance from vault. Vane agrees to fetch it himself, returns key to coat, puts 80-crown pouch on bench. Neither collected. 500-crown total unchanged, 170 remaining upfront and 250 upon delivery still unpaid/unverified. Last confirmed carried cash237GP9SP4CP; no resource expenditure.
 
 ## Upfront payment fetched — latest scene
