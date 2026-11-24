@@ -62,3 +62,6 @@ Day3 around11:20: Sadiq Mar brought alive to North Watchhouse. Posted bounty70GP
 
 ## Latest payment negotiation
 Lucio refuses to fetch upfront balance from vault. Vane agrees to fetch it himself, returns key to coat, puts 80-crown pouch on bench. Neither collected. 500-crown total unchanged, 170 remaining upfront and 250 upon delivery still unpaid/unverified. Last confirmed carried cash237GP9SP4CP; no resource expenditure.
+
+## Upfront payment fetched — latest scene
+After Lucio's crude joke about Edrin's wife, Vane did not laugh; claimed two small children with her called him father, redirected conversation to Halvar. Lucio ordered Vane to fetch remaining coins and declared he would wait. Vane left original 80-crown pouch on bench, took vault key and departed dye-house, saying ten minutes. Lucio waited as declared. About eight minutes later Vane returned with larger leather pouch, set it beside first and opened it, said "A hundred and seventy," pulled chair toward bench, sat and said "Count them." Both pouches now on bench, 250 crowns purported total upfront, not yet independently counted or collected. Key retained by Vane. Final 250 still due on delivery. Late night approaching midnight; eight minutes elapsed, exact clock not established. No player resource expenditure or cash collection. Await next player action.
