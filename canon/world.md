@@ -1,7 +1,7 @@
 # Established world and locations
 
 ## New locations reported after quarry (recorded 2026-11-24)
-- **Dye-house by old tanneries:** near south edge of market, dim working room with stone dye vats, damp floor, wooden chair and bench, low lantern. **Lucio's latest location.** Distinct from the old Tanner Street weighhouse and countinghouse unless future observations establish otherwise.
+- **Dye-house by old tanneries:** near south edge of market, dim working room with stone dye vats, damp floor, wooden chair and bench, low lantern. **Lucio's latest location and agreed delivery rendezvous.** Distinct from the old Tanner Street weighhouse and countinghouse unless future observations establish otherwise.
 - **Halvar's reported route:** lower archive gate south to old cooperage, then canal wharf behind salt warehouses. Warehouse walls and moored barges narrow passages; river mist and slick footing. Upper street is reported to have paired ward-watch patrol about every 30 minutes. Route and watch schedule reported by Vane, not verified.
 - **Bramwell dead-drop vault:** said by Vane to be two blocks north of dye-house, under ledger-name Bramwell; precise entrance, management, contents and payout terms not observed.
 The older line saying Lucio is at the quarry is now **historical**. Earlier city map/locations stay canon. See [live state](../state/current.md).
@@ -34,10 +34,13 @@ Don't turn resemblance or NPC statement into proven conspiracy.
 - West caravan yard: inside West Gate; Harun office open to mule pens, pack animals/workers, drivers' loft above stable reached by outside stair. Adil occupied Yasin's shadowless body there during Day3 encounter; Lucio removed it. Harun remains at yard, not quarry.
 These additions do not merge west old lime kilns/Damar hideout with all northern kiln sites. Routes are local, not a complete city map.
 
-## Location and event checkpoint — Day3~17:48 / saved 2026-11-23
-Lucio currently at Mansur's quarry beside wagon/blanket, not Harun's loft. Yasin restored alive, Adil's shade destroyed, original corpse on blanket. Cleared area roped off; four rescue patients departed for treatment; Naim/companion escorted away by watch. Mansur/Sami support Yasin and Mansur tells Lucio to leave. No automatic departure or new pursuit.
+## Historical location and event checkpoint — Day3~17:48 / saved 2026-11-23
+At that historical checkpoint Lucio was at Mansur's quarry beside wagon/blanket, not Harun's loft. Yasin restored alive, Adil's shade destroyed, original corpse on blanket. Cleared area roped off; four rescue patients departed for treatment; Naim/companion escorted away by watch. Mansur/Sami support Yasin and Mansur tells Lucio to leave. No automatic departure or new pursuit.
 - Unused firing shed behind last northern kiln: bolted inside, missing roof tiles; Adil's original body and embedded palm shard found/recovered. No body remains in shed.
 - Abandoned dry settling basin west of Veyr: Lucio tested time slowing, caught arrow and later destroyed one stone arch with charged arrow; subsequent flight left site. Not proof of a magical ruin or new monster.
 - Damar hideout: old lime kilns about2mi beyond West Gate by track off west road, two towers/shed. Distinct from northern kiln route and Mansur's working quarry.
 - Sadiq last-sighting/loading ramp: about2.5mi up north road/east track, lower cut and ledge. Two scouts returned at third bell; Lucio captured Sadiq later. Do not merge all kiln/quarry/ramp sites or invent global map distances.
 Geography, testimony and open cases remain as recorded; no confirmed common cause between Water Office affair, White Sink shard, Lucio's powers or Dalia's accounts.
+
+## Further locations — Vane's testimony (2026-11-24)
+Vane claims a room beneath the archive, an original-body grave outside eastern wall, and Edrin's family house (no address given). None independently located or searched. Claims 170GP from Bramwell vault, returned with that amount; the vault itself not seen by Lucio, key retained by Vane. Exact current stop in [checkpoint](../checkpoints/2026-11-24-halvar-advance-paid.md).
