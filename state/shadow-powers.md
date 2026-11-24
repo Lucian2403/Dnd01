@@ -51,3 +51,6 @@ Player-supplied later-agent campaign account supersedes the prior feat list wher
 - **Giant arm on Vane:** Vane was slammed and pinned by a shadow arm, then released. Despite calmness and no observed injury, there is no proven immunity or universal defense.
 - **Small shadow hand:** fine manipulation, including grasping/moving the low-burning lantern near Vane. Earlier pliers feat remains canon.
 - No spell-slot, Hit Point, Luck, concentration, fixed use count or retroactive penalty is established for these acts. Major direct witnesses react according to what each actually saw; Vane's full sightline to Tariq's death remains unspecified. [Checkpoint](../checkpoints/2026-11-24-dyehouse-vane-halvar.md).
+
+## New black shard observation — Vane dye-house
+Lucio safely angles shard toward Vane; reflection shows a different man about twenty years older with thinning grey hair, broad nose and deep chin scar, whose lips move in sync with Vane. Vane notices shard and steps back, asks source. No proof yet of possession, identity, mechanism, or that Vane saw reflected face. Earlier Adil/Yasin observations remain unchanged; no resource change or bare-skin contact.
