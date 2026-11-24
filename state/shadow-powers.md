@@ -43,3 +43,11 @@ Lucio materializes real hand while otherwise fume to collect30GP. Then seizes an
 
 ## Cross-chat checkpoint
 At Day3~17:48 Lucio remains mostly fume with one solid hand holding collected coins. Adil destroyed, no surviving captive/thread. See [live state](current.md) and [dated handoff](../checkpoints/2026-11-23-quarry-after-adil.md). Do not reset early practice limits, introduce a new cost or treat Adil's origin account as Lucio's power origin.
+
+## Later reported feats — dye-house, late night (recorded 2026-11-24)
+Player-supplied later-agent campaign account supersedes the prior feat list where new successful demonstrations are specified. Lucio now in **human form** at a dye-house near old tanneries. These are accepted *performed feats*, not proposals or new general fixed-cost rules:
+- **Fine shadow strings:** release multiple thin dark strings to bind or silence targets; also forced hundreds of microscopic strands into Tariq's body through available openings (mouth, nostrils, ears, eyes and lower body), transforming his entire physical body into living shadow. **This succeeded on Tariq in the supplied scene.** Mechanism's universal efficacy on all people or creatures is not proven; do not retroactively declare this encounter impossible.
+- **Giant shadow limb destroying a converted person:** Lucio used a massive shadow hand to pull Tariq into the dye-house, convert him and subsequently crush the shadow-converted form completely. Player reports no remaining body, clothing or physical evidence, and Tariq permanently dead. Different from the earlier destruction of already-disembodied Adil's shade; both are canonical results. No soul capture, extra power, magical reward, tracking mark or hidden remnant implied.
+- **Giant arm on Vane:** Vane was slammed and pinned by a shadow arm, then released. Despite calmness and no observed injury, there is no proven immunity or universal defense.
+- **Small shadow hand:** fine manipulation, including grasping/moving the low-burning lantern near Vane. Earlier pliers feat remains canon.
+- No spell-slot, Hit Point, Luck, concentration, fixed use count or retroactive penalty is established for these acts. Major direct witnesses react according to what each actually saw; Vane's full sightline to Tariq's death remains unspecified. [Checkpoint](../checkpoints/2026-11-24-dyehouse-vane-halvar.md).
