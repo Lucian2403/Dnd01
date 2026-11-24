@@ -1,6 +1,6 @@
 # Rules, exceptions and corrections
 
-## Live reading note — 2026-11-23
+## Live reading note — 2026-11-24
 [DM operating requirements](dm-operating.md), [current state](../state/current.md), and [shadow powers](../state/shadow-powers.md) control current execution. The dated practice/scene checkpoints below preserve history: phrases such as "future proposal", "currently", early failed full-sun trials or short range do not erase later successful feats. Witness procedure explicitly includes extraordinary voice, flight, partial transformations and first exposure to new powers. Existing rules are not sufficient unless the draft actually shows the required reactions. See [correction log](correction-log.md).
 
 ## Default
@@ -73,3 +73,6 @@ Next player-directed manifestation: full-fume Lucio flew ~6–7mi from clouds to
 ## Accepted supernatural resolutions and speaker correction — Day3~17:42–17:48
 Adil voluntarily exited; Lucio caught/held his shade, Yasin's shade reentered own body, living cast shadow returned and shard reflected Yasin. Original corpse reentry did not revive it; Lucio alone heard consciousness persist. Adil exited again on command. Lucio then explicitly declared crushing/killing shade entirely; this succeeded without a fabricated roll, arbitrary cost, soul absorption or surviving fragment. Ordinary witnesses saw crushing gesture/heard threat, not automatically the shade. This specific success is canon, not universal automatic destruction of all entities.
 Collecting30GP balance makes237GP9SP4CP; contract complete. One real hand while otherwise fume succeeded. No rest/healing/resource reset. Mansur's dismissal is NPC speech, not a compulsory Lucio departure. See latest checkpoint and session005. Yasin was speaker of "You could have asked me for help"; add clear attribution in multi-speaker/invisible-addressee scenes.
+
+## Later dye-house continuity
+Latest [checkpoint](../checkpoints/2026-11-24-halvar-advance-paid.md) supersedes older positions. Actual shadow-string/conversion/destruction feats and mirror observation preserved without retroactive caps. Lucio's spoken account of Adil to Vane does not rewrite actual corpse trial or deliberate destruction; NPC knowledge limited to what was disclosed. No acceptance of live-capture bonus or payout inferred from offer. No rule changes made by saving.
