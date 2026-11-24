@@ -7,4 +7,7 @@ Use current state for live facts; historical checkpoints do not reset it. Look u
 Keep the workflow invisible during play except necessary concise tool updates. Do not print checklists in the story. No automatic background-save claims.
 Latest explicit player directions override this file. The-Pall is a separate project.
 
-Handoff as of 2026-11-23: Day3~17:48 after Adil's complete destruction. Mansur's last line is "You've been paid. Leave." Lucio has NOT chosen departure. Paused for documentation; await next player action. Read live state before using this dated pointer later.
+Handoff as of 2026-11-23 (historical): Day3~17:48 after Adil's complete destruction. Superseded by later player events; see new handoff below.
+
+
+Handoff updated 2026-11-24: the former Day3~17:48 quarry stop is now **historical**. The player continued with another agent and supplied later events. Live stop is late-night dye-house near old tanneries with Vane offering 80 crowns and a vault key, not yet taken. Halvar intercept agreed. See checkpoints/2026-11-24-dyehouse-vane-halvar.md and state/current.md. Do not auto-collect items or send Lucio to the wharf.
