@@ -85,3 +85,6 @@ Safely examined with fume; no skin contact/cut/attunement. Curved polished face/
 
 ## Handoff pointer — 2026-11-23
 [Continue instructions](../CONTINUE.md) and [complete dated checkpoint](../checkpoints/2026-11-23-quarry-after-adil.md). Last action resolved; Lucio has not left quarry. Money237GP9SP4CP; Yasin contract paid in full. No further action/resource change from creating documentation.
+
+## Latest resource update — Halvar advance collected
+Lucio counted and collected 250 genuine gold crowns (same denomination as GP), current purse **487GP9SP4CP**. Halvar contract balance 250GP due upon delivery; no key received. Human form, dye-house; Vane asks proposed delivery rendezvous. Other resource counts unchanged.
