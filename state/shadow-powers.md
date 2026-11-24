@@ -1,5 +1,5 @@
 # Lucio's established shadow abilities
-Live observations through Day 3 ~17:48. These custom feats are actual campaign canon and coexist with Ranger 3. Earlier practice or proposed future discipline is not a cap. No arbitrary spell-slot, HP, Luck, fixed range, use-count or concentration cost has been established for these feats.
+Live observations through latest dye-house checkpoint (2026-11-24). These custom feats are actual campaign canon and coexist with Ranger 3. Earlier practice or proposed future discipline is not a cap. No arbitrary spell-slot, HP, Luck, fixed range, use-count or concentration cost has been established for these feats.
 
 | Ability | Demonstrated result | Limits / unanswered questions |
 |---|---|---|
@@ -41,7 +41,7 @@ Lucio opens hand towards original corpse at feet; Adil voluntarily enters. Dead 
 ## Partial solidity and shade destruction — Day 3 ~17:48
 Lucio materializes real hand while otherwise fume to collect30GP. Then seizes and crushes cooperative/within-reach Adil shade in fume hand. Player explicitly declares complete lethal success; it succeeds, destroying Adil entirely without surviving fragment, absorbed abilities/energy, curse, new cost or secret escape. Ordinary witnesses see the crushing gesture and hear threatening low whisper; only Lucio perceives shade collapse/brief cut-off voice. This establishes lethal effect on this entity in this setup, not universal immunity-negating destruction of all beings. See NPC/current records for consequences.
 
-## Cross-chat checkpoint
+## Historical quarry checkpoint
 At Day3~17:48 Lucio remains mostly fume with one solid hand holding collected coins. Adil destroyed, no surviving captive/thread. See [live state](current.md) and [dated handoff](../checkpoints/2026-11-23-quarry-after-adil.md). Do not reset early practice limits, introduce a new cost or treat Adil's origin account as Lucio's power origin.
 
 ## Later reported feats — dye-house, late night (recorded 2026-11-24)
@@ -54,3 +54,6 @@ Player-supplied later-agent campaign account supersedes the prior feat list wher
 
 ## New black shard observation — Vane dye-house
 Lucio safely angles shard toward Vane; reflection shows a different man about twenty years older with thinning grey hair, broad nose and deep chin scar, whose lips move in sync with Vane. Vane notices shard and steps back, asks source. No proof yet of possession, identity, mechanism, or that Vane saw reflected face. Earlier Adil/Yasin observations remain unchanged; no resource change or bare-skin contact.
+
+## Current mirror status
+Lucio put shard safely in pocket after observing Vane's discrepant reflection; Vane admitted borrowed body but testimony not independent proof of a universal mirror rule. No skin contact, activation cost, new acquired power or use. Latest stop in [checkpoint](../checkpoints/2026-11-24-halvar-advance-paid.md).
