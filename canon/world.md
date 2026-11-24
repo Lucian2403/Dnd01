@@ -1,4 +1,10 @@
 # Established world and locations
+
+## New locations reported after quarry (recorded 2026-11-24)
+- **Dye-house by old tanneries:** near south edge of market, dim working room with stone dye vats, damp floor, wooden chair and bench, low lantern. **Lucio's latest location.** Distinct from the old Tanner Street weighhouse and countinghouse unless future observations establish otherwise.
+- **Halvar's reported route:** lower archive gate south to old cooperage, then canal wharf behind salt warehouses. Warehouse walls and moored barges narrow passages; river mist and slick footing. Upper street is reported to have paired ward-watch patrol about every 30 minutes. Route and watch schedule reported by Vane, not verified.
+- **Bramwell dead-drop vault:** said by Vane to be two blocks north of dye-house, under ledger-name Bramwell; precise entrance, management, contents and payout terms not observed.
+The older line saying Lucio is at the quarry is now **historical**. Earlier city map/locations stay canon. See [live state](../state/current.md).
 Veyr is a fixed city beside six deep wells on a vast desert continent. Covered markets,bathhouses,temples,caravan roads,abandoned forts,burial grounds. Emperor missing11years;ministers govern in his name;provincial tax and army-pay pressures are setting background.
 Ordinary people human;very rare strange beings may exist beyond/beneath desert. At creation Lucio had not seen one. By Day 3, shadow powers and a disembodied speaking human outline are observed; species, origin and possession mechanism remain unconfirmed. Not The Pall;its industrial era is superseded. Not Dune;no moving city/orchard premise.
 Exact distances/routes are only established locally;no full city map invented.
