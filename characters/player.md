@@ -1,7 +1,8 @@
 # Lucio
 
-## Live player state — dye-house, late night (recorded 2026-11-24)
-This supersedes the **location** in the 2026-11-23 quarry section below. Lucio is currently **in human form**, facing Vane, who is **offering** 80 gold crowns and an iron-and-brass vault key. Neither item has been collected. The Halvar contract is agreed for 500 gold crowns. The player's later report did not state a rest or other resource use. **Last verified** resources are HP25/25, AC15, slots3/3, Lucky1/2, Mark2/2, Dreadful2/2, Inspiration1, hit dice3d10 unspent, arrows16, cash237GP9SP4CP, full water/ale skins. Black mirror shard safely carried clear of skin. Added actual shadow strings and shadow-conversion feats: see ../state/shadow-powers.md. No interim heal, recharge, cost, expenditure or payment assumed. [Live state](../state/current.md); [latest checkpoint](../checkpoints/2026-11-24-dyehouse-vane-halvar.md).
+## Live player state — Halvar advance collected (2026-11-24)
+Lucio human form, in dye-house, Vane standing by bench, live-capture bonus 50GP just offered; player has not answered or departed. **487GP9SP4CP** (80+170 advance collected; base 250GP remaining; bonus conditional/unpaid). HP25/25, AC15, slots3/3, Lucky1/2, free Mark2/2, Dreadful2/2, Inspiration1, HD3d10, 16 arrows, full water/ale skins. Black mirror shard safely in pocket, no skin contact; Vane keeps vault key. No new rest/cost/resource change. [Live state](../state/current.md), [latest checkpoint](../checkpoints/2026-11-24-halvar-advance-paid.md). All sections below that describe prior stops or balances are historical.
+
 Human Ranger 3 (Gloom Stalker). D&D 2024. Background: Wayfarer.
 Player-confirmed: grew up alone in poverty among society's lowest; knows no comfortable life. Learned some magic in the past. No teacher, place, motive or further history established. Uses a bow and light, fast sword. At creation he had never seen a strange entity; Day 3 supernatural encounters are recorded in state/current.md.
 Remaining mechanical selections below are DM defaults to get play started, editable before their first relevant use; they are not new biography.
@@ -86,5 +87,5 @@ Safely examined with fume; no skin contact/cut/attunement. Curved polished face/
 ## Handoff pointer — 2026-11-23
 [Continue instructions](../CONTINUE.md) and [complete dated checkpoint](../checkpoints/2026-11-23-quarry-after-adil.md). Last action resolved; Lucio has not left quarry. Money237GP9SP4CP; Yasin contract paid in full. No further action/resource change from creating documentation.
 
-## Latest resource update — Halvar advance collected
+## Historical intermediate update — Halvar advance collected
 Lucio counted and collected 250 genuine gold crowns (same denomination as GP), current purse **487GP9SP4CP**. Halvar contract balance 250GP due upon delivery; no key received. Human form, dye-house; Vane asks proposed delivery rendezvous. Other resource counts unchanged.
