@@ -1,4 +1,7 @@
 # Open matters and older campaign continuity
+
+## Latest new contract (recorded 2026-11-24)
+The later player-reported dye-house scene supersedes the older quarry stop. **Halvar intercept active:** Vane wants sealed slate and ledger key carried by archivist runner Halvar, passing canal wharf shortly after midnight. Fee negotiated to 500 crowns, of which 80-crown pouch and vault key are **being offered but not yet taken**, 170 reportedly in Bramwell-marked dead-drop, 250 promised after delivery. Actual vault contents and Vane's court connections unknown. Tariq, lookout hired by Vane, was completely destroyed by Lucio; no remains. See [current](current.md) and [new checkpoint](../checkpoints/2026-11-24-dyehouse-vane-halvar.md). Do not retroactively connect Vane's "court's hounds" to Saren/Tarek or old cases without evidence.
 Saved2026-11-23. Reference record; no new job, pursuit or scene action accepted here. [Live state](current.md) governs the actual stopping point.
 
 ## Earlier campaign context and open matters
