@@ -1,4 +1,6 @@
 # Veyr checkpoint — Vane's dye-house, Halvar intercept
+
+**HISTORICAL SNAPSHOT:** superseded by [advance-paid checkpoint](2026-11-24-halvar-advance-paid.md). All prior stop/payment descriptions below preserve the earlier moment only.
 Recorded 2026-11-24 from the player's newer-agent campaign bundle. Supersedes the **scene position** in the 2026-11-23 quarry checkpoint; does not erase that history.
 **STOP POINT:** Late night, approaching midnight, inside a dye-house near the old tanneries south of the market. Lucio is **in human form**. Vane stands across from him near the lantern, holding out a leather pouch of **80 gold crowns** and an **iron-and-brass vault key on a waxed cord**. Lucio has **not yet taken either**. No next action has been declared. Do not make him leave, take payment, talk, or ambush anyone until the player acts.
 
