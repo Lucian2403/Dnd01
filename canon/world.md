@@ -44,3 +44,6 @@ Geography, testimony and open cases remain as recorded; no confirmed common caus
 
 ## Further locations — Vane's testimony (2026-11-24)
 Vane claims a room beneath the archive, an original-body grave outside eastern wall, and Edrin's family house (no address given). None independently located or searched. Claims 170GP from Bramwell vault, returned with that amount; the vault itself not seen by Lucio, key retained by Vane. Exact current stop in [checkpoint](../checkpoints/2026-11-24-halvar-advance-paid.md).
+
+## Archive directions — latest exchange
+Lucio asks Vane where the archive is. Vane says on Copper Street beyond Third Court, broad staircase in front, lower gate at back. From dye-house follow street past tanneries to old cooperage, narrow uphill street beside it leads to lower gate at top. Directions are Vane's testimony, not yet independently traversed. Lucio remains in dye-house, no reply to live-capture bonus or departure yet, no resource or time change beyond speech.
