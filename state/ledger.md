@@ -1,12 +1,12 @@
 # Live money and resource ledger
 
 ## Current balance and contract (2026-11-24)
-**487GP9SP4CP (48794CP)**. 1GP=10SP=100CP; Veyran gold crowns confirmed same denomination as GP.
+**787GP9SP4CP (78794CP)**. 1GP=10SP=100CP; Veyran gold crowns confirmed same denomination as GP.
 | Transaction | Change CP | Balance CP |
 |---|---:|---:|
 | Quarry checkpoint after Yasin return | — | 23794 |
 | Vane: both counted pouches (80+170GP) | +25000 | 48794 |
-Base Halvar contract 500GP: advance250 paid; 250 due on slate + key delivery here. Vane offered **extra 50GP for live delivery**, not accepted/earned/paid yet; possible total550, possible outstanding300 only if bonus earned. Vault key belongs to Vane; ledger key still target item. No other cash, costs or charges.
+Halvar contract fully paid550GP: advance250, final base250 and live bonus50 collected. Final transaction +30000CP from48794CP to78794CP. No outstanding fee.
 HP25/25, AC15, slots3/3, Lucky1/2, Mark2/2, Dreadful2/2, Inspiration1, HD3d10, 16arrows, two full skins. Black mirror safely pocketed. No intervening rest or resource charge. All sections below describe historical transactions and old stops.
 
 ## Historical checkpoint: Vane offer — no transaction yet (recorded 2026-11-24)
@@ -79,3 +79,6 @@ After Lucio's crude joke about Edrin's wife, Vane did not laugh; claimed two sma
 
 ## Delivery completed; final payment tendered — latest stop
 Lucio explicitly entered dye-house with Vane and Halvar and handed over the sealed slate and brass ledger key, asked Vane for his part. Vane closed door after entry, accepted slate, examined seal and turned key in hand, confirmed both correct. Halvar remains near closed door holding lamp, dirk sheathed, alive with intact hands, no ties. Vane retrieved two leather pouches from beneath bench and counted 250GP base balance plus 50GP live-delivery bonus in front of Lucio; pushed 300GP toward him, offered verification. Halvar heard payment amounts and asked whether 300 paid for bringing him; Vane disclosed total fee550GP. Halvar has not accepted Vane's claimed identity. Items now in Vane's possession, live delivery fulfilled; all objectives completed, 300GP tendered but **not yet collected by Lucio**. Current purse487GP9SP4CP; upon collection would be787GP9SP4CP. No other resource changes. No further player action or time advance during save.
+
+## Final payment collected; Halvar's wrist-mark testimony
+Lucio declined to count tendered coins, remarked to Halvar that he should be proud of the price. Halvar said he'd rather be worth less and go home. Vane asked Halvar to sit and sought examination order issuer; Halvar remained standing, said he recognized Edrin's face and had signed his wages. Lucio then explicitly took all 300GP (250 base balance + 50 live bonus) and chose to remain observing discussion. Cash48794CP+30000CP=78794CP, **787GP9SP4CP**. Contract completed, 550GP total paid. Vane retains slate and ledger key. Vane sat, asked Halvar about deceased transfer-office Vane; Halvar confirmed he remembered Vane and attended physician examination but did not personally see him die, was told death occurred. Vane exposed two marks inner left wrist; Halvar raised lamp to inspect, placed lamp on bench, reached toward wrist but stopped before contact. Halvar asked source, Vane said he hoped Halvar could tell him. Halvar looked confused and said "But Edrin had those before we sent him to collect Vane's body." This is new Halvar testimony, not independently proven; contradicts earlier Vane speculation that current marks were caused by needles administered to original body. Halvar knows Edrin as wage recipient; has not accepted Vane identity. Halvar alive, standing, hands intact, dirk sheathed; Vane sitting, Lucio present human, lamp on bench, door closed. No other resource changes. Await Lucio's action or continued observation.
