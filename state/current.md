@@ -2,7 +2,7 @@
 Last synchronized 2026-11-25. Real date is not campaign time.
 [CONTINUE](../CONTINUE.md) · [Latest checkpoint](../checkpoints/2026-11-24-halvar-advance-paid.md) · [Full dye-house history](../sessions/006-vane-halvar-advance.md) · [DM operating requirements](../rules/dm-operating.md) · [dialogue](../rules/dialogue.md) · [corrections](../rules/correction-log.md) · [player](../characters/player.md) · [powers](shadow-powers.md) · [NPCs](../characters/npcs.md) · [ledger](ledger.md).
 
-**PAUSED:** Shortly after midnight inside dye-house. Lucio gave Vane alias Vortex, which Vane accepted; true name unknown to Vane. Halvar still away seeking death register, did not hear alias. Purse737GP9SP4CP, completed contract. Await Lucio action.
+**PAUSED:** Shortly after midnight inside dye-house, Halvar away seeking death register. Lucio suggests Vane may have hidden abilities. Vane asks Vortex whether he always had his powers or something happened to him. No new abilities confirmed. Await player reply. Purse737GP9SP4CP, contract complete.
 
 ## Resources
 **737GP9SP4CP** (73794CP). Halvar contract complete and fully paid: 250GP advance + 250GP base balance + 50GP live delivery bonus, all collected.
@@ -76,3 +76,6 @@ Lucio told Vane he likes him despite considering him naive and stupid, expressed
 
 ## Alias disclosed to Vane
 Lucio told Vane, "You can name me Vortex... yeah.. Vortex... I like it." Vane repeated Vortex, remarked that he takes it Lucio's parents did not choose it, put the gifted coins in his pouch and accepted the name. Vane now knows the alias Vortex only; he does not know the true name Lucio. Halvar absent and did not hear the exchange. No change to actual character name or resources. Purse737GP9SP4CP, contract complete. Both remain inside dye-house awaiting Halvar.
+
+## Discussion of possible latent abilities
+Lucio told Vane he does not necessarily consider awakening in another body with one's own shadow a bad thing, and suspects Vane has hidden supernatural abilities. Vane said perhaps, he has never tried to find out; recalled hearing and seeing while outside his original body but being unheard, and that this changed when he took Edrin's body. Asked Vortex whether he always had his abilities or something happened to him. No new power demonstrated or confirmed. Vane knows alias Vortex only. Halvar still away, no return or new time jump. Purse737GP9SP4CP, resources unchanged. Await player answer.
