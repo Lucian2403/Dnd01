@@ -63,3 +63,6 @@ Vane considered the offer and replied: "Bring him here alive, then. I'll pay you
 He looked toward the door, adding: "He'll recognise me. I'd like to see what he has to say when he realises who he's talking to."
 His final exact line: "Don't tell him you're working for me. And leave his hands intact. I may need him to open something at the archive."
 The existing item-recovery contract (500GP, 250 paid, 250 due) stands. The extra 50GP is an offered bonus for live delivery; Lucio has not explicitly accepted the new terms or acted on them yet. No bonus paid. No departure or in-world time passage while saving. Vane stands in the dye-house; Lucio remains human, purse487GP9SP4CP, shard safely in pocket, Vane has vault key. Await Lucio's next action.
+
+## Archive directions — latest exchange
+Lucio asks Vane where the archive is. Vane says on Copper Street beyond Third Court, broad staircase in front, lower gate at back. From dye-house follow street past tanneries to old cooperage, narrow uphill street beside it leads to lower gate at top. Directions are Vane's testimony, not yet independently traversed. Lucio remains in dye-house, no reply to live-capture bonus or departure yet, no resource or time change beyond speech.
