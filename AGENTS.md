@@ -7,4 +7,4 @@ Use current state for live facts; historical checkpoints do not reset it. Look u
 Keep the workflow invisible during play except necessary concise tool updates. Do not print checklists in the story. No automatic background-save claims.
 Latest explicit player directions override this file. The-Pall is a separate project.
 
-Handoff 2026-11-24: see [CONTINUE](CONTINUE.md) and [latest checkpoint](checkpoints/2026-11-24-halvar-advance-paid.md). Live stop: Lucio in human form, dye-house, 250GP advance collected, purse487GP9SP4CP. Vane requests Halvar alive for extra50GP, last line about concealing employer and leaving hands intact. No Lucio reply or departure. Older quarry and uncollected advance snapshots historical. No time passes during saving.
+Handoff 2026-11-25: [CONTINUE](CONTINUE.md) and [live state](state/current.md) govern. Lucio now at canal wharf shortly after midnight; apparent Halvar ~60ft away; await action. Previous [dye-house checkpoint](checkpoints/2026-11-24-halvar-advance-paid.md) is historical.
