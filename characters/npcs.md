@@ -1,7 +1,7 @@
 # NPC records
 
 ## Current scene — canal wharf (2026-11-25)
-- Apparent Halvar: lean man, dark oilskin coat, small brass lamp, walking quickly; emerged downhill beside cooperage, turned onto wharf shortly after midnight, ~60ft from Lucio, no visible escort, hasn't looked toward Lucio. Identity and concealed items not verified. No evidence he knows Lucio.
+- Halvar (self-identified, alive): voluntarily surrendered sealed slate and brass ledger key, sheathed dirk, lamp on ground. Lucio seized both arms, Halvar attempted to pull free then stopped; offers 30GP at his home for release, unverified. Does not know employer identity. No injury or report to watch yet.
 - Vane last known at dye-house, agreed to wait; preceding encounter below.
 
 ## Historical preceding scene — Halvar advance paid (2026-11-24)
@@ -114,3 +114,6 @@ Lucio verified and collected both pouches (250 genuine GP). Vane seated, holds h
 
 ## Delivery rendezvous agreed
 Lucio agrees to meet at this dye-house after the Halvar intercept. Vane agrees to wait here, stands and moves chair away from bench. Says Halvar should leave archive soon and that Lucio may keep anything else Halvar carries; Vane requires only sealed slate and ledger key. Advance250GP received, balance250GP due on delivery; purse487GP9SP4CP. No departure, further time advance or resource change.
+
+## Slate and key collected; Halvar held — latest stop
+Lucio approached, accepted both offered items (sealed slate and brass ledger key), put them away, then suddenly seized Halvar by both arms with a firm grip. Halvar tried to pull free; Lucio tightened grip and Halvar stopped struggling. Lucio told him unnamed employer also wants him, but that part optional and extra paid. Halvar protested that Lucio already had what he came for, glanced toward archive lane, asked how much extra, offered thirty gold pieces at his home if released and said he would take Lucio there himself. Offer/testimony unverified; no new agreement or money collected. Halvar alive, hands intact, currently physically held by both arms, not tied; dirk sheathed, lamp remains on ground. No injury or formal combat condition adjudicated, no supernatural power used. Lucio possesses sealed slate and brass ledger key, contents/function not tested; Vane identity undisclosed, delivery pending. Base remaining250GP, additional50GP for live delivery outstanding; cash487GP9SP4CP and all other resources unchanged. Await player's reply/action.
