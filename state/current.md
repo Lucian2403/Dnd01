@@ -2,7 +2,7 @@
 Last synchronized 2026-11-25. Real date is not campaign time.
 [CONTINUE](../CONTINUE.md) · [Latest checkpoint](../checkpoints/2026-11-24-halvar-advance-paid.md) · [Full dye-house history](../sessions/006-vane-halvar-advance.md) · [DM operating requirements](../rules/dm-operating.md) · [dialogue](../rules/dialogue.md) · [corrections](../rules/correction-log.md) · [player](../characters/player.md) · [powers](shadow-powers.md) · [NPCs](../characters/npcs.md) · [ledger](ledger.md).
 
-**PAUSED:** Shortly after midnight inside dye-house. Lucio released Halvar, who chose to investigate and requested ledger key. Vane handed key to Halvar; no departure yet. Slate remains Vane’s. Contract complete, fully paid550GP, purse787GP9SP4CP. Await player action.
+**PAUSED:** Shortly after midnight inside dye-house. Halvar voluntarily left with ledger key and lamp to retrieve death register, estimates half an hour; not returned. Lucio seated, Vane seated opposite with opened slate, door closed. Vane asks "Do you think Edrin could still be alive somewhere?" Await Lucio response. Contract fully paid550GP, purse787GP9SP4CP.
 
 ## Resources
 **787GP9SP4CP** (78794CP). Halvar contract complete and fully paid: 250GP advance + 250GP base balance + 50GP live delivery bonus, all collected.
@@ -61,3 +61,6 @@ After naming Merat and explaining burial crew examinations, Halvar confirmed bra
 
 ## Halvar released; chooses to investigate
 Lucio explicitly told Halvar he is no longer his prisoner and can do what he wants, asked whether curious about bodies/examinations. Halvar says yes, knew Edrin for years through court employment, is concerned by death certificates he prepared without seeing bodies. He stands and asks Vane for the brass ledger key to read the death register himself. Vane gives him the key. Halvar has not yet departed; no new task assigned to Lucio. Slate remains Vane's, ledger key now Halvar's with Vane's consent; lamp on bench, door closed. Contract completed and fully paid550GP, Lucio's purse787GP9SP4CP, resources unchanged. Await next player action.
+
+## Halvar leaves for death register
+Lucio explicitly sat and observed, with no further speech. Halvar retrieved lamp, said night clerk knows him and expects entry without much trouble; estimated half an hour and said he would bring register to dye-house. Halvar departed voluntarily with brass ledger key and lamp. Vane closed door, reread six names on opened slate, said he knows two men on it and one retains authority to order his arrest. Vane sat opposite Lucio and asked "Do you think Edrin could still be alive somewhere?" This is current pause, no elapsed half hour or return yet. No new names disclosed, no independent confirmation of Halvar's access or Vane's claims. Lucio seated human inside dye-house, contract complete, purse787GP9SP4CP, resources unchanged.
