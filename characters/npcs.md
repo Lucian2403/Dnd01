@@ -1,6 +1,9 @@
 # NPC records
 
-## Current scene — canal wharf (2026-11-25)
+## Current scene — returned to dye-house (2026-11-25)
+- Vane opened door, saw Halvar alive, questioned him about physician requesting second needle and claimed he was on table. Halvar recognized apparent Edrin's face, asked who told Vane, then asked Lucio who this man is. Halvar's wife age34 claimed, objects to involving her; no verification. No item handover or payout.
+
+## Historical canal wharf scene (2026-11-25)
 - Halvar (self-identified, alive): voluntarily surrendered sealed slate and brass ledger key, sheathed dirk, lamp on ground. Lucio seized both arms, Halvar attempted to pull free then stopped; offers 30GP at his home for release, unverified. Does not know employer identity. No injury or report to watch yet.
 - Vane last known at dye-house, agreed to wait; preceding encounter below.
 
@@ -117,3 +120,6 @@ Lucio agrees to meet at this dye-house after the Halvar intercept. Vane agrees t
 
 ## Slate and key collected; Halvar held — latest stop
 Lucio approached, accepted both offered items (sealed slate and brass ledger key), put them away, then suddenly seized Halvar by both arms with a firm grip. Halvar tried to pull free; Lucio tightened grip and Halvar stopped struggling. Lucio told him unnamed employer also wants him, but that part optional and extra paid. Halvar protested that Lucio already had what he came for, glanced toward archive lane, asked how much extra, offered thirty gold pieces at his home if released and said he would take Lucio there himself. Offer/testimony unverified; no new agreement or money collected. Halvar alive, hands intact, currently physically held by both arms, not tied; dirk sheathed, lamp remains on ground. No injury or formal combat condition adjudicated, no supernatural power used. Lucio possesses sealed slate and brass ledger key, contents/function not tested; Vane identity undisclosed, delivery pending. Base remaining250GP, additional50GP for live delivery outstanding; cash487GP9SP4CP and all other resources unchanged. Await player's reply/action.
+
+## Return to dye-house — Halvar recognizes borrowed face
+Lucio instructed Halvar to walk with him, asked whether wife beautiful/young. Halvar walked beside him, said wife thirty-four, asked why, insisted she has nothing to do with this and should be left out. Lucio agreed she was unrelated to job but made an insinuation about his desires, continued walking toward dye-house. Halvar ceased discussing wife, held lamp low and remained silent for rest of walk. They reached dye-house a few minutes later. Vane opened door upon footsteps, saw Halvar alive and said "Good. You brought him alive." Halvar raised lamp, recognized/addressed apparent Edrin ("Edrin?"). Vane shook head, asked whether he remembered evening physician requested second needle. Halvar lowered lamp and asked who told him about it; Vane replied "I was on the table, Halvar." Halvar stared, turned to Lucio, asked "Who the hell is this man?" Current stop at open dye-house door, Lucio and Halvar at threshold/outside, Vane at door; no unchosen entry, item handover or payment. Halvar has recognized Edrin's visible face and heard Vane's claim; does not yet accept Vane's identity or confirm entire story. Halvar alive, hands intact, lamp in hand, dirk sheathed, not tied. Lucio still holds sealed slate and brass ledger key; 250GP base balance and 50GP live delivery bonus not yet collected, live arrival accomplished. Cash487GP9SP4CP, resources unchanged. Await Lucio action.
