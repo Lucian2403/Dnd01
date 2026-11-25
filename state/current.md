@@ -2,10 +2,10 @@
 Last synchronized 2026-11-25. Real date is not campaign time.
 [CONTINUE](../CONTINUE.md) · [Latest checkpoint](../checkpoints/2026-11-24-halvar-advance-paid.md) · [Full dye-house history](../sessions/006-vane-halvar-advance.md) · [DM operating requirements](../rules/dm-operating.md) · [dialogue](../rules/dialogue.md) · [corrections](../rules/correction-log.md) · [player](../characters/player.md) · [powers](shadow-powers.md) · [NPCs](../characters/npcs.md) · [ledger](ledger.md).
 
-**PAUSED:** Shortly after midnight inside dye-house. Halvar away seeking death register. Lucio and Vane seated. Lucio says he would kill someone occupying his body; Vane accepts Edrin has same right and says "I hope he’s alive. But I hope he never finds me." Vane does not know Lucio’s name. Await player action. Contract fully paid550GP, purse787GP9SP4CP.
+**PAUSED:** Shortly after midnight in dye-house. Lucio returned 50GP to Vane as thanks and expressed intention to help. Vane accepted and asked Lucio his name, which he does not know. Halvar away seeking register. Current purse737GP9SP4CP; contract fully paid550GP, voluntary gift50GP. Await Lucio reply.
 
 ## Resources
-**787GP9SP4CP** (78794CP). Halvar contract complete and fully paid: 250GP advance + 250GP base balance + 50GP live delivery bonus, all collected.
+**737GP9SP4CP** (73794CP). Halvar contract complete and fully paid: 250GP advance + 250GP base balance + 50GP live delivery bonus, all collected.
 Human Ranger3 Gloom Stalker, HP25/25, AC15, slots3/3, Lucky1/2, free Mark2/2, Dreadful Strike2/2, Inspiration1, HD3d10 unspent, 16arrows, two full skins (water/ale), studded leather, bow, light swords and previous equipment. No concentration/condition or new resource use/rest reported. Black mirror shard safely in pocket; vault key remains Vane's. Established shadow powers unchanged: no invented cost/cap.
 
 ## Contract and target
@@ -70,3 +70,6 @@ Lucio told Vane he thinks Edrin might still exist without his body, with a small
 
 ## Vane's fear of Edrin — corrected name knowledge
 Lucio joked about Vane sleeping with Edrin's wife and her appearance. Vane did not laugh, recalled wife and two children, said she would believe him her husband and he had already taken enough from Edrin. Lucio continued teasing; Vane asked what Lucio would do if he met someone living in his own body. Lucio answered "I would kill him." Vane said Edrin then has every right to kill him, looked down at hands, and said "I hope he's alive. But I hope he never finds me." Earlier generated version erroneously addressed Lucio by name. Player queried this OOC; recorded encounters contain no established disclosure or acquisition of Lucio's name by Vane. Retcon only the name use; Vane does not know Lucio's name unless established later. No time jump or Halvar return. Lucio and Vane remain seated inside dye-house; Halvar away with lamp/key. Resources unchanged, purse787GP9SP4CP.
+
+## Lucio returns live-delivery bonus and offers aid
+Lucio told Vane he likes him despite considering him naive and stupid, expressed intention to aid him and gladness at meeting him, tossed back 50 gold crowns from the Halvar live-delivery bonus as thanks. Vane smiled, remarked that a man calling him naive and stupid had just returned fifty gold to his employer, thanked Lucio and said he could use help especially if they find someone who knows how to do what Merat allegedly did. Vane gathered the 50GP and asked "By the way, what's your name?" Vane does not yet know Lucio's name. Lucio's gift is voluntary, not a change to the completed contract or new paid agreement. Balance 78794CP - 5000CP = 73794CP (**737GP9SP4CP**). Original fee550GP paid in full, net500GP after gift. Halvar still away with key/lamp seeking register. No other changes, no time jump. Await player reply.
