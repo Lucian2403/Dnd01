@@ -2,7 +2,7 @@
 Last synchronized 2026-11-25. Real date is not campaign time.
 [CONTINUE](../CONTINUE.md) · [Latest checkpoint](../checkpoints/2026-11-24-halvar-advance-paid.md) · [Full dye-house history](../sessions/006-vane-halvar-advance.md) · [DM operating requirements](../rules/dm-operating.md) · [dialogue](../rules/dialogue.md) · [corrections](../rules/correction-log.md) · [player](../characters/player.md) · [powers](shadow-powers.md) · [NPCs](../characters/npcs.md) · [ledger](ledger.md).
 
-**PAUSED:** Shortly after midnight at canal wharf behind salt warehouses, Lucio human, facing the man matching Halvar’s description at conversational distance. Man raised brass lamp, glanced at bow, stepped half a step back and asked "Do I know you?" His right hand remains beneath coat. Identity/items not confirmed. Await Lucio’s action. Vane last known at dye-house.
+**PAUSED:** Shortly after midnight at canal wharf behind salt warehouses. Lucio human, facing self-identified Halvar at conversational distance. Halvar has backed away another step, holds lamp, right hand beneath coat, offers slate but asks to retain ledger key, claiming it was issued in his name and must return before morning. Last line: "Would the slate be enough for whoever’s paying you?" No items transferred, no attack. Await Lucio response. Vane last known at dye-house.
 
 ## Resources
 **487GP9SP4CP** (48794CP), 250GP collected Halvar advance (80+170 genuine gold crowns, same GP denomination); 250GP base balance due. Bonus 50GP offered, not yet accepted/earned/paid.
@@ -31,3 +31,6 @@ Vane told Lucio Halvar should pass just after midnight unless delayed; roughly f
 
 ## First face-to-face encounter on wharf
 Lucio explicitly stepped out from warehouse corner and approached apparent Halvar until facing him. The man slowed, stopped, raised brass lamp to see Lucio's face, briefly looked at bow, took half-step back and asked "Do I know you?" Right hand remains beneath coat; exact object, if any, held there unknown. Face-to-face conversation range; exact distance not specified. Identity not confirmed, no attack or supernatural demonstration, no resource changes. Await Lucio's reply/action.
+
+## Halvar confirms identity and offers slate
+Lucio told apparent Halvar he is hired muscle and asked about ledger; man asked who hired him, said if magistrate sent him he should have waited at gate, asked which ledger. Lucio refused to name employer, requested sealed slate and ledger key under coat, raised hand slightly in requesting gesture, said please. Man confirmed "Yes, I'm Halvar. Keep your distance." Took another step back, glanced along empty wharf, offered slate but claimed key issued in his name and must be returned before morning; asked if slate alone sufficient. Right hand still beneath coat; no weapon or items shown, no transfer yet. Key obligation testimony only. Vane involvement not disclosed. No attack, resources unchanged. Await Lucio response.
