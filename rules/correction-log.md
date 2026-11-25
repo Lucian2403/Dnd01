@@ -30,3 +30,6 @@ Older CAMPAIGN resume/world positions and parallel witness rows still described 
 
 ## 2026-11-25 — simpler logical flow
 Player reports recent Vane/Halvar interrogation is difficult to follow: too many new details introduced before their connections are clear and speech feels twisted. Use plain spoken English, one concrete issue at a time, short causal explanations, clear speaker attribution, and fewer new facts per exchange. Preserve established evidence and uncertainty; do not simplify by changing canon. Develop disturbing subject matter through clear causes, not complicated phrasing or constant revelations. Applies to future scenes and recaps; no prior canon rewritten.
+
+## 2026-11-25 — NPC name knowledge
+Vane addressed Lucio by name without an established introduction or other acquisition. Corrected line removes name. Track NPC knowledge independently from DM knowledge; do not assume NPCs know player name, prior deeds or private facts unless shown or explicitly established.
