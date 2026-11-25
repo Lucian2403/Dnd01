@@ -22,3 +22,6 @@ Vane's reports: mid-rank magister's archivist runner, lean and quick on narrow s
 
 ## Older matters
 Yasin restored alive, 40GP paid; Adil entirely dead. Previous quarry and dye-house checkpoints historical. Nabil, court papers, Water Office, White Sink shard origin, watch relationships unresolved; no proven shared conspiracy. [Open threads](open-threads.md). No automatic pursuit/penalty or next action.
+
+## Archive directions — latest exchange
+Lucio asks Vane where the archive is. Vane says on Copper Street beyond Third Court, broad staircase in front, lower gate at back. From dye-house follow street past tanneries to old cooperage, narrow uphill street beside it leads to lower gate at top. Directions are Vane's testimony, not yet independently traversed. Lucio remains in dye-house, no reply to live-capture bonus or departure yet, no resource or time change beyond speech.
