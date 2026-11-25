@@ -27,3 +27,6 @@ Player asked why mirror was recommended: retained curved black glass showed Adil
 
 ## Handoff audit — 2026-11-23
 Older CAMPAIGN resume/world positions and parallel witness rows still described Harun scene or older countinghouse. Corrected live pointers, witness knowledge and stale current wording; preserved historical records. Adil entirely destroyed by declared player action, not an unresolved captive. No automatic new pursuit, revived remnant or future resurrection hook. Snapshot creation does not advance play.
+
+## 2026-11-25 — simpler logical flow
+Player reports recent Vane/Halvar interrogation is difficult to follow: too many new details introduced before their connections are clear and speech feels twisted. Use plain spoken English, one concrete issue at a time, short causal explanations, clear speaker attribution, and fewer new facts per exchange. Preserve established evidence and uncertainty; do not simplify by changing canon. Develop disturbing subject matter through clear causes, not complicated phrasing or constant revelations. Applies to future scenes and recaps; no prior canon rewritten.
