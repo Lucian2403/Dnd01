@@ -2,7 +2,7 @@
 Last synchronized 2026-11-25. Real date is not campaign time.
 [CONTINUE](../CONTINUE.md) · [Latest checkpoint](../checkpoints/2026-11-24-halvar-advance-paid.md) · [Full dye-house history](../sessions/006-vane-halvar-advance.md) · [DM operating requirements](../rules/dm-operating.md) · [dialogue](../rules/dialogue.md) · [corrections](../rules/correction-log.md) · [player](../characters/player.md) · [powers](shadow-powers.md) · [NPCs](../characters/npcs.md) · [ledger](ledger.md).
 
-**PAUSED:** After midnight inside dye-house. Lucio prioritises uncovering operation over saving Marren. Vane agrees on investigation, Halvar intends to warn other five after Marren is taken downstairs, accepting risk of Merat discovering register access. No plan accepted or action taken yet. Await Lucio. Purse737GP9SP4CP.
+**PAUSED:** Approximately 1 AM inside dye-house. Halvar says Marren's examination begins at 8 AM, beneath Copper Street court archive, accessed by staircase inside lower entrance; Marren first of six. Halvar offers to show room before arrival. All three present, no departure or plan acceptance yet. Purse737GP9SP4CP. Await Lucio action.
 
 ## Resources
 **737GP9SP4CP** (73794CP). Halvar contract complete and fully paid: 250GP advance + 250GP base balance + 50GP live delivery bonus, all collected.
@@ -91,3 +91,6 @@ After Lucio suggested Vane's murder was planned, Halvar compared slate names to 
 
 ## Disagreement over Marren and other five
 Lucio said he is not a good guy, called Vane and Halvar morons, asked whether they want to save one person or discover purpose of whole operation. Vane prioritised discovering what Merat is doing and ending his life in hiding. Halvar said Lucio and Vane can watch Marren but he intends to warn other five; Vane said Merat would know register had been opened; Halvar acknowledged Merat might know it was him and accepted that risk. Halvar holds brass ledger key. Halvar clarifies he intends to wait until Marren is taken downstairs before warning the other five, giving observation a chance. This is Halvar's proposal/intention, not action completed or a plan accepted by Lucio. All three inside dye-house, register on bench, no departures or resource changes. Purse737GP9SP4CP. Await player action.
+
+## Examination time and location
+Lucio asked when and where the examination will occur. Halvar checked slate, said 8 in morning, about seven hours from now (in-world time approximately 1 AM). Location beneath court archive on Copper Street, staircase inside lower entrance, Merat has two rooms below. Vane confirmed this is where he was taken. Halvar said Edric Marren is first of six and offered to show Lucio examination room before arrival. No departure, plan acceptance or resource expenditure yet. All three remain in dye-house; purse737GP9SP4CP. Await Lucio action.
