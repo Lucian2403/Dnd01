@@ -2,7 +2,7 @@
 Last synchronized 2026-11-25. Real date is not campaign time.
 [CONTINUE](../CONTINUE.md) · [Latest checkpoint](../checkpoints/2026-11-24-halvar-advance-paid.md) · [Full dye-house history](../sessions/006-vane-halvar-advance.md) · [DM operating requirements](../rules/dm-operating.md) · [dialogue](../rules/dialogue.md) · [corrections](../rules/correction-log.md) · [player](../characters/player.md) · [powers](shadow-powers.md) · [NPCs](../characters/npcs.md) · [ledger](ledger.md).
 
-**PAUSED:** Approximately 1 AM inside dye-house. Halvar says Marren's examination begins at 8 AM, beneath Copper Street court archive, accessed by staircase inside lower entrance; Marren first of six. Halvar offers to show room before arrival. All three present, no departure or plan acceptance yet. Purse737GP9SP4CP. Await Lucio action.
+**PAUSED:** Approximately 1 AM inside dye-house. Halvar explains he arranges examinations, prepares orders, informs guards, and has attended four examinations to record deaths; admits suspecting wrongdoing but continuing for fear of losing job. Claims unverified. Marren scheduled 8 AM beneath archive. All three present. Await Lucio. Purse737GP9SP4CP.
 
 ## Resources
 **737GP9SP4CP** (73794CP). Halvar contract complete and fully paid: 250GP advance + 250GP base balance + 50GP live delivery bonus, all collected.
@@ -94,3 +94,6 @@ Lucio said he is not a good guy, called Vane and Halvar morons, asked whether th
 
 ## Examination time and location
 Lucio asked when and where the examination will occur. Halvar checked slate, said 8 in morning, about seven hours from now (in-world time approximately 1 AM). Location beneath court archive on Copper Street, staircase inside lower entrance, Merat has two rooms below. Vane confirmed this is where he was taken. Halvar said Edric Marren is first of six and offered to show Lucio examination room before arrival. No departure, plan acceptance or resource expenditure yet. All three remain in dye-house; purse737GP9SP4CP. Await Lucio action.
+
+## Halvar explains his role
+Lucio asked Halvar his role in the operation. Halvar said he arranges examinations, prepares orders, informs guards, and ensures subjects are brought downstairs. Vane recalled Halvar was present at his examination; Halvar said Merat asked him to stay and record time of death. Asked how many times he had done that, Halvar answered four, claimed he thought Merat was treating seriously ill prisoners, recognized Vane was neither prisoner nor ill, and admitted continuing his job despite suspecting wrongdoing because he feared losing it. These are Halvar's claims, not independent proof; four refers to recording deaths during examinations, not all examinations or all death certificates. No new plan, departure or resource change. Approximately 1 AM in dye-house; Marren examination scheduled 8 AM. Purse737GP9SP4CP. Await player action.
