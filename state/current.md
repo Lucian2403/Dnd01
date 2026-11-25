@@ -2,7 +2,7 @@
 Last synchronized 2026-11-25. Real date is not campaign time.
 [CONTINUE](../CONTINUE.md) · [Latest checkpoint](../checkpoints/2026-11-24-halvar-advance-paid.md) · [Full dye-house history](../sessions/006-vane-halvar-advance.md) · [DM operating requirements](../rules/dm-operating.md) · [dialogue](../rules/dialogue.md) · [corrections](../rules/correction-log.md) · [player](../characters/player.md) · [powers](shadow-powers.md) · [NPCs](../characters/npcs.md) · [ledger](ledger.md).
 
-**PAUSED:** Shortly after midnight inside dye-house, Halvar away seeking death register. Lucio suggests Vane may have hidden abilities. Vane asks Vortex whether he always had his powers or something happened to him. No new abilities confirmed. Await player reply. Purse737GP9SP4CP, contract complete.
+**PAUSED:** Shortly after midnight inside dye-house. Halvar away seeking register. Lucio described his shadow abilities to Vane, who asks whether he could still speak and move if removed from Edrin’s body, explicitly not requesting demonstration. Await Lucio answer. No new power use, purse737GP9SP4CP.
 
 ## Resources
 **737GP9SP4CP** (73794CP). Halvar contract complete and fully paid: 250GP advance + 250GP base balance + 50GP live delivery bonus, all collected.
@@ -79,3 +79,6 @@ Lucio told Vane, "You can name me Vortex... yeah.. Vortex... I like it." Vane re
 
 ## Discussion of possible latent abilities
 Lucio told Vane he does not necessarily consider awakening in another body with one's own shadow a bad thing, and suspects Vane has hidden supernatural abilities. Vane said perhaps, he has never tried to find out; recalled hearing and seeing while outside his original body but being unheard, and that this changed when he took Edrin's body. Asked Vortex whether he always had his abilities or something happened to him. No new power demonstrated or confirmed. Vane knows alias Vortex only. Halvar still away, no return or new time jump. Purse737GP9SP4CP, resources unchanged. Await player answer.
+
+## Lucio describes shadow abilities to Vane
+Lucio told Vane he worked hard for his powers and speculated his desire for shadow and the dark side of his profession brought him the gift. Vane contrasted this with his own lack of choice, said he could see Edrin's displaced shadow even in complete darkness and has not seen another like it since; asked whether Lucio sees shadows of dead people or only living ones. Lucio claimed he can see, hear, grab, crush and remove shadows from bodies and called himself the ultimate form of a shadow, all shadows servants to him. Vane asked if Lucio removed his shadow from Edrin's body, would he still be able to speak and move as before, explicitly said he was not asking for a demonstration. These are player statements and NPC testimony, not a new demonstration or mechanical ruling. No power used or resource change. Vane knows alias Vortex only; Halvar still away. Await player response. Purse737GP9SP4CP.
