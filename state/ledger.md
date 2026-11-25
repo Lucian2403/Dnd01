@@ -1,7 +1,7 @@
 # Live money and resource ledger
 
 ## Current balance and contract (2026-11-24)
-**787GP9SP4CP (78794CP)**. 1GP=10SP=100CP; Veyran gold crowns confirmed same denomination as GP.
+**737GP9SP4CP** (73794CP). 1GP=10SP=100CP; Veyran gold crowns confirmed same denomination as GP.
 | Transaction | Change CP | Balance CP |
 |---|---:|---:|
 | Quarry checkpoint after Yasin return | — | 23794 |
@@ -82,3 +82,6 @@ Lucio explicitly entered dye-house with Vane and Halvar and handed over the seal
 
 ## Final payment collected; Halvar's wrist-mark testimony
 Lucio declined to count tendered coins, remarked to Halvar that he should be proud of the price. Halvar said he'd rather be worth less and go home. Vane asked Halvar to sit and sought examination order issuer; Halvar remained standing, said he recognized Edrin's face and had signed his wages. Lucio then explicitly took all 300GP (250 base balance + 50 live bonus) and chose to remain observing discussion. Cash48794CP+30000CP=78794CP, **787GP9SP4CP**. Contract completed, 550GP total paid. Vane retains slate and ledger key. Vane sat, asked Halvar about deceased transfer-office Vane; Halvar confirmed he remembered Vane and attended physician examination but did not personally see him die, was told death occurred. Vane exposed two marks inner left wrist; Halvar raised lamp to inspect, placed lamp on bench, reached toward wrist but stopped before contact. Halvar asked source, Vane said he hoped Halvar could tell him. Halvar looked confused and said "But Edrin had those before we sent him to collect Vane's body." This is new Halvar testimony, not independently proven; contradicts earlier Vane speculation that current marks were caused by needles administered to original body. Halvar knows Edrin as wage recipient; has not accepted Vane identity. Halvar alive, standing, hands intact, dirk sheathed; Vane sitting, Lucio present human, lamp on bench, door closed. No other resource changes. Await Lucio's action or continued observation.
+
+## Lucio returns live-delivery bonus and offers aid
+Lucio told Vane he likes him despite considering him naive and stupid, expressed intention to aid him and gladness at meeting him, tossed back 50 gold crowns from the Halvar live-delivery bonus as thanks. Vane smiled, remarked that a man calling him naive and stupid had just returned fifty gold to his employer, thanked Lucio and said he could use help especially if they find someone who knows how to do what Merat allegedly did. Vane gathered the 50GP and asked "By the way, what's your name?" Vane does not yet know Lucio's name. Lucio's gift is voluntary, not a change to the completed contract or new paid agreement. Balance 78794CP - 5000CP = 73794CP (**737GP9SP4CP**). Original fee550GP paid in full, net500GP after gift. Halvar still away with key/lamp seeking register. No other changes, no time jump. Await player reply.
