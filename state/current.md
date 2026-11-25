@@ -2,7 +2,7 @@
 Last synchronized 2026-11-25. Real date is not campaign time.
 [CONTINUE](../CONTINUE.md) · [Latest checkpoint](../checkpoints/2026-11-24-halvar-advance-paid.md) · [Full dye-house history](../sessions/006-vane-halvar-advance.md) · [DM operating requirements](../rules/dm-operating.md) · [dialogue](../rules/dialogue.md) · [corrections](../rules/correction-log.md) · [player](../characters/player.md) · [powers](shadow-powers.md) · [NPCs](../characters/npcs.md) · [ledger](ledger.md).
 
-**PAUSED:** Approximately 1 AM inside dye-house. Halvar explains he arranges examinations, prepares orders, informs guards, and has attended four examinations to record deaths; admits suspecting wrongdoing but continuing for fear of losing job. Claims unverified. Marren scheduled 8 AM beneath archive. All three present. Await Lucio. Purse737GP9SP4CP.
+**PAUSED:** Approximately 1 AM inside dye-house. Vane proposed meeting here 7 AM, Halvar showing examination room, Lucio observing hidden and following any displaced Marren shadow, Vane waiting outside archive, Halvar warning other five after Marren taken downstairs, regroup here afterwards. Marren examination 8 AM. Lucio has not accepted or departed. Await player action. Purse737GP9SP4CP.
 
 ## Resources
 **737GP9SP4CP** (73794CP). Halvar contract complete and fully paid: 250GP advance + 250GP base balance + 50GP live delivery bonus, all collected.
@@ -97,3 +97,6 @@ Lucio asked when and where the examination will occur. Halvar checked slate, sai
 
 ## Halvar explains his role
 Lucio asked Halvar his role in the operation. Halvar said he arranges examinations, prepares orders, informs guards, and ensures subjects are brought downstairs. Vane recalled Halvar was present at his examination; Halvar said Merat asked him to stay and record time of death. Asked how many times he had done that, Halvar answered four, claimed he thought Merat was treating seriously ill prisoners, recognized Vane was neither prisoner nor ill, and admitted continuing his job despite suspecting wrongdoing because he feared losing it. These are Halvar's claims, not independent proof; four refers to recording deaths during examinations, not all examinations or all death certificates. No new plan, departure or resource change. Approximately 1 AM in dye-house; Marren examination scheduled 8 AM. Purse737GP9SP4CP. Await player action.
+
+## Vane proposes morning observation plan
+Lucio asked Vane to share his whole plan for the morning. Vane proposed meeting at dye-house at 7 AM, Halvar showing them examination room beneath archive, Lucio finding a hiding place inside, Vane waiting outside building because Merat knows Edrin's face. Halvar to continue ordinary duties and warn other five once Marren is downstairs; Halvar nodded. Vane asked Lucio to observe Merat's examination and if Marren dies and shadow leaves body, follow it to learn whether deliberate transfer occurs, then regroup at dye-house. Plan is Vane's proposal only, Lucio has not accepted, moved, rested or agreed to any additional contract. Approximately 1 AM, all three present, examination scheduled 8 AM. Purse737GP9SP4CP, resources unchanged. Await player decision.
