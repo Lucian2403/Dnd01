@@ -2,7 +2,7 @@
 Last synchronized 2026-11-25. Real date is not campaign time.
 [CONTINUE](../CONTINUE.md) · [Latest checkpoint](../checkpoints/2026-11-24-halvar-advance-paid.md) · [Full dye-house history](../sessions/006-vane-halvar-advance.md) · [DM operating requirements](../rules/dm-operating.md) · [dialogue](../rules/dialogue.md) · [corrections](../rules/correction-log.md) · [player](../characters/player.md) · [powers](shadow-powers.md) · [NPCs](../characters/npcs.md) · [ledger](ledger.md).
 
-**PAUSED:** Shortly after midnight in dye-house. Lucio returned 50GP to Vane as thanks and expressed intention to help. Vane accepted and asked Lucio his name, which he does not know. Halvar away seeking register. Current purse737GP9SP4CP; contract fully paid550GP, voluntary gift50GP. Await Lucio reply.
+**PAUSED:** Shortly after midnight inside dye-house. Lucio gave Vane alias Vortex, which Vane accepted; true name unknown to Vane. Halvar still away seeking death register, did not hear alias. Purse737GP9SP4CP, completed contract. Await Lucio action.
 
 ## Resources
 **737GP9SP4CP** (73794CP). Halvar contract complete and fully paid: 250GP advance + 250GP base balance + 50GP live delivery bonus, all collected.
@@ -73,3 +73,6 @@ Lucio joked about Vane sleeping with Edrin's wife and her appearance. Vane did n
 
 ## Lucio returns live-delivery bonus and offers aid
 Lucio told Vane he likes him despite considering him naive and stupid, expressed intention to aid him and gladness at meeting him, tossed back 50 gold crowns from the Halvar live-delivery bonus as thanks. Vane smiled, remarked that a man calling him naive and stupid had just returned fifty gold to his employer, thanked Lucio and said he could use help especially if they find someone who knows how to do what Merat allegedly did. Vane gathered the 50GP and asked "By the way, what's your name?" Vane does not yet know Lucio's name. Lucio's gift is voluntary, not a change to the completed contract or new paid agreement. Balance 78794CP - 5000CP = 73794CP (**737GP9SP4CP**). Original fee550GP paid in full, net500GP after gift. Halvar still away with key/lamp seeking register. No other changes, no time jump. Await player reply.
+
+## Alias disclosed to Vane
+Lucio told Vane, "You can name me Vortex... yeah.. Vortex... I like it." Vane repeated Vortex, remarked that he takes it Lucio's parents did not choose it, put the gifted coins in his pouch and accepted the name. Vane now knows the alias Vortex only; he does not know the true name Lucio. Halvar absent and did not hear the exchange. No change to actual character name or resources. Purse737GP9SP4CP, contract complete. Both remain inside dye-house awaiting Halvar.
